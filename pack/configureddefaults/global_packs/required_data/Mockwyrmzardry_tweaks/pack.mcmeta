@@ -12,7 +12,7 @@
             {
                 "namespace": "pipez",
                 "path": "recipes/*"
-            },
+            }
         ]
     }	
 }
