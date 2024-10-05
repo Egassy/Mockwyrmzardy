@@ -1,0 +1,13 @@
+name = "Mockwyrmzardry"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9c4db2327c13657956fe5b432a4e793867114f05e587079128bb2a5f359e0296"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

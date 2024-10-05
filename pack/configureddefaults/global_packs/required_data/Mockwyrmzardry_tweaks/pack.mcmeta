@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"description": "Mockwyrmzardry tweaks"
+	},
+    "filter": {
+        "block": [
+            {
+                "namespace": "projecte",
+                "path": "recipes/*"
+            }
+        ]
+    }	
+}

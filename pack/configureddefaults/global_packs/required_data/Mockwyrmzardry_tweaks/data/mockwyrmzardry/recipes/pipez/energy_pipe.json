@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "RCR",
+    "III"
+  ],
+  "key": {
+    "C": {
+      "item": "thermal:rf_coil",
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "pipez:energy_pipe",
+    "count": 16
+  }
+}
