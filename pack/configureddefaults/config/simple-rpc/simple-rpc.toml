@@ -1,0 +1,227 @@
+
+#General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
+[general]
+	#The Application ID of the Discord App to use
+	applicationID = 762726289341677668
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
+	configScreen = true
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Internal Version Number. NO TOUCHY!
+	version = 18
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Hatting the mockwyrm..."
+	#The second line of text under the app name
+	state = "Loading Mockwyrmzardry"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "The opposite..."
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is sitting in the main menu"
+	#The seconds line of text under the app name
+	state = "Hasn't joined the server yet"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "...of Wyrmzardry"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is about to join"
+	#The second line of text under the app name
+	state = "In the multiplayer menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Joining **The Server**"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is going insane"
+	#The second line of text under the app name
+	state = "Why would anyone be here"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["mclogonew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "No really"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "What's the point"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% either has bad internet, or you're really fast"
+	#The second line of text under the app name
+	state = "Joining the Mockwyrmzardry server"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Rawr"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Currently In %world%. Testing I guess?"
+	#The second line of text under the app name
+	state = ":sad:"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Poor mockwyrm, all alone..."
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Playing on %servername% with %players% players"
+	#The second line of text under the app name
+	state = "Playing on the server"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "This guy is the face I guess"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Going crazy"
+	#The second line of text under the app name
+	state = "There's no Realms for this"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["mclogonew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Cuckoo, cuckoo, cuckoo"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "Jonkler"
+	#The buttons to display on Discord
+	buttons = []
+
+#Fallback event for disabled events
+[generic]
+	#The first line of text under the app name
+	description = "Playing Mockwyrmzardy"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "\"Lightly\" modded %mcver%"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#Custom Config Variables that you can use
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = true
+	#Your custom variables to add
+	variables = []
+
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
+	enabled = true
+
+	[[dimension_overrides.dimensions]]
+		name = "overworld"
+		description = "%player% is in The Overworld"
+		state = ""
+		largeImageKey = ["overworld"]
+		largeImageText = "In the Overworld"
+		smallImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+		smallImageText = "%mods% mods installed"
+		buttons = []
+
+	[[dimension_overrides.dimensions]]
+		name = "the_nether"
+		description = "%player% is in The Nether"
+		state = ""
+		largeImageKey = ["nether"]
+		largeImageText = "In the Nether"
+		smallImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+		smallImageText = "%mods% mods installed"
+		buttons = []
+
+	[[dimension_overrides.dimensions]]
+		name = "the_end"
+		description = "%player% is in The End"
+		state = ""
+		largeImageKey = ["end"]
+		largeImageText = "In the End"
+		smallImageKey = ["https://raw.githubusercontent.com/Egassy/Mockwyrmzardy/refs/heads/main/Mockwyrmzard.png"]
+		smallImageText = "%mods% mods installed"
+		buttons = []
+

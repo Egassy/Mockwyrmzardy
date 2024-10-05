@@ -1,0 +1,114 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "tag": "minecraft:music_discs"
+    },
+    "E": {
+      "item": "manyideas_core:end_block"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    }
+  },
+  "pattern": [
+    "E",
+    "M",
+    "F"
+  ],
+  "result": {
+    "count": 1,
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "0b",
+	  "Album": {
+		"Title": "Stellaris (Original Game Soundtrack)",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/sets/stellaris-original-game"
+	  },
+      "LabelColor": {
+        "Secondary": 16383998,
+        "Primary": 16383998
+      },
+      "Music": [
+		{
+        "Title": "Alpha Centauri (From Stellaris Original Game Soundtrack)",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/alpha-centauri-from-stellaris"},
+		{
+        "Title": "Battle For Supremacy (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/battle-for-supremacy-from"},
+		{
+        "Title": "Deep Space Travels (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/deep-space-travels-from"},
+		{
+        "Title": "Distant Nebula (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/distant-nebula-from-stellaris"},
+		{
+        "Title": "Faster Than Light (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/faster-than-light-from-1"},
+		{
+        "Title": "Genesis (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/genesis-from-stellaris"},
+		{
+        "Title": "Gravitational Constant (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/gravitational-constant-from"},
+		{
+        "Title": "Infinite Being (From Stellaris Original Game Soundtrack) (Additional Take) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/infinite-being-from-"},
+		{
+        "Title": "In Search Of Life (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/in-search-of-life-from"},
+		{
+        "Title": "Journey Beyond the Galaxy (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/journey-beyond-the-galaxy-from"},
+		{
+        "Title": "Luminescence (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/luminescence-from-stellaris"},
+		{
+        "Title": "Pillars of Creation (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/pillars-of-creation-from"},
+		{
+        "Title": "Riding The Solar Wind (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/riding-the-solar-wind-from"},
+		{
+        "Title": "Sigmatauri (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/sigmatauri-from-stellaris"},
+		{
+        "Title": "Spatial Lullaby (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/spatial-lullaby-from-stellaris"},
+		{
+        "Title": "Stellaris Suite: Creation and Beyond (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/stellaris-suite-creation-and"},
+		{
+        "Title": "The Birth Of a Star (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/the-birth-of-a-star-from"},
+		{
+        "Title": "The Celestial City (From Stellaris Original Game Soundtrack) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/the-celestial-city-from"},
+		{
+        "Title": "To The End Of The Galaxy (From Stellaris Original Game Soundtrack) (Additional Take) [feat. Andreas Waldetoft]",
+        "Author": "Paradox Interactive",
+        "Url": "https://soundcloud.com/paradoxinteractive-music/to-the-end-of-the-galaxy-from"}
+      ],
+      "DiscColor": 1908001
+  }
+  }
+}

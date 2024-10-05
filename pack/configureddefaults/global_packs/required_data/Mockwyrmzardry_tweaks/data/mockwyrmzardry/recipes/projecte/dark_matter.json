@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "F": {
+      "item": "dimdoors:stable_fabric"
+    }
+  },
+  "pattern": [
+    " F ",
+    "FEF",
+    " F "
+  ],
+  "result": {
+    "item": "projecte:dark_matter"
+  },
+  "show_notification": true
+}
