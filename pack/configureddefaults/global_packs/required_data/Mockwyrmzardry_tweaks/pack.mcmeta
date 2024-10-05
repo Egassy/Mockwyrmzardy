@@ -8,10 +8,6 @@
             {
                 "namespace": "projecte",
                 "path": "recipes/*"
-            },
-            {
-                "namespace": "pipez",
-                "path": "recipes/*"
             }
         ]
     }	
