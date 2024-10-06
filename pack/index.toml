@@ -1449,6 +1449,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "ade45d5dddc8e73e80ab27771e2d1ef535a26c0223d9517dc7ec5ad70ffceecd"
+metafile = true
+
+[[files]]
 file = "mods/signtastic.pw.toml"
 hash = "aae699c9a933d113ebd8fa664824abc2529de33d583853789ec735dc0e56ef6a"
 metafile = true
@@ -1486,6 +1491,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "c0fdbfb5995309ae73fe8c22c5d4921a9e08af1f74aed3ac5a6096e0b919ddbe"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "356c0e1179bba1cb2ac731b3f36210b7181ce9389158b1ab90ddd2e50c99b8a5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "88a320cf3f48a2973bd7fc4d6e3d65a746d14a548185496b043ecf260e82e75e"
 metafile = true
 
 [[files]]
