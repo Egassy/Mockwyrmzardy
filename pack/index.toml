@@ -1106,7 +1106,7 @@ hash = "63ec4c24dccf39454c897de00cd0734f65f2a117a6016fd3d69b39d885b00356"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "042e13327ee50d8976ca3646ea001d68440db71269f156ebc810f266a0bb839c"
+hash = "277795d5fb477c007134c0de923e1aab635c4e249f20e9bcd783b13ac6585903"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
