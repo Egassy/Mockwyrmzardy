@@ -585,6 +585,10 @@ file = "configureddefaults/defaultconfigs/framedblocks-server.toml"
 hash = "f31398656a46b17b9c1191143d46bd89710b967a3a8e28e666fc8ad2c58f376e"
 
 [[files]]
+file = "configureddefaults/defaultconfigs/goprone-server.toml"
+hash = "5fa0739b18506aebf4cdb864e4161563161312fef51d8ae306b21fe02c9b7b11"
+
+[[files]]
 file = "configureddefaults/defaultconfigs/gravestone-server.toml"
 hash = "61636894b66e830111d29538f30b177793ab58a6a2fbdfb6a43b1afb840ca01d"
 
@@ -618,7 +622,7 @@ hash = "a4b12b0249477731591cf187ee8aab8ebeb0c5396da5f2714c860c9aa4bef3c2"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/pipez-server.toml"
-hash = "aaffae10bef4541ed49f941cfd9f6241f197d02b5f284db04496b55e8f6b19ed"
+hash = "88fd3bbb95922f72412939a347fa53a621cef90d1ccddc1d38ade2e2d16e25d2"
 
 [[files]]
 file = "configureddefaults/defaultconfigs/reactive-server.toml"
@@ -650,7 +654,7 @@ hash = "4836b2aaa37a59a4f112f7604fffaf565d41b781e072f3c5c07861312fa2b8c9"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "91117cb389c8577edc8a131319f1df0604aa9e68d7bf5bcb0afc10429ce1b2f7"
+hash = "3dd923800bb2fca27eb3e96b043ae4e5abc73629d3a76c63311898c8d55f1fc3"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/honour_for_all_disk.json"
@@ -1098,7 +1102,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/pack.mcmeta"
-hash = "2ea74b0a14ab3818ad7bf9c785f77be351276578412c78de0ad60c425d099d1a"
+hash = "63ec4c24dccf39454c897de00cd0734f65f2a117a6016fd3d69b39d885b00356"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -1452,6 +1456,11 @@ metafile = true
 [[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "e65149b540173bc6484b34f3115f0f2bd185528bcc47bf517c83f6f1d9102bb3"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "7a6a826476de86652a103bbfbac933915b33cc221f0f63e8ff0c73a693efdddd"
 metafile = true
 
 [[files]]

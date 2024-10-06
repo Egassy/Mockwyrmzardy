@@ -8,7 +8,36 @@
             {
                 "namespace": "projecte",
                 "path": "recipes/*"
+            },
+			{
+                "namespace": "pipez",
+                "path": "recipes/*"
+            },
+			{
+                "namespace": "storagedrawers",
+                "path": "recipes/remote_group_upgrade.json"
+            },
+			{
+                "namespace": "storagedrawers",
+                "path": "recipes/remote_upgrade.json"
+            },
+			{
+                "namespace": "xnet",
+                "path": "recipes/wireless_router.json"
+            },
+			{
+                "namespace": "xnet",
+                "path": "recipes/antenna.json"
+            },
+			{
+                "namespace": "xnet",
+                "path": "recipes/antenna_base.json"
+            },
+			{
+                "namespace": "xnet",
+                "path": "recipes/antenna_dish.json"
             }
+			
         ]
     }	
 }

@@ -56,6 +56,12 @@
 	"pipez:advanced_upgrade",
 	"pipez:ultimate_upgrade",
 	"pipez:infinity_upgrade",
-	"pipez:filter_destination_tool"
+	"pipez:filter_destination_tool",
+	"storagedrawers:remote_upgrade",
+	"storagedrawers:remote_group_upgrade",
+	"xnet:wireless_router",
+	"xnet:antenna",
+	"xnet:antenna_base",
+	"xnet:antenna_dish"
   ]
 }
