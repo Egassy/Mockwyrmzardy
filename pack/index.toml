@@ -1218,11 +1218,6 @@ hash = "7a32f316749dfde854f06311991b7a371a6cb4f24e75c1b6f65cf554f81d5d1d"
 metafile = true
 
 [[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
-metafile = true
-
-[[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
 hash = "1fd8d2e651fdff2a23af63f2b7cd91cba08ad358a82b49606a84a600ef1e101d"
 metafile = true
@@ -1275,6 +1270,11 @@ metafile = true
 [[files]]
 file = "mods/goety.pw.toml"
 hash = "3cfdeafd2b86bc2464ef3bbef06edeaaa3214c1004b98efe8cc86d096e1fa9c7"
+metafile = true
+
+[[files]]
+file = "mods/goprone.pw.toml"
+hash = "d13945ad3b6653db6c65c9f3654a9b1b440823bfca3b6fe55a49e3a21dfcad18"
 metafile = true
 
 [[files]]
