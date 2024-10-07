@@ -505,6 +505,14 @@ file = "configureddefaults/config/simple-rpc/simple-rpc.toml"
 hash = "04ee955c29ce83ce95da584a251d66d564ebf014b256e0b59c27ceb1d0aeee80"
 
 [[files]]
+file = "configureddefaults/config/supplementaries-client.toml"
+hash = "ef0987439438cdd110e3d940c15c3a50fd9d602bf0963aebb34308700e7217e8"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-common.toml"
+hash = "85279543f15998db93b477492a735ff1f1a49cc08f16694a4f3956c039996831"
+
+[[files]]
 file = "configureddefaults/config/thermal-client.toml"
 hash = "36436c2d8e9cc35f54f353529d30f300e54818368f32227e2246d22744152ba2"
 
@@ -1106,7 +1114,7 @@ hash = "63ec4c24dccf39454c897de00cd0734f65f2a117a6016fd3d69b39d885b00356"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "277795d5fb477c007134c0de923e1aab635c4e249f20e9bcd783b13ac6585903"
+hash = "f8e2282e3156b63f8e4e77eed5abfdaf8144f748065b360df1050f02c9f2c061"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
