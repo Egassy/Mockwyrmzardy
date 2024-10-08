@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "carpet",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "D": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WDW",
+    "WWW"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:light_gray_carpet"
+  },
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wool",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "D": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WDW",
+    "WWW"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:black_wool"
+  },
+}

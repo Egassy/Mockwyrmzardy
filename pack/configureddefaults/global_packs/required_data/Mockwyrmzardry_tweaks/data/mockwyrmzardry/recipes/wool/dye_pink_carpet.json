@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "carpet",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "D": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WDW",
+    "WWW"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:pink_carpet"
+  },
+}

@@ -665,12 +665,20 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "3dd923800bb2fca27eb3e96b043ae4e5abc73629d3a76c63311898c8d55f1fc3"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/manyideas_core/recipes/item/saws/saw_stone___crafting.json"
+hash = "e61479c8e09785b134429dedae5e983aacfc5564f5be8c5cf178a5499c23d945"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/gravel_flint.json"
+hash = "e323e331db7318f2deb2b63c09d8cd30606887bfcabe2f9a294e0780f3ed9939"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/honour_for_all_disk.json"
 hash = "fd7a9d9cfa748e6d5f2f96eed29fb5afced8e3b5db55c1e2d842ea0a4f133531"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/pipez/energy_pipe.json"
-hash = "12c5e6b992cb5848252c62c70ea473f046addf718357d71382d0d95740c9807d"
+hash = "b7be1228683b50aa589f9004593730a1acd9b81aea53dfc42131a343b6a44ce6"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/pipez/fluid_pipe.json"
@@ -1103,6 +1111,134 @@ hash = "4387f144efcfd511a29b2882855db8fa086cfeccdbedc9497d012c1bbd30bd24"
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/stellaris_disc.json"
 hash = "599c9028708a8972fd066423906f58f44cf8ec1e7a1ec09cd160b4bfa7639bd2"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_black_carpet.json"
+hash = "5aa68a258115508cd854f10d3bb625aded65e01664b9f14137d03cd56fdcde06"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_black_wool.json"
+hash = "9253653e8e67dc2ce676147ae21584233268f83d058a61a312c9741d2f053da9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_blue_carpet.json"
+hash = "92dde262462d6ce4eb5dda14a59f801b5311788654288034e9660d0460a98e68"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_blue_wool.json"
+hash = "c59ae88b2c3ddc2c0673d2b87075b16ed4beb49ca12e5a92939f2df65bdc6a9c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_brown_carpet.json"
+hash = "a3db410b3a4c48ee12901275f13d045cb392ba569bf39eca3140e453855b3ef3"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_brown_wool.json"
+hash = "bad422d2982da3a4145d10d483bcaaa28381fb8b06ddb56283fc820b6194e628"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_cyan_carpet.json"
+hash = "1d454e268b0bc1f1d21bd9a385937a33087b515f9184f4924a0650dcceb4ab05"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_cyan_wool.json"
+hash = "0dcf36e3bdda397db9a1ed053d0e84c1deea1b963e3f975977c91b360894d133"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_gray_carpet.json"
+hash = "e1a6520fd41e51d92a434e48fcc0d19149fca90e0b892c9e51b441cb8dbe6b38"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_gray_wool.json"
+hash = "b7fb57d04b538f85cb18ee49a1703a9edab033b22f6d0dbdcf9074abb4a62095"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_green_carpet.json"
+hash = "0611baf3e721646494197dfef5613cebcdf3f429aeb11c8581ba1f99d769e61d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_green_wool.json"
+hash = "05b0ed5b6454d41971836d9e79acb50dcb3a14fb33e7b20d929d81c77cd02f77"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_light_blue_carpet.json"
+hash = "0729279931999323fbffabbb78b7cf12988153e4a7d96b5ef78f24b74ef9b77a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_light_blue_wool.json"
+hash = "493b3665ac3a05668f8666cf8917d2bcb0696138bc3ba788903d828acf154804"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_light_gray_carpet.json"
+hash = "556760dd7072cdc7f6fd6f2d5a863fc3d536316242328a59d17c75c9740114b0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_light_gray_wool.json"
+hash = "d34eedf94c802f4cba2681b1ac9c160da28ba6c11377ac2ab41397a0011d0dc3"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_lime_carpet.json"
+hash = "00febcc610df326f43b413d37741a5b2a1bc8f4f22354e636c9fc38b8099f4a0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_lime_wool.json"
+hash = "fb643ee00fc0608129ab170ebb759fc8b4404195529bd04630210676a6cdebba"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_magenta_carpet.json"
+hash = "e18fc430f1770df5dbdd6f1354a302181b3d6b3981628948d0a6aa6ab15eebde"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_magenta_wool.json"
+hash = "9b1909e465798e34cb5de9c42261dcfc58909ee6a26888a2296d198342ef438d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_orange_carpet.json"
+hash = "4b2631a1ba01008444ab53f1406818b3e07ca085e995608c8c76f649cf51308e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_orange_wool.json"
+hash = "1564abd338c0223a2667aead6975b66ac8b5a95b916467703732cc2196b80989"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_pink_carpet.json"
+hash = "df094003db24ba9e97fae0d6634a3f704aa75e8de012bf4360c2ef3c7ad4b8ae"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_pink_wool.json"
+hash = "12a78e130ba68830fac6489bfaa2b748af7f09da3175d64a29742eb20855ebfc"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_purple_carpet.json"
+hash = "fc3dd16b9a4b5d894e66684f93783f87466fe07ed68836eb43c8ab44a554a9d2"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_purple_wool.json"
+hash = "2e747117b4fcc57c6a8d2d2fab65f6950c3cf714654a7285343ea06dcd058dbe"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_red_carpet.json"
+hash = "9df3fb0ad7efb11170cca964c91c6521bbbb5e237936565e75ed05b473665aef"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_red_wool.json"
+hash = "ed35f01e353cb4e6cd85b753941a806f8e30d07ad330a02e5bc60037650b1e19"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_white_carpet.json"
+hash = "169db31eb162835fc4bfe14afeb45a8eb3efcd1ab05d5a6564c3128bbaec87b4"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_white_wool.json"
+hash = "ff3fcb8760b008ae24274daa81612a76194777dde6baafa8342ad9abb3bea088"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_yellow_carpet.json"
+hash = "987b389e5f7376f3bfb01904d2d2986c45e442b64040be53b384bfeae507043d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_yellow_wool.json"
+hash = "87e0e8917a01353d8f2a3506ea4ecf6fd929bc696973a3cdb9041c9413612dd3"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/tags/items/.txt"

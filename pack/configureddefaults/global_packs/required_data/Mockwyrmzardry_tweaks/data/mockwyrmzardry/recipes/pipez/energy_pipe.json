@@ -7,8 +7,8 @@
   ],
   "key": {
     "C": {
-      "item": "thermal:rf_coil",
-    },
+      "item": "thermal:rf_coil"
+		},
     "I": {
       "tag": "forge:ingots/iron"
     },
