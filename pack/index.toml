@@ -665,6 +665,18 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "3dd923800bb2fca27eb3e96b043ae4e5abc73629d3a76c63311898c8d55f1fc3"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/rift_remover.json"
+hash = "bea0e89733011c2ccf55ef2125af251ff4b528effcc51538a3f812a6ce69c7ac"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/rift_signature.json"
+hash = "529cd298de35c78d92da90390cd103ff3e7d351caf7c168733d9905b682f4219"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/rift_stabilizer.json"
+hash = "7baff33498a2110d95cd2aa0e5f0973b3d4b565c988543c88ba4f673a2b46b9e"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/manyideas_core/recipes/item/saws/saw_stone___crafting.json"
 hash = "e61479c8e09785b134429dedae5e983aacfc5564f5be8c5cf178a5499c23d945"
 
