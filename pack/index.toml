@@ -1258,7 +1258,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/pack.mcmeta"
-hash = "63ec4c24dccf39454c897de00cd0734f65f2a117a6016fd3d69b39d885b00356"
+hash = "5efbb6346e82802715b7ea31b8804c3bc9c9f086c6ab5f2f3164cf39bfe2b284"
 
 [[files]]
 file = "configureddefaults/options.txt"

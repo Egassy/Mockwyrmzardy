@@ -15,27 +15,27 @@
             },
 			{
                 "namespace": "storagedrawers",
-                "path": "recipes/remote_group_upgrade.json"
+                "path": "recipes/remote_group_upgrade"
             },
 			{
                 "namespace": "storagedrawers",
-                "path": "recipes/remote_upgrade.json"
+                "path": "recipes/remote_upgrade"
             },
 			{
                 "namespace": "xnet",
-                "path": "recipes/wireless_router.json"
+                "path": "recipes/wireless_router"
             },
 			{
                 "namespace": "xnet",
-                "path": "recipes/antenna.json"
+                "path": "recipes/antenna"
             },
 			{
                 "namespace": "xnet",
-                "path": "recipes/antenna_base.json"
+                "path": "recipes/antenna_base"
             },
 			{
                 "namespace": "xnet",
-                "path": "recipes/antenna_dish.json"
+                "path": "recipes/antenna_dish"
             }
 			
         ]
