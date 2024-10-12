@@ -1125,6 +1125,458 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "599c9028708a8972fd066423906f58f44cf8ec1e7a1ec09cd160b4bfa7639bd2"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_full_drawers_1.json"
+hash = "3747e5cfc2e11000f8f7e18437b01594e71aff034c1f98c0ddfc14ed3f391686"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_full_drawers_2.json"
+hash = "e8fa6e16ead0156efd6eb367811c952fee446c420546f5031a1843349b3ffb7c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_full_drawers_4.json"
+hash = "f57721acc1f2cbc03fc74f96d84f4c02b857916c682923165391854d85699961"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_half_drawers_1.json"
+hash = "4420e9537912fc239318ce03a88773cbce133b9802208bc3fe797abcb7b9baf1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_half_drawers_2.json"
+hash = "8ec674a3169638b8457a470703eb1c22a4ad55a91bde451e41a9f479893d9948"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_half_drawers_4.json"
+hash = "809e0a7f6243e02a530be5627e4e2a4874ca4e38b540383ae973ba5d8b982efe"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/acacia_trim.json"
+hash = "3174869c2db432bc6f3944fa1e329818f91f7dcfe93907b80406737d462eb174"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/add_detached_upgrade.json"
+hash = "40a3dc8247e8045ca5126185115c76be1cc9d16bb5577e7000c5db18f78cc8b5"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/add_upgrade.json"
+hash = "3f9ed7243996eebd3f75f648c6c20b75f8e5013e8be07f1d72ffc3080a0b1a2e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/balanced_fill_upgrade.json"
+hash = "4ee9e00ea010ce034375127f874fcde7457b2e1c36fbdba127feebebd764aff1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_full_drawers_1.json"
+hash = "9065d2eef298dc0550a0ee5e66722a29a6e37fa5bdbf1b842644457c8c7d93b7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_full_drawers_2.json"
+hash = "c6f730c4205bca9f038787ea628b87f0854f650c185068d4d7af0481480786ed"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_full_drawers_4.json"
+hash = "387ef474ca634d3960e9d6bae8f16fc27ed0d1ac54d20ba6e388be5a2f5e47de"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_half_drawers_1.json"
+hash = "ec1ad120189e36e405722117d8ab587eabf9b60d0e49a7cd26bc0316ceaabf89"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_half_drawers_2.json"
+hash = "e8d295cd0264c09d61b51f4ab9989b0d45e3aa115602008ebd14eed59828bc9e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_half_drawers_4.json"
+hash = "2af443fbc5014aef8937d3b5bf66c9b519480faeedbcbecb28b3af0af80d2d5e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/bamboo_trim.json"
+hash = "91d26c8cc6a3c6a845484b387ba42445cb7495397ffd434c23473d97e7ecb6fe"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_full_drawers_1.json"
+hash = "a2fe495ee0d9feef59da9732bc4b7326b3dc639efd8747e1b12e85f238636f79"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_full_drawers_2.json"
+hash = "fe0913ee3428629afa9ee077edb278ba50ba9dd1b92db7860c300f0e3723a17f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_full_drawers_4.json"
+hash = "af8cf5c6c02e90cd801901bf074f85f779851b9a16c49e3263ff6cbecfb5557c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_half_drawers_1.json"
+hash = "9977bd82c0c96aea6f055c41780250634061ce9e527951b0dca931cc50276de0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_half_drawers_2.json"
+hash = "2d8d093f5aa5634f66e9450f914380de66c5d69d5a95968b6a1b8f5b39ba38d5"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_half_drawers_4.json"
+hash = "678cef6eb114b1fd2c0c5d3c92f07c5348f11237189685fecda86eaae2953df9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/birch_trim.json"
+hash = "c773deb467499891445bb00a1767fce4df74d7233109f2c701e5886ab2c80098"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_full_drawers_1.json"
+hash = "f0e0f150c2d056097d8b752bc44a19f57db48e8e1b10a9e2f0125e975ec222ce"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_full_drawers_2.json"
+hash = "d827ca2674d616fd4f9d7d5a814b0731705c8cf82f6b6b1fdd5956d4052a78b3"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_full_drawers_4.json"
+hash = "4bfc977f5241ae46c82e405e4bb4ea14b582d67f2fa4a21d30c757839dcab898"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_half_drawers_1.json"
+hash = "c748a09451f9331cea9817f997482ca3d38280abbc6e7d818091d5d3b6ae3453"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_half_drawers_2.json"
+hash = "c4b34384347c3b3f17ca4f6be3d4dd8be38ef96deca1347b51462cec26cbada6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_half_drawers_4.json"
+hash = "b6e2c875bb372beb3bc91baef8d7f7b7b5cdfe89e80ea0a67c64f22a2dbc036e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/cherry_trim.json"
+hash = "d5068268aca1fdcbfa1a02b4844ed3b663eb7a29892458e7615c161f3c52c48d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/compacting_drawers_2.json"
+hash = "c6e59b2a45d85c2d25b74c1631b65610e3c1931de45c78d140b1952c3a1b1639"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/compacting_drawers_3.json"
+hash = "a17fb9bb6e19232a0c36ed55e4d57d7949a9bdf1de4af2c69c114b33404a4382"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/compacting_half_drawers_2.json"
+hash = "419d2d4a0431afffbcb426f2725e8b606a0a31ecf381a2a479c2fd4d7b4bfb0a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/compacting_half_drawers_3.json"
+hash = "a15da7d7806fb6ab6fdc15ee4c28f7cde44c3d9b9618e7f5471b09e74d763fa6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/concealment_key.json"
+hash = "67d18aeb2650388ef084af4978bfc7b1bb644a27f21d31450ed2b0c92fd59060"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/controller.json"
+hash = "333fcb29cf88539d94c6d79fe92e42e32d64b16a6fea5026672399d101f296e7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/controller_slave.json"
+hash = "ee6a7979fe5bc92d66c619ee5a3980b9e7714fd98dc1391ae3041f671a86e257"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_full_drawers_1.json"
+hash = "85769add48d4f0a7d2c8c9b989c3babdc5758fb45511f03f8529b213822b2c41"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_full_drawers_2.json"
+hash = "b3a154c5d9793b790acc7abeb522e40461e5df7d98f6ef8b1106d7c1d48540e6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_full_drawers_4.json"
+hash = "440f15b14fc2072a3f1e38a5cc707a8faa5b0d8d43d8ba519a3523536ffbee78"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_half_drawers_1.json"
+hash = "7354f4dd368c4184fb9406cd76f51703d0e93d7d3a5fcda3d17fc9eb7045291c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_half_drawers_2.json"
+hash = "43e9ffa4456ba811bca6dd251e29c530852514fdb697be6539d6fe98551d3bd0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_half_drawers_4.json"
+hash = "c3d7385f46b6952d51d2bd53c3b96a0b7f7885a9953c2301831c3844ed44bf7e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/crimson_trim.json"
+hash = "3018e63fca9a732540d2856a58fe5b01367f5da74110bd8e60dac0974af9ebcc"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_full_drawers_1.json"
+hash = "a8d542499faadbcbc42d3cce1726aae7ec511e3a721d3d4105ad061018c67950"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_full_drawers_2.json"
+hash = "07bc1771d56a77bf41be8195b360c54b1b7b3d6ab00ee1ccaa71b88a1c39d6fb"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_full_drawers_4.json"
+hash = "d51683caba60ebe4a81147914260b1fdbdf18156a45bf7434b4bcb305a89d4cd"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_half_drawers_1.json"
+hash = "da1c3639ea60afcec1339fcd560d9bad582f786404ca46af8a8fe223c015f2a7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_half_drawers_2.json"
+hash = "85ed4e7beb530c8adcfe42325c5b8271de828054a0da745335c32f8eb713059d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_half_drawers_4.json"
+hash = "42f5ddf59224120c3ff1b05f2a5c7098f0ab2ec793b047586f0a790b41a42a45"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/dark_oak_trim.json"
+hash = "e50c3c55ac1dbb178098f607c8dba14f27d4f7d583dd52e2097485753f991812"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/detached_drawer.json"
+hash = "5a591a04d1c6085754a9e899dc03916e1962430d869c1baba2a36671aa1eccad"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/diamond_storage_upgrade.json"
+hash = "042dffe6af6a883ecde8b6013d0fe9147cb33f6949529856a66e7468bc09369d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/drawer_key.json"
+hash = "fb7916e73a8a94228a7a43cd1edc045a261fb5009decc1001d7af9e5703eadbe"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/drawer_puller.json"
+hash = "a706076550bce911f021fb9a5f2da08fb0ae6eec4e84fea6a5120eb5d2cc3171"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/emerald_storage_upgrade.json"
+hash = "fe9499c5824bad6f8b4a49f8ec018572d152b58b1fab947f6fb0df54e376a102"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/fill_level_upgrade.json"
+hash = "266180f6f0cfcfdb611cfdebdc6deb812a69857c2ba805b4acbc72946b7481a7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/framing_table.json"
+hash = "1ac988d0fc61315c5e69fd90894c69bcd415ad3ec064cfa9f865a44f310cafb9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/gold_storage_upgrade.json"
+hash = "147e4e7691ba218ed2c23889abf62848ea6144f7579c4bf61260fe9a21d29fdd"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/illumination_upgrade.json"
+hash = "6e7f03e1b1682aa93061d3a64c05d2f4fdc396616d1d6afcbc82c61a02fe6f54"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/iron_storage_upgrade.json"
+hash = "0ea124462a4c2f4acff85194d0ece6bd4029e13506657b3f2fd2fe6277eef95b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_full_drawers_1.json"
+hash = "64bcdbebd92351b9d17be63f5e41366064409e2cfc5d8378b6dab02a56926fd6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_full_drawers_2.json"
+hash = "f39a06088142fafa9689df49d5aa94a0502c99e4777fa1fc5d8482ad455dbc58"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_full_drawers_4.json"
+hash = "f713a6564f4f42f41868bc01b339c22046119c980b39ab352c2a164bab65c393"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_half_drawers_1.json"
+hash = "27487810f24715beeb491167f2053f094c96d81fdba6a36a47e26390744ffa47"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_half_drawers_2.json"
+hash = "bbae3d0c8eb26f97e26f615b61076768f397fb56ea5f068ada893d61dc7ad93b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_half_drawers_4.json"
+hash = "e7819aa5dedbcc4de0f4f562d9c9523fb5a73774f1d5be9ae7e913dc2c5861f1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/jungle_trim.json"
+hash = "8c3623d40e80840fbf09ada07672780eb3759bc6c5d00c1676df74638ad9f0e2"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/keybutton_concealment.json"
+hash = "66072147d70e9a948b1c42178b82828c82672d17a0cd8bce337620edf991b164"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/keybutton_drawer.json"
+hash = "c910faa7b689b3104b90354b1a63f303ce5feb48cf22dac1c43d95e32f3b58d2"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/keybutton_quantify.json"
+hash = "bb710b23723451395f26adb43101d8c3ebf13c6585f1f799e782337c4b48db71"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/keyring.json"
+hash = "e15da636047244d7ab2751c120955088e03e7cb33231adf0db9d7153b807c066"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_full_drawers_1.json"
+hash = "adde74ab951543e349986dfc2f95f631734ef1249077c0840584d39472f663a7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_full_drawers_2.json"
+hash = "a2b37a5f36abe99607510e940dec9c5b829c9e29207ce708717ea2ed85896f1b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_full_drawers_4.json"
+hash = "6babb2766b1ecde32843ba852f2bc90994ae77f3911e7238420c27074224f9fb"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_half_drawers_1.json"
+hash = "9dd8d4e62fd68cddbb9b48d0ebaff5a108d69f481834fc47fc7632923419b03a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_half_drawers_2.json"
+hash = "5b21a9f5b3aa545c168cf403fe1ce1b490f5b3a67e5cde349325015cb02e5e6d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_half_drawers_4.json"
+hash = "04b3b4bb3beea3223e3a4d30720c7bae68c39eb37219dcbc4011f91400c09bd0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/mangrove_trim.json"
+hash = "f84eda659bc78d8d2fbf232ba7a76ef2481dd02f7a5772475504f004a36712d5"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/max_redstone_upgrade.json"
+hash = "27f42b5bdbde94b6cd8a5619714957d36fcf8e47dee08ded9850b3c817fda01d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/min_redstone_upgrade.json"
+hash = "93cda8abe6401c7f74654a9a3268779a3b873c5289cfdd8b61dc901125691d55"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_full_drawers_1.json"
+hash = "9fdf962349338d7d5485a9390aa4fac284de8df781258e3bc55f557a0ac6c365"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_full_drawers_2.json"
+hash = "8544c4241598a4aae262ceee9a73b1a937043622c4b07482edcee035f26e10d9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_full_drawers_4.json"
+hash = "462b2b1eb2437424ec450a60990ee30be654084848ff272bddc7b345f690ed88"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_half_drawers_1.json"
+hash = "2a3930b79ce529a7c00c0c497418381ecb290dcbbeacb537aa69ceb97bacfc3d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_half_drawers_2.json"
+hash = "0cebaafe9b773160a85161e3718fd8c139c7544a6cceeed40dec50198fe4c37b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_half_drawers_4.json"
+hash = "97c8a3c4d8cda0b7ef82cccda29cc01c92c7e71da6067e97896b8864f64e0718"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/oak_trim.json"
+hash = "402d3cc77a1455bb2141a7cde81eb0420ecb0efa9179d7b543c2e1b4f76f726e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/obsidian_storage_upgrade.json"
+hash = "a137179c4e62adbc8e478440d36813f102feeb7aade49685969299e0901d255f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/one_stack_upgrade.json"
+hash = "888665e7482b739e0647549e0e1b1098b94cbdfaea87555c3cae5d24e9bfd90c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/personal_key.json"
+hash = "e5d6e6e0dadd1e59b515280cfeb483cfb48ef6e0819f2c69c3f3883a33ce916f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/personal_key_cofh.json"
+hash = "5610347a7cb16a5659fd31b1cd60b6e90f2697b5bec8c88d4d24707f8baa4995"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/portability_upgrade.json"
+hash = "92c3343c1179e4a1ec6e4f1fb30a658bc7facdae2b1ccad924d4fd80b566fb75"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/priority_key.json"
+hash = "ac5a544bf60eab48d32ffd2ea7f2284ad254115b48fc258086ed73dd6d37641b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/quantify_key.json"
+hash = "9f97190fe642eb9df46deafa711506d85dcfce412301ac3677b58eb314b86b05"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/redstone_upgrade.json"
+hash = "33d6d9733509c00b85a31106c52b46d3ce20df1eaebc73c58127be98550604be"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_full_drawers_1.json"
+hash = "418d2c203ad63bfca3144aab2f8d1785f305c134ea279f296095a81ec008051e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_full_drawers_2.json"
+hash = "8c8b3ab0440bece244995cc1eca6a37fd25a880d74f6f6827410e2010e8ecf84"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_full_drawers_4.json"
+hash = "d3b4dbe8fe27cdefacb6a1f24fba6dbe1aff40f0234fbece0c7757c6faf7c931"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_half_drawers_1.json"
+hash = "1df290b1c50b580d7e166b9d0e4a25b080a5ef7152e72478015e3f66bc04f5b4"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_half_drawers_2.json"
+hash = "0a08e82d2309ccdcef91b022f33c51926d53291373209f4d8b099e8c89e3a0f6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_half_drawers_4.json"
+hash = "70cb497ca9cf2abc6c1072516d60a43ef4ad7d31391bde7181d22ae61dc422b8"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/spruce_trim.json"
+hash = "09417af4ec92eb588cd2ec0269b64e313b955f4f45eb831a68e7fdbe3469b2c9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/upgrade_template.json"
+hash = "1133a633ea5447e9f5c6d9c0fd1ca4ab261b9b4b26670fc4a46cd860f68c368c"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/void_upgrade.json"
+hash = "74eedf5147fb2e00dd80affd11ce9c7e80746059627c5aa44a17cb07868c8e76"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_full_drawers_1.json"
+hash = "dc937ed846c643d841d9d7e8c945d192ab346252b2b2f2161583407e4b952f6f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_full_drawers_2.json"
+hash = "000a6a9ee12e18d47c835766ebf7000da5151c73af34677df5d29a6b463bd37a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_full_drawers_4.json"
+hash = "ee4db529ccb529b5f1044344dd6de663551af9e0663ee72673fe24875611c046"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_half_drawers_1.json"
+hash = "e400a416fbc9162b31b6aeb5171cef6af4a846941c8188f32df3fb99e491d7fb"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_half_drawers_2.json"
+hash = "793912569879f5caf741b7d6ea7caae42fb5759ea6456115c9daab80619ba836"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_half_drawers_4.json"
+hash = "540e3dd4ab52cf97e0422de0b15316418748654c57fef2a8568b6e8719ad7c76"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_trim.json"
+hash = "7124c54b9c9ba892c190737c1d20f2e6d78bfce211e0268400cf4a8d64135dae"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_black_carpet.json"
 hash = "5aa68a258115508cd854f10d3bb625aded65e01664b9f14137d03cd56fdcde06"
 
@@ -1253,12 +1705,148 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "87e0e8917a01353d8f2a3506ea4ecf6fd929bc696973a3cdb9041c9413612dd3"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_blue.json"
+hash = "dd6ea0686d32c4a6394b151a2d6706498168eac33a09b20943fe7575273956d0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_blue_dye.json"
+hash = "ff3b3c721f3538b61d3a0f99f183dc9fe5b9a92a5dd72006c58385728a78ecc6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_green.json"
+hash = "8f2ce00f996f8e84ef05134737343c3d9a06bb585a1e178ce6c150f30a1474b6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_green_dye.json"
+hash = "799481214ad51a6dece374808d19dc7d41eb1cce375d9452e9a20d171c8ba5eb"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_red.json"
+hash = "dade0090e12ea34d992b9c883e1a0f6f866d96c2e11bf69dd47d8041be3a4b5a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_red_dye.json"
+hash = "bb673619595bd0004b478108afff22b0fa94666847ae8fca5e5e8ca5f6cfe06f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_routing.json"
+hash = "a29e75fe5d734232c465757136df04626dd566f05fdaf069b3e861d8b96cbd44"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_yellow.json"
+hash = "ad34381e0726db38dc1093ed598e96cfeb2eb926cd6148638f08b72747ac5833"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/advanced_connector_yellow_dye.json"
+hash = "bcea2d996f46340b9bf48252a821c0466ff3d9a7d2ba4c0fd243b84a2baf40e7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_blue.json"
+hash = "9b96f3e25232a5d5510835c6ac7602d3df0456ba19a77f974134e8858e7389b7"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_blue_dye.json"
+hash = "102fa1d120e713e89dc8d2322b6d12a88680aa12eac1f57a2ba5da013b4c12b1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_green.json"
+hash = "5ca895943e41d7d39efc5a0eca7f2a3d6e8da2c8edea727a5945708a5fd1b332"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_green_dye.json"
+hash = "5e1f9a8fbf979708659a5bad78881d30c435b003cc040d69f5ce160ec9652b7f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_red.json"
+hash = "41ae16a7ad986d7cfaac9f6955f72fa781b63a0b1975f1b69c4d58819effb114"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_red_dye.json"
+hash = "da87c94e12e4b99713a12675f96b69700f0588852487fee783adef5653a9334d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_routing.json"
+hash = "81ec3b2369db09acdd3c4101a840b72297eeb2e0abd28b53977be92ad126462e"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_upgrade.json"
+hash = "92938d192022c529184589a5321d5eb3b7486ffa3706d0d6d19df118df76fb77"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_yellow.json"
+hash = "b07e7ca1248e46e193aa66497b7c559563864c6269d5db5ca284a6221a2ff919"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/connector_yellow_dye.json"
+hash = "6e36467ce11c3554c08e4c077df7dab04fe07381e29e50ad94d547aa6299004d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/controller.json"
+hash = "d15e517bd782fa831bfb8107a1da2e29ccaf52d46483c1dfb9bf83addf0882ee"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/facade.json"
+hash = "08bd0aad06baaefbc7d880a9d6dff7442813701ecdf209cbc75362d9075eb2be"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_blue.json"
+hash = "251b3ef31d62a734d63abb20fdb453c61aa6d201c9428fec19690a74ef29c67d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_blue_dye.json"
+hash = "ed204ebfd0d8b0d2b3303f26ec4073a88b86130c8b11efb3a38580fb77dcbb31"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_green.json"
+hash = "46e3973e61755d2ae6d170fa8c5c01b952cc1bf8bae0d69d441e7d68fac752bd"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_green_dye.json"
+hash = "e30b55c8a56393b4d82d2a338f9b638dc3cf963f9068039a4fbf881f2d6a3557"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_red.json"
+hash = "c0af019475428e97c3d1861758a1175ccb213388c8fe19d96496923b35059665"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_red_dye.json"
+hash = "de72d20eb0a32083f1d7caace3f4e4c56854b8c940910279fcb22ab7e594cbf0"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_routing.json"
+hash = "1ae0e82960b540b177a1ebe523fb5c99f4b716a1fb435e5f95025afe23938e7b"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_yellow.json"
+hash = "b277f1a69abdf7474918b12537b60bb4af3cdf74f53a1cd466ebebd8f46f956a"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/netcable_yellow_dye.json"
+hash = "e694f9fc93e95c19d72d83376eb550f4b7f96e630f581c65a97fbea20f3a69b6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/redstone_proxy.json"
+hash = "8f0166efc2645cda7403f5d787726728b95c1d042ce0d066f99cf906043af311"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/redstoneproxy_update.json"
+hash = "323f01613685206578d13c015435746c1c1e6864f11ba815803158f042c27844"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/xnet/router.json"
+hash = "cca326f7710f6c35423403ab5f519c5d7c5d83258c1a4e8f8c2e73ae47a6f5ac"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/tags/items/.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/pack.mcmeta"
-hash = "5efbb6346e82802715b7ea31b8804c3bc9c9f086c6ab5f2f3164cf39bfe2b284"
+hash = "3d14bc6e1d6effca47edd4a8b49f285c5cb7e996dfbae68f14154b0d971a8a34"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
+hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
 
 [[files]]
 file = "configureddefaults/options.txt"
