@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/moreoverlays.toml"
+hash = "34f8cceb96f01278d1c206b7db57467484ebaccd24c479c89635bac6710da4d6"
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -458,7 +462,7 @@ hash = "87de5b3277353271cbfe85af0f10480f55d16094c53b29bbd4aef278e22eacc0"
 
 [[files]]
 file = "configureddefaults/config/moreoverlays.toml"
-hash = "788fc1c52101403a8ffca4e11510778e5cd21fa6e6179ea605093717a3a2ca48"
+hash = "34f8cceb96f01278d1c206b7db57467484ebaccd24c479c89635bac6710da4d6"
 
 [[files]]
 file = "configureddefaults/config/naturescompass-client.toml"
