@@ -1,0 +1,8 @@
+{
+  "type": "thermal:rock_gen",
+  "adjacent": "minecraft:bone_block",
+  "below": "thermal:charcoal_block",
+  "result": {
+    "item": "minecraft:calcite"
+  }
+}
