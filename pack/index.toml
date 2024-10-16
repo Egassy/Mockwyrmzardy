@@ -669,6 +669,62 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "3dd923800bb2fca27eb3e96b043ae4e5abc73629d3a76c63311898c8d55f1fc3"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/black_fabric.json"
+hash = "7a998dd0dae0f7eb1887a6d8e18e0a2ceddb188b6db8c2065741a721561f0793"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/blue_fabric.json"
+hash = "dde882db8d787d1d67fcfdc0afd763848442703b850520264f8199978f407324"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/brown_fabric.json"
+hash = "ca15295ec9064b37dba328841c55ea793bd35bdc54f837a546ec8fbb88bae581"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/cyan_fabric.json"
+hash = "a314fce85361adc9e8b62b4bc6b383e3781b888b8d3bcd04510e21e349ef24bc"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/gray_fabric.json"
+hash = "849da4a4c515d4265cfffc5fda2e1829e432538b59ded5389d717217c9a770cb"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/green_fabric.json"
+hash = "62b84a1c8615b15ca66e57cbd1c378e362725429f38bc0d8d15c105ef8396df6"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/light_blue_fabric.json"
+hash = "fb4c14b2f8965c1e7a7aab037477b65a70341be8e7463a856da9c179af79e1a1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/light_gray_fabric.json"
+hash = "968d1ff6df1d124d597122ef0df48f14a9f6b43c9e33d62ae4b1a5a74b9c65c2"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/lime_fabric.json"
+hash = "c178e9d13ae2341f8be626c81c35b4abadd85c44bdab8a7c7280e2de4e6f76b9"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/magenta_fabric.json"
+hash = "3034ef55cf34970e79acfa998b648d01c4b56334e05e30421714c0c48227de21"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/orange_fabric.json"
+hash = "456530d92cbe5672bb10efeda755a0d139dc9aa49fa94978b110b3fc9f412461"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/pink_fabric.json"
+hash = "9360c4544527a35be9b86bffcbcb72dd7c9aa52ef8c44a06df8f8c99949f0be1"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/purple_fabric.json"
+hash = "5c37f347ca26cafec2a81cdf94733014528219707f854af555145c5910670105"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/red_fabric.json"
+hash = "ba376cb0c749c087e03514a0cb615ecfc390d7ce91030981770a980390a3f1db"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/rift_remover.json"
 hash = "bea0e89733011c2ccf55ef2125af251ff4b528effcc51538a3f812a6ce69c7ac"
 
@@ -681,8 +737,24 @@ file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data
 hash = "7baff33498a2110d95cd2aa0e5f0973b3d4b565c988543c88ba4f673a2b46b9e"
 
 [[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/white_fabric.json"
+hash = "3415f5caa12c5600ab956287a4dbd43aaca2daa7382369657cfb1736889576ff"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/dimdoors/recipes/yellow_fabric.json"
+hash = "d6a397c2f5eb87886d45522b8c5fbea52cce7b71a8679d085ec15871059a0354"
+
+[[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/manyideas_core/recipes/item/saws/saw_stone___crafting.json"
 hash = "e61479c8e09785b134429dedae5e983aacfc5564f5be8c5cf178a5499c23d945"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/devices/rock_gen/rock_gen_calcite.json"
+hash = "7128b0d5f79bed2cd1fa1eba2533fab730da5d0c5aa1b1d0ce7d37cb4264aa9f"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/fabric_to_thread.json"
+hash = "9c11edc3d17855bbaeafb73b2a8dd3f719962c54d6d0bc67fb2f2e825dc7e21f"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/gravel_flint.json"
@@ -1579,6 +1651,10 @@ hash = "540e3dd4ab52cf97e0422de0b15316418748654c57fef2a8568b6e8719ad7c76"
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/storagedrawers/warped_trim.json"
 hash = "7124c54b9c9ba892c190737c1d20f2e6d78bfce211e0268400cf4a8d64135dae"
+
+[[files]]
+file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/tesselating/world_thread.json"
+hash = "bb39eb67968c51aada1f9c6573a3d225055f8880f2905aff2e92f23afdd7c53b"
 
 [[files]]
 file = "configureddefaults/global_packs/required_data/Mockwyrmzardry_tweaks/data/mockwyrmzardry/recipes/wool/dye_black_carpet.json"
