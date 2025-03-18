@@ -1,0 +1,7 @@
+name = "MagiChem"
+filename = "magichem-0.4.6a.jar"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/982204/files/6281403/download"
+hash-format = "sha256"
+hash = "f4cf9af36316397190cbf7e98c7a8bf8c00ed8ea4f9f733b026550140ff4f7ea"

@@ -1,13 +1,13 @@
-name = "Mockwyrmzardry"
+name = "Mockwrymzardry"
 author = "Egassy"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f299d9d15d8a14448d9010521f8502494b77ea8c38a9d9c36de20501cec89e61"
+hash = "dfcaefe927c86629d0551f2955b2d2e41fbc9a38ecd23b53ea17c54483b381f1"
 
 [versions]
+forge = "47.4.0"
 minecraft = "1.20.1"
-neoforge = "47.1.106"
