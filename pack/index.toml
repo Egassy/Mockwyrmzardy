@@ -196,6 +196,11 @@ hash = "2e4389cefb425d89330801d48a83d84269e9af9a366788a8b0ce3fbbf810ab3d"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
+metafile = true
+
+[[files]]
 file = "mods/mna-arcane-additions.pw.toml"
 hash = "60d2cec01562a5a81b717cddce40dee82c0fa6441e773b9ee814cf52d12cc7c5"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "27e48a16ba02b955b1811739d26bb39359f83f7bc1e1178e961b87d68dce176c"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
 metafile = true
 
 [[files]]
