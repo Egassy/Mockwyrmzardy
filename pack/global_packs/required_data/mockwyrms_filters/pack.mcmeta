@@ -32,6 +32,258 @@
       {
         "namespace": "minecraft",
         "path": "glass_bottle"
+      },
+      {
+        "namespace": "create",
+        "path": "crafting/materials/copper_nugget"
+      },
+      {
+        "namespace": "thermal",
+        "path": "storage/copper_nugget_from_ingot"
+      },
+      {
+        "namespace": "create",
+        "path": "crafting/materials/copper_ingot"
+      },
+      {
+        "namespace": "thermal",
+        "path": "storage/copper_ingot_from_nuggets"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "cake"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "beacon"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "book"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "magma_cream"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "salt_from_mortar_and_pestle"
+      },
+      {
+        "namespace": "goety",
+        "path": "haunted/haunted_chest2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "conversion_upgrade"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "portability_upgrade"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "remote_upgrade"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "remote_group_upgrade"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "compacting_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "compacting_drawers_3"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "compacting_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "compacting_half_drawers_3"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "controller"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "oak_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "oak_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "oak_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "spruce_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "spruce_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "spruce_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "birch_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "birch_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "birch_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "jungle_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "jungle_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "jungle_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "acacia_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "acacia_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "acacia_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "dark_oak_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "dark_oak_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "dark_oak_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "mangrove_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "mangrove_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "mangrove_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "cherry_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "cherry_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "cherry_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "bamboo_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "bamboo_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "bamboo_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "crimson_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "crimson_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "crimson_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "warped_half_drawers_1"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "warped_half_drawers_2"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "warped_half_drawers_4"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "oak_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "spruce_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "birch_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "jungle_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "acacia_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "dark_oak_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "mangrove_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "cherry_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "bamboo_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "crimson_trim"
+      },
+      {
+        "namespace": "storagedrawers",
+        "path": "warped_trim"
       }
     ]
   }

@@ -606,7 +606,15 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "a7759d1fcb129490b1826a98a2d38efaa0bf219bf0729150c00e3d3f1fad991b"
+hash = "dbbe3290fa10f29ac5c3e5b6e215d2d943e0789a6034aa3240bc9879f4f27729"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "5d9cfecf178a76557d0b91f6155abe140afc563e0192dae88327bd417da9c709"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/cataclysm/recipes/stone_tiles.json"
+hash = "9c21130f3ec16f2648f25ca677a39dbeb35beb8af45152f0c403ebde7a38b62f"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/black_fabric.json"
@@ -679,6 +687,186 @@ hash = "d6a397c2f5eb87886d45522b8c5fbea52cce7b71a8679d085ec15871059a0354"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/bookshelves.json"
 hash = "cdfb354dbc23035967e5cc93d422e63cac991e686e4e93381b658672e6b8a935"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/amethyst_arcane_stone_chiseled.json"
+hash = "bfd3b98ece0f607489d6556cb13f586699a7d5c5c070f59960beb819fab9356a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/amethyst_arcane_stone_corner.json"
+hash = "26f6433e666cda2585dbb891a08bb4907e237461148a6834da6a1b0bb116603f"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/amethyst_arcane_stone_quad.json"
+hash = "9d166ff2df0f1c0070c1a12e499e6ca6f8ca4a84ecdfa1c4b4782472d7e20c1e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/amethyst_arcane_stone_straight.json"
+hash = "fd15ba5b55eebc752f8824727586fdf4c9883422075d10603e16fbb343ba98cd"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/amethyst_arcane_stone_t.json"
+hash = "0f33279dbc809e37556d2d13e773c135e439aeb3c1bf5f334ebfdfc1cc91968e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/chimerite_arcane_stone_chiseled.json"
+hash = "9e0697f5f9b08b51305e3d4f106195a0172fecb4b81ad4e6ef5756f23e9a00fb"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/chimerite_arcane_stone_corner.json"
+hash = "f6c3afe122464ddfb7d7ce2f475a59f1414acfef8dbe7cc809d54912659ab027"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/chimerite_arcane_stone_quad.json"
+hash = "89ea7e7e59e0289264d9fa513c3328ca804879ce6b70417eaa259de226fb7af0"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/chimerite_arcane_stone_straight.json"
+hash = "f988ec19f844cc1738d6afdf7a3e12801838a36e07257a6d6cdc8fc45aa99dc4"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/chimerite_arcane_stone_t.json"
+hash = "31a3560390639315770764349e3e7dbfd44cdd4159baa19e89df19ae0bb357dc"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/copper_arcane_stone_chiseled.json"
+hash = "95cfd74bbc5012802e3b285cc9faacb04c969f81b751eda341887a94d5119613"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/copper_arcane_stone_corner.json"
+hash = "0fc1f5546d2fa8917c2fb09359bb275c3ef94be337e6897bef13e17eda84eb1e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/copper_arcane_stone_quad.json"
+hash = "4aa7a8ddee7f631af4bd103db63640881740f0218b0ca756e34da9b5751c6363"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/copper_arcane_stone_straight.json"
+hash = "5e24248753b40fa5a966a7b4cb882fc7636d41d70511692320967516a1693313"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/copper_arcane_stone_t.json"
+hash = "6ff419f264f5d19f130be9608658503557c650e7eba8c10a66a78f9fb6fc4ef7"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/diamond_arcane_stone_chiseled.json"
+hash = "9743df1b34c328232f2cf47092d9f313618e4676dbd61aa255456cf461f7060a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/diamond_arcane_stone_corner.json"
+hash = "73192c4a7721e6bdae255b9d32083627cb38632fc85183bbdbe54eb000761018"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/diamond_arcane_stone_quad.json"
+hash = "6fac7d05c6bcfa9c04f00bff91d5ac95115a2e6cb91b25d10be7911421a007ef"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/diamond_arcane_stone_straight.json"
+hash = "bdbec48df66e2b965e54ca7089613ab90162a81fa31f76672b608405cea6b6e2"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/diamond_arcane_stone_t.json"
+hash = "775cfb261b676bbfdc121d8ff1f006bbb9d906609551a390f33b2ef29a7d27fa"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/emerald_arcane_stone_chiseled.json"
+hash = "eeadc47392ed0213babee4efc6c058e2f4e6dc7e46216e2f777beffe63568002"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/emerald_arcane_stone_corner.json"
+hash = "adcc9803825420d6b4ff966912bae409ef3cf94a624326b12f75b93443ac7139"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/emerald_arcane_stone_quad.json"
+hash = "2e646fcf19c42f9a9895918c74ecfc1759157644ab0e0efd18e082ebc7f3ff04"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/emerald_arcane_stone_straight.json"
+hash = "0509657bb60372fecf11fa47aebade49805937b033f550888f51527eaf0aaa7a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/emerald_arcane_stone_t.json"
+hash = "ceeba72d6409c857ed0166a1da8535d02a90292d157f0305d8ad4f6f45566aa4"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/gold_arcane_stone_chiseled.json"
+hash = "b6b8c78de597a2b16d173b22a39609ee6f837e052784a25af09765c12d03c33e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/gold_arcane_stone_corner.json"
+hash = "f3a40deaea088835d7b8d2c692d064e5e8cf38483aab8701a2aa4c06a98293d6"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/gold_arcane_stone_quad.json"
+hash = "2f44a06093e06f9e81308e000210ad45305ba5c78e58a73727a1eb00744dfc8e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/gold_arcane_stone_straight.json"
+hash = "7494e4ce49932abe070f4b39f5e393d90d5a712e72579c0a31301347070819b0"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/gold_arcane_stone_t.json"
+hash = "71e957d058c4604f765149b619bb26b9aa2790e147915bd30835b49ef3b3efc7"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/quicksilver_arcane_stone_chiseled.json"
+hash = "3264c36d37d94aea26da587d56ef50fcc0391ac547f707db5a3187bcd12c85a4"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/quicksilver_arcane_stone_corner.json"
+hash = "8ddbff49e9a106d8ab254e5554c4f4b96b97af09b2e3e88dc78d4dedb418f636"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/quicksilver_arcane_stone_quad.json"
+hash = "d79f684b2e47af99b421a43e86c2bf6b6873662123c08de7c2ea8cc779027906"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/quicksilver_arcane_stone_straight.json"
+hash = "026d3aa5393f93fcd1ff91c95bff53f499a2fb07775ab9850afd495113fd3585"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/quicksilver_arcane_stone_t.json"
+hash = "16e599f5b21ea4cf9f6a12dca25b4b7a06d1f6ebea2d98ae17d5f5c03e124302"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/redstone_arcane_stone_chiseled.json"
+hash = "c7bea0cd2597cc47f97a6b71c2b5019097ed41d4d35e5b7e5317688f7d83cd67"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/redstone_arcane_stone_corner.json"
+hash = "8d46d6e580fc74992bf53b3ef13e2ee7319fced345ab07c46ff1f1c8ee0d0b5c"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/redstone_arcane_stone_quad.json"
+hash = "cd3e141bc76a994d9d2405b3a087400be3008613f19f7b4840de8afc5272b225"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/redstone_arcane_stone_straight.json"
+hash = "090a6794f4d8130930173da557c148ab66dd3cadfaf74edb9ba2b2e4be69b75f"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/redstone_arcane_stone_t.json"
+hash = "9b61ca64390a8036b5787c9ca73841680ab23cc37db0da5f0a92427c2ec59b11"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/vinteum_arcane_stone_chiseled.json"
+hash = "f6f24bba4995e34540fbd038d097ba200a82614b019de00957494a20573fb09f"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/vinteum_arcane_stone_corner.json"
+hash = "7faa7a3480fcaa82a5f3aa830872cdf7ac4ba3527505c83366aea0ae88663d5a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/vinteum_arcane_stone_quad.json"
+hash = "7cc3d54a7a57a2249b8f376d1908c93cea835763329fae352fd7792ef6e4e034"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/vinteum_arcane_stone_straight.json"
+hash = "10ec7f7d061b71b593b6ab2e317c5aa65abdfc2b5095e03346df8cdff3a279f3"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/crafting/vinteum_arcane_stone_t.json"
+hash = "d0bb9740fe8ab184b1773570185e019b66d04b1e6fdd267773272da1b4b68147"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/tesselating/fabric_to_thread.json"
