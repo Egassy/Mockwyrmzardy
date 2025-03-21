@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "dimdoors:unravelled_fabric"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "F F",
+    "FFF"
+  ],
+  "result": {
+    "item": "dimdoors:world_thread",
+	"count": 4
+  },
+  "show_notification": true
+}

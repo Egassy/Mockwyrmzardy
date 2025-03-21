@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+    "group": "colored_fabric",
+  "key": {
+    "D": {
+      "item": "minecraft:green_dye"
+    },
+    "X": {
+      "item": "dimdoors:world_thread"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XDX",
+    " X "
+  ],
+  "result": {
+    "item": "dimdoors:green_fabric",
+    "count": 8
+  },
+  "show_notification": true
+}

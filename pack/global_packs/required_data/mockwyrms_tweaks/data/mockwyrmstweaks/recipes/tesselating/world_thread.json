@@ -1,0 +1,21 @@
+{
+  "type": "dimdoors:shaped_tesselating",
+  "key": {
+    "I": {
+      "item": "minecraft:infrangible_fiber"
+    },
+    "F": {
+      "item": "dimdoors:frayed_filament"
+    }
+  },
+  "pattern": [
+    "FIF"
+	"IFI"
+	"FIF"
+  ],
+  "result": {
+    "item": "dimdoors:world_thread",
+	"count": 8
+  },
+  "weavingtime": 50
+}

@@ -1,0 +1,38 @@
+{
+  "pack": {
+    "description": "Filters for Mockwyrmzardry",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "goety",
+        "path": "bookshelf_vanilla"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "daylight_detector"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "end_crystal"
+      },
+      {
+        "namespace": "thermal",
+        "path": "storage/netherite_nugget_from_ingot"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "sticky_piston"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "lead"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "glass_bottle"
+      }
+    ]
+  }
+}

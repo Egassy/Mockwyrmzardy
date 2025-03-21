@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Tweaks for Mockwyrmzardry",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": []
+  }
+}

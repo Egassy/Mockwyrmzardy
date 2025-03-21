@@ -178,7 +178,7 @@ hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "4db0400919f8119ff81f9e6ecc45440bcf661dc6a7e85629af6c4d42dde333db"
+hash = "7b7c4a2b945d14526f2808045cabe949df0ea3171120e1ec6ac56fc89e53246c"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -199,6 +199,14 @@ hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
 [[files]]
 file = "config/forge-client.toml"
 hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
+
+[[files]]
+file = "config/framedblocks-client.toml"
+hash = "973a9e319c877b509ba81b548700217034d7d3c75c242ec6673ce004abfcf6cb"
+
+[[files]]
+file = "config/framedblocks-common.toml"
+hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -413,6 +421,14 @@ file = "config/obtrophies-common.toml"
 hash = "5c203d69745f742f70d8f3b34bf880008e2cda32dee8ef23f95a501ea7f41881"
 
 [[files]]
+file = "config/patchouli-client.toml"
+hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
+
+[[files]]
 file = "config/ponder-client.toml"
 hash = "1afc0b2e02589981024e43d28e593aabebe87d0b0fe32c6b6e9345c2f9d6c9ec"
 
@@ -575,6 +591,110 @@ hash = "58465d30b8ce556588aa049450ca66e2ce9bb0ac929d2ed1f7ef147bc9231ef9"
 [[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "c035050d5b59de72e75dc56e8e0c0fdcad03e3464068d03a0fe1ca3dce53a46e"
+
+[[files]]
+file = "global_packs/required_data/SandStonefix.zip"
+hash = "c7cedced50ed5810586694fc93fc41c6e56fcff20c107da92c77009322490ae1"
+
+[[files]]
+file = "global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
+hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_filters/data/required.document"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
+hash = "a7759d1fcb129490b1826a98a2d38efaa0bf219bf0729150c00e3d3f1fad991b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/black_fabric.json"
+hash = "7a998dd0dae0f7eb1887a6d8e18e0a2ceddb188b6db8c2065741a721561f0793"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/blue_fabric.json"
+hash = "dde882db8d787d1d67fcfdc0afd763848442703b850520264f8199978f407324"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/brown_fabric.json"
+hash = "ca15295ec9064b37dba328841c55ea793bd35bdc54f837a546ec8fbb88bae581"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/cyan_fabric.json"
+hash = "a314fce85361adc9e8b62b4bc6b383e3781b888b8d3bcd04510e21e349ef24bc"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/gold_door.json"
+hash = "31dcfbec77bc0d873a4b9e139a0222265195f7303fb9b51ec85036b2721d9b30"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/gray_fabric.json"
+hash = "849da4a4c515d4265cfffc5fda2e1829e432538b59ded5389d717217c9a770cb"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/green_fabric.json"
+hash = "62b84a1c8615b15ca66e57cbd1c378e362725429f38bc0d8d15c105ef8396df6"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/light_blue_fabric.json"
+hash = "fb4c14b2f8965c1e7a7aab037477b65a70341be8e7463a856da9c179af79e1a1"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/light_gray_fabric.json"
+hash = "968d1ff6df1d124d597122ef0df48f14a9f6b43c9e33d62ae4b1a5a74b9c65c2"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/lime_fabric.json"
+hash = "c178e9d13ae2341f8be626c81c35b4abadd85c44bdab8a7c7280e2de4e6f76b9"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/magenta_fabric.json"
+hash = "3034ef55cf34970e79acfa998b648d01c4b56334e05e30421714c0c48227de21"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/orange_fabric.json"
+hash = "456530d92cbe5672bb10efeda755a0d139dc9aa49fa94978b110b3fc9f412461"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/pink_fabric.json"
+hash = "9360c4544527a35be9b86bffcbcb72dd7c9aa52ef8c44a06df8f8c99949f0be1"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/purple_fabric.json"
+hash = "5c37f347ca26cafec2a81cdf94733014528219707f854af555145c5910670105"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/red_fabric.json"
+hash = "ba376cb0c749c087e03514a0cb615ecfc390d7ce91030981770a980390a3f1db"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/white_fabric.json"
+hash = "3415f5caa12c5600ab956287a4dbd43aaca2daa7382369657cfb1736889576ff"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/yellow_fabric.json"
+hash = "d6a397c2f5eb87886d45522b8c5fbea52cce7b71a8679d085ec15871059a0354"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/bookshelves.json"
+hash = "cdfb354dbc23035967e5cc93d422e63cac991e686e4e93381b658672e6b8a935"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/tesselating/fabric_to_thread.json"
+hash = "9c11edc3d17855bbaeafb73b2a8dd3f719962c54d6d0bc67fb2f2e825dc7e21f"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/tesselating/world_thread.json"
+hash = "bb39eb67968c51aada1f9c6573a3d225055f8880f2905aff2e92f23afdd7c53b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/thaumon/recipes/polished_ancient_stone.json"
+hash = "3505196904f132dbe4f5aacfee806aa568eff5fe76df6f8f634c9fb5c00db540"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
+hash = "949ba68e9d54de5ac3f3b4183bc7b89ba7bb66723bee84fa5368b5850c153619"
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
