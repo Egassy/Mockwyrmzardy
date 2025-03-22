@@ -537,6 +537,10 @@ file = "defaultconfigs/forge-server.toml"
 hash = "e2c32c27453033ef3910d5b6a24ae1a8c1fd224c2ac0a97388d5aa27a6a00ad1"
 
 [[files]]
+file = "defaultconfigs/framedblocks-server.toml"
+hash = "f31398656a46b17b9c1191143d46bd89710b967a3a8e28e666fc8ad2c58f376e"
+
+[[files]]
 file = "defaultconfigs/goprone-server.toml"
 hash = "2dc9d4676142b86a61c5db0f4d5b016edd862104f1eb3b956599315cd2c5a4fe"
 
