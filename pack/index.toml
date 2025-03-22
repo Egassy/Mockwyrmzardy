@@ -917,6 +917,11 @@ file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "949ba68e9d54de5ac3f3b4183bc7b89ba7bb66723bee84fa5368b5850c153619"
 
 [[files]]
+file = "global_packs/required_resources/fontolith.pw.toml"
+hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
@@ -1002,6 +1007,11 @@ hash = "33feda2a13f751327fb4c73d75b29446652234cff9e2b08a82f35e3a248dc2c9"
 metafile = true
 
 [[files]]
+file = "mods/double-hotbar.pw.toml"
+hash = "11545a12b36e36c3cdc2faea6b405080e601fbc586848631fe559da78bbbcff4"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
 metafile = true
@@ -1013,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -1067,6 +1077,11 @@ hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
 metafile = true
 
 [[files]]
+file = "mods/forestry-community-edition.pw.toml"
+hash = "27e1fc5fd74cc4297a3a10118a54393da3c8e65d08abe57abda0ec5882f2d184"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
 metafile = true
@@ -1099,6 +1114,11 @@ metafile = true
 [[files]]
 file = "mods/hexerei.pw.toml"
 hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
 metafile = true
 
 [[files]]
@@ -1137,6 +1157,11 @@ hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
 
 [[files]]
+file = "mods/lucent.pw.toml"
+hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
+metafile = true
+
+[[files]]
 file = "mods/magichem.pw.toml"
 hash = "ff625d7afa43271ac051fb10a3e93f8fb5461f2d220589f6bb7c528761ea52ee"
 metafile = true
@@ -1169,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "2e96ff6625fa5844c2969fd49918310c789aa9d4bfbcffc69c997ba83de41bd6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
@@ -1285,3 +1315,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8d43bc249fa19f6f8952d530c990377669e00559063a96da67a456d5f3d4f79e"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "6bc5b2a1fb048cd9f0fbef3f7cbea1020971b3ba710ad4c79f5ba4317d0ef506"

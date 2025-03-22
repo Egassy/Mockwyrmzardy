@@ -1,0 +1,13 @@
+name = "Forestry: Community Edition"
+filename = "forestry-1.20.1-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7aea31a5bd5f8d6c945b39a99898b7201b51bac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6330690
+project-id = 1056828
