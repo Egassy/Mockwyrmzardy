@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "tag": "minecraft:music_discs"
+    },
+    "W": {
+      "item": "minecraft:wooden_sword"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    }
+  },
+  "pattern": [
+    "W",
+    "M",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "4b",
+      "LabelColor": {
+        "Secondary": 3847130,
+        "Primary": 3847130
+      },
+      "Music": {
+        "Title": "Saria\'s song",
+        "Author": "OcarinaTunes",
+        "Url": "https://soundcloud.com/ocarinatunes/sarias-song"
+      },
+      "DiscColor": 9814612
+  }
+  }
+}

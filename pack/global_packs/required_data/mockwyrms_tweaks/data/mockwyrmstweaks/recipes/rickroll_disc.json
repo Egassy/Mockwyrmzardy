@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "M": {
+      "tag": "minecraft:music_discs"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "pattern": [
+    "S",
+    "M",
+    "N"
+  ],
+  "result": {
+    "count": 1,
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "0b",
+      "LabelColor": {
+        "Secondary": 16383998,
+        "Primary": 1908001
+      },
+      "Music": {
+        "Title": "Never Gonna Give You Up",
+        "Author": "Rick Astley",
+        "Url": "https://soundcloud.com/rick-astley-official/never-gonna-give-you-up-4"
+      },
+      "DiscColor": 9260831
+  }
+  }
+}

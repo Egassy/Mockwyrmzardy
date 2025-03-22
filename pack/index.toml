@@ -869,6 +869,34 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mna/recipes/decoration/
 hash = "d0bb9740fe8ab184b1773570185e019b66d04b1e6fdd267773272da1b4b68147"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/honour_for_all_disk.json"
+hash = "fd7a9d9cfa748e6d5f2f96eed29fb5afced8e3b5db55c1e2d842ea0a4f133531"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/ow_disc.json"
+hash = "f05f462b9c2e8d44e505737398ed1e49632e6d809fb7b85885be2e53f22097e4"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/rickroll_disc.json"
+hash = "79d715a20a1e9183add1857080886be1484a4b50e8ec38568f23e5e16a4e455e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/sal_ammoniac.json"
+hash = "3729778620595f138ab7a4c0f6b1b589c301c2d9065c3fce14adb7250084453b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/sarias_song_disc.json"
+hash = "49ccbfaa5bb1050a469594ce881db9378c318ac58a8fc3ecd6bda3d1904c209b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/song_of_healing_disk.json"
+hash = "4387f144efcfd511a29b2882855db8fa086cfeccdbedc9497d012c1bbd30bd24"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/stellaris_disc.json"
+hash = "3e95c8b0b838153a30ec3b41bf0699d5603e764415f15b068502bccd035acccb"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmstweaks/recipes/tesselating/fabric_to_thread.json"
 hash = "9c11edc3d17855bbaeafb73b2a8dd3f719962c54d6d0bc67fb2f2e825dc7e21f"
 
@@ -997,6 +1025,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
