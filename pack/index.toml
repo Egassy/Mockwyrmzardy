@@ -1230,6 +1230,16 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+metafile = true
+
+[[files]]
+file = "mods/neoauth.pw.toml"
+hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
