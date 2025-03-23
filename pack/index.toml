@@ -1231,12 +1231,12 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
 file = "mods/neoauth.pw.toml"
-hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+hash = "f3df4cd3b2e5cd4142bd94177e2f23363c9e544a0e54064240c3b20287b02b5e"
 metafile = true
 
 [[files]]
