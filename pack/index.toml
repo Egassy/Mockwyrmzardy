@@ -466,7 +466,7 @@ hash = "962a271978ada46ab0d65c3f256b446ec3d878cef7642e24ce857f5c01fd2089"
 
 [[files]]
 file = "config/simpletomb.toml"
-hash = "163f0dc1e6865fd3866e844ccfb9b7a6b4ad7254843ab899697558490b4aa33f"
+hash = "cae0f3a316c2264d1832e56f56eecb0c63f957d3bb589f0c2d63688274f799a0"
 
 [[files]]
 file = "config/storagedrawers-client.toml"
