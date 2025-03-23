@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonscript.pw.toml"
-hash = "fbd7617c2facf55388e48cf93bcb33911626ddc046e1194a9d19feaf72a6602a"
+hash = "85f4f14b965836b06d3afbe5505a94d8ba228d3794901732c7b8df75c12b91ac"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Moonscript"
 filename = "Moonscript-forge-1.20.1-1.0.0-all.jar"
-
+side="server"
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.20.1/jars/Moonscript-forge-1.20.1-1.0.0-all.jar"
 hash-format = "sha256"
