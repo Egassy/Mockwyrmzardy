@@ -502,7 +502,7 @@ hash = "36436c2d8e9cc35f54f353529d30f300e54818368f32227e2246d22744152ba2"
 
 [[files]]
 file = "config/thermal-common.toml"
-hash = "2da8c36625faf9827ed5c9ea08f8b0a7028431e16ef1c6ba7a8e5c4961c9b66d"
+hash = "8d0a545fdc6328ed2033eb24cfdbb792cd2759d6d183e2d97ec06732c3e077c6"
 
 [[files]]
 file = "config/theurgy-client.toml"
