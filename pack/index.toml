@@ -1230,11 +1230,6 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
-file = "mods/my-server-is-compatible.pw.toml"
-hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
-metafile = true
-
-[[files]]
 file = "mods/neoauth.pw.toml"
 hash = "f3df4cd3b2e5cd4142bd94177e2f23363c9e544a0e54064240c3b20287b02b5e"
 metafile = true
