@@ -1270,6 +1270,11 @@ hash = "9131cce1afb6923c81a40372a86298dc8c6a2efa6fb08089fa6dc64dc95d5c51"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "110b76c32f800e28cb4d5f856dab3e84d2346ab706b8a0dd9bed0ca5655d1f1d"
+metafile = true
+
+[[files]]
 file = "mods/simple-tomb.pw.toml"
 hash = "0f6036e1482ea786d4dea4d484d210c8833a9c2d95e8b6b3bb09c9678b51a064"
 metafile = true
@@ -1332,6 +1337,11 @@ metafile = true
 [[files]]
 file = "mods/woodwalkers.pw.toml"
 hash = "b9c260d17a5b41937b6206617f70ce0de5a6b485e335d4511462e84742d869f3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
 
 [[files]]
