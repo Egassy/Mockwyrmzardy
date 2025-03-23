@@ -7,15 +7,15 @@
     "block": [
       {
         "namespace": "goety",
-        "path": "bookshelf_vanilla"
+        "path": "^recipes/bookshelf_vanilla$"
       },
       {
         "namespace": "minecraft",
-        "path": "daylight_detector"
+        "path": "^recipes/daylight_detector$"
       },
       {
         "namespace": "minecraft",
-        "path": "end_crystal"
+        "path": "^recipes/end_crystal$"
       },
       {
         "namespace": "thermal",
@@ -23,7 +23,7 @@
       },
       {
         "namespace": "minecraft",
-        "path": "sticky_piston"
+        "path": "^recipes/sticky_piston$"
       },
       {
         "namespace": "minecraft",
@@ -31,7 +31,7 @@
       },
       {
         "namespace": "minecraft",
-        "path": "glass_bottle"
+        "path": "^recipes/glass_bottle&"
       },
       {
         "namespace": "create",
@@ -51,11 +51,11 @@
       },
       {
         "namespace": "minecraft",
-        "path": "cake"
+        "path": "^recipes/cake$"
       },
       {
         "namespace": "minecraft",
-        "path": "beacon"
+        "path": "^recipes/beacon$"
       },
       {
         "namespace": "minecraft",
@@ -63,7 +63,7 @@
       },
       {
         "namespace": "minecraft",
-        "path": "magma_cream"
+        "path": "^recipes/magma_cream$"
       },
       {
         "namespace": "minecraft",
@@ -363,31 +363,31 @@
       },
       {
         "namespace": "forestry",
-        "path": "charcoal"
+        "path": "^recipes/charcoal$"
       },
       {
         "namespace": "forestry",
-        "path": "charcoal_from_block"
+        "path": "^recipes/charcoal_from_block$"
       },
       {
         "namespace": "forestry",
-        "path": "gear_copper"
+        "path": "^recipes/gear_copper$"
       },
       {
         "namespace": "forestry",
-        "path": "gear_bronze"
+        "path": "^recipes/gear_bronze$"
       },
       {
         "namespace": "forestry",
-        "path": "gear_tin"
+        "path": "^recipes/gear_tin$"
       },
       {
         "namespace": "forestry",
-        "path": "ingot_bronze_alloying"
+        "path": "^recipes/ingot_bronze_alloying$"
       },
       {
         "namespace": "forestry",
-        "path": "resource_storage_bronze"
+        "path": "^recipes/resource_storage_bronze$"
       }
     ]
   }

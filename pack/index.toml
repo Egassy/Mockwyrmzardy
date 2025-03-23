@@ -646,7 +646,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "78d4cd1dfa679812259cde5425ef8d01e51efa013c830d28b252a719d341130f"
+hash = "8382e56b2fc493dfb142cbdb8b858a105be1e533f7d8408a62554bfe7ebe1fa7"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
