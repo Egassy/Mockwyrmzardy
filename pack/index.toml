@@ -633,12 +633,16 @@ file = "global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
 hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
 
 [[files]]
+file = "global_packs/required_data/machines/pack.mcmeta"
+hash = "46f71006837afd5348df50d43a0fd309da1c48da5b6a273ea891760602659944"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_filters/data/required.document"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "cb3db7f0b254edf158190a79a26c019090b18493dcaa32609ae3d61254281ce4"
+hash = "c2f8c0b82dd1c2f37cff64d3f8af141d2f46049d7eed075536cecd45d7e4dca5"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"

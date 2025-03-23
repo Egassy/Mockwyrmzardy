@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Filters thermal machines",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "thermal",
+        "path": "machines/*"
+      }
+	]
+  }
+}

@@ -388,10 +388,6 @@
       {
         "namespace": "forestry",
         "path": "resource_storage_bronze"
-      },
-      {
-        "namespace": "thermal",
-        "path": "machines/*"
       }
     ]
   }
