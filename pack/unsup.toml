@@ -89,18 +89,22 @@ id = "lucent_off"
 name = "No"
 description = "Do not install Lucent."
 
-[flavor_groups.fontolith]
+[flavor_groups.fonts]
 name = "Fontolith"
-description = "Installs Fontolith, Idi's custom font resourcepack."
+description = "Installs Fontolith, Idi's custom font resourcepack, or Unsanded, a font pack by Unascribed."
 side = "client"
-[[flavor_groups.fontolith.choices]]
-id = "fontolith_on"
-name = "Yes"
-description = "Installs Embeddium."
-[[flavor_groups.fontolith.choices]]
-id = "fontolith_off"
-name = "No"
-description = "Do not install Fontolith."
+[[flavor_groups.fonts.choices]]
+id = "fonts_fontolith"
+name = "Fontolith"
+description = "Installs Fontolith."
+[[flavor_groups.fonts.choices]]
+id = "fonts_unsanded"
+name = "Unsanded"
+description = "Installs Unsanded."
+[[flavor_groups.fonts.choices]]
+id = "fonts_none"
+name = "None"
+description = "Do not install any custom fonts."
 
 
 [metafile.inventory-sorter]
@@ -118,4 +122,6 @@ flavors = "embeddium_on"
 [metafile.lucent]
 flavors = "lucent_on"
 [metafile.fontolith]
-flavors = "fontolith_on"
+flavors = "fonts_fontolith"
+[metafile.unsanded]
+flavors = "fonts_unsanded"

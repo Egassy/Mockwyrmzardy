@@ -9,6 +9,10 @@ file = "config/Hexerei-common.toml"
 hash = "1cf39fe287add7f21c47bfef1297c6d19ae650b232c0165d5c65d94bb708f362"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
 file = "config/alexscaves-client.toml"
 hash = "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758"
 
@@ -145,6 +149,10 @@ file = "config/dimdoors-config.json5"
 hash = "28e35a2a717c2e2dad9c53d753e67b7df3aabb6facbab7d05364518007ee30bb"
 
 [[files]]
+file = "config/double-hotbar-configs.toml"
+hash = "72d78b2c80175cb69eedfc964526e906186e82c9b98bace72c4f4b7d1335f7ff"
+
+[[files]]
 file = "config/embeddium-fingerprint.json"
 hash = "a11f4223a0bcaeffd0b015d30376f8b71bfbf2538344f47f59eb6c39fae182ce"
 
@@ -163,6 +171,10 @@ hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 [[files]]
 file = "config/emitrades.json5"
 hash = "1ed0ed3da45ed6bc11cdb624218f76f8e52b63818703b25e717bbbec615e6e92"
+
+[[files]]
+file = "config/etched-client.toml"
+hash = "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915"
 
 [[files]]
 file = "config/experienceobelisk-common.toml"
@@ -185,6 +197,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
+file = "config/figura.json"
+hash = "45d1b9d9bf59fbd6a384fe8a7d1db75f7364276e17819f738c670202be5d4fd4"
+
+[[files]]
 file = "config/flib.toml"
 hash = "d72695400ec11f2beb0ed48d1d967fef1812254b19e8a667a9fe46fa8f476744"
 
@@ -195,6 +211,10 @@ hash = "0dbfa4121b760a787f33d0953e1a8caddc3c64edf2020fcf1fca67deca8a1d1c"
 [[files]]
 file = "config/fml.toml"
 hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
+
+[[files]]
+file = "config/forestry-client.toml"
+hash = "f5cec2ccde29c3c96a5022aa7ad1597a6489798390fa27eb1d94ee3f64665a6c"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -235,6 +255,10 @@ hash = "d09591afd255ce8fe7eb1c865e2ce96e211d29a94e5b7cc0849f75c412cb9e5a"
 [[files]]
 file = "config/goety/goety.toml"
 hash = "b69dd0e852a34c70c9fcfcc56428b3159a41a81c7b18b1aada4413433637b4db"
+
+[[files]]
+file = "config/inventorysorter-client.toml"
+hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -381,6 +405,10 @@ file = "config/jeresources.toml"
 hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
+file = "config/lucent-client.toml"
+hash = "56b868432f1ab8f2b1f2ba86db0034460e704bcedd669f52658b008963c7b9b5"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
 
@@ -474,7 +502,7 @@ hash = "36436c2d8e9cc35f54f353529d30f300e54818368f32227e2246d22744152ba2"
 
 [[files]]
 file = "config/thermal-common.toml"
-hash = "04cad12aeec270f08e1bba6751a8e466f12b0ab6102814c80eb910f0cb26a353"
+hash = "2da8c36625faf9827ed5c9ea08f8b0a7028431e16ef1c6ba7a8e5c4961c9b66d"
 
 [[files]]
 file = "config/theurgy-client.toml"
@@ -610,11 +638,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "dbbe3290fa10f29ac5c3e5b6e215d2d943e0789a6034aa3240bc9879f4f27729"
+hash = "cb3db7f0b254edf158190a79a26c019090b18493dcaa32609ae3d61254281ce4"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "5d9cfecf178a76557d0b91f6155abe140afc563e0192dae88327bd417da9c709"
+hash = "cca21799a87ebf197a0550895fd83bdbfa1727893c54c93dd64d56a06c70fe9c"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/cataclysm/recipes/stone_tiles.json"
@@ -919,6 +947,11 @@ hash = "949ba68e9d54de5ac3f3b4183bc7b89ba7bb66723bee84fa5368b5850c153619"
 [[files]]
 file = "global_packs/required_resources/fontolith.pw.toml"
 hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/unsanded.pw.toml"
+hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true
 
 [[files]]
@@ -1318,4 +1351,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "6bc5b2a1fb048cd9f0fbef3f7cbea1020971b3ba710ad4c79f5ba4317d0ef506"
+hash = "24ab899f7a3c61db580c47911897dfc35e2ffcf52dba586be11b36938decd42f"

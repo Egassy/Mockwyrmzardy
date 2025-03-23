@@ -284,6 +284,114 @@
       {
         "namespace": "storagedrawers",
         "path": "warped_trim"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_furnace"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_sawmilll"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_pulverizer"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_smelter"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_insolator"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_centrifuge"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_press"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_crucible"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_chiller"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_refinery"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_pyrolyzer"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_bottler"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_brewer"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_crystallizer"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_crafter"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machine_frame"
+      },
+      {
+        "namespace": "thermal",
+        "path": "dynamo_stirling"
+      },
+      {
+        "namespace": "thermal",
+        "path": "dynamo_magmatic"
+      },
+      {
+        "namespace": "thermal",
+        "path": "dynamo_gourmand"
+      },
+      {
+        "namespace": "forestry",
+        "path": "charcoal"
+      },
+      {
+        "namespace": "forestry",
+        "path": "charcoal_from_block"
+      },
+      {
+        "namespace": "forestry",
+        "path": "gear_copper"
+      },
+      {
+        "namespace": "forestry",
+        "path": "gear_bronze"
+      },
+      {
+        "namespace": "forestry",
+        "path": "gear_tin"
+      },
+      {
+        "namespace": "forestry",
+        "path": "ingot_bronze_alloying"
+      },
+      {
+        "namespace": "forestry",
+        "path": "resource_storage_bronze"
+      },
+      {
+        "namespace": "thermal",
+        "path": "machines/*"
       }
     ]
   }

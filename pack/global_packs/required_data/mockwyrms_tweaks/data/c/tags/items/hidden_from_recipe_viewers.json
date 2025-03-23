@@ -93,6 +93,15 @@
     "thermal:machine_brewer",
     "thermal:machine_crystallizer",
     "thermal:machine_crafter",
-    "thermal:machine_frame"
+    "thermal:machine_frame",
+    "thermal:dynamo_stirling",
+    "thermal:dynamo_magmatic",
+    "thermal:dynamo_gourmand",
+    "forestry:charcoal",
+    "forestry:gear_copper",
+    "forestry:gear_bronze",
+    "forestry:gear_tin",
+    "forestry:ingot_bronze",
+    "forestry:resource_storage_bronze"
   ]
 }
