@@ -59,7 +59,7 @@
       },
       {
         "namespace": "minecraft",
-        "path": "book"
+        "path": "^recipes/book$"
       },
       {
         "namespace": "minecraft",

@@ -633,6 +633,10 @@ file = "global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
 hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
 
 [[files]]
+file = "global_packs/required_data/machines/data/required.document"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "global_packs/required_data/machines/pack.mcmeta"
 hash = "46f71006837afd5348df50d43a0fd309da1c48da5b6a273ea891760602659944"
 
@@ -642,7 +646,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "c2f8c0b82dd1c2f37cff64d3f8af141d2f46049d7eed075536cecd45d7e4dca5"
+hash = "78d4cd1dfa679812259cde5425ef8d01e51efa013c830d28b252a719d341130f"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
@@ -1231,6 +1235,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "fe03ff925a227f90b4a4bba5d1c36ba5e733d4ca182f45baed795a0e1a7d7ac2"
+metafile = true
+
+[[files]]
+file = "mods/moonscript.pw.toml"
+hash = "fbd7617c2facf55388e48cf93bcb33911626ddc046e1194a9d19feaf72a6602a"
 metafile = true
 
 [[files]]
