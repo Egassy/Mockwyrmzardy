@@ -465,6 +465,10 @@ file = "config/ppfluids-common.toml"
 hash = "962a271978ada46ab0d65c3f256b446ec3d878cef7642e24ce857f5c01fd2089"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "38b4c1ae2fa5bd85ee3a90f79424f0abf1726d928b1c2c4e86de0984ac8a0a02"
+
+[[files]]
 file = "config/simpletomb.toml"
 hash = "cae0f3a316c2264d1832e56f56eecb0c63f957d3bb589f0c2d63688274f799a0"
 
@@ -1293,6 +1297,16 @@ hash = "0729cfefad5651843eb27cc59464ca1ba9d4221f4f9393291a66645817944122"
 metafile = true
 
 [[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+metafile = true
+
+[[files]]
 file = "mods/right-click-get-crops.pw.toml"
 hash = "afd85bbbbe4cababd97d1b9b7cdc647d0a595a8ad6641547ffdc98985cf2e73b"
 metafile = true
@@ -1390,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8d43bc249fa19f6f8952d530c990377669e00559063a96da67a456d5f3d4f79e"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "586fcd360558e92a194059b46509420f57f1baa3ef1a1bee073a862a38b3bde7"
 metafile = true
 
 [[files]]
