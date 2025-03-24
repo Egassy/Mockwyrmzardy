@@ -466,7 +466,7 @@ hash = "962a271978ada46ab0d65c3f256b446ec3d878cef7642e24ce857f5c01fd2089"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "058916f6840d7e591ad97dd55b70abbcb84c4865163c9c9958172fcedaf5d035"
+hash = "888b1e2b459a369342645ba7835a65c4182dfe920ac93c162f0f6e9835673be9"
 
 [[files]]
 file = "config/simpletomb.toml"
