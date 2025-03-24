@@ -1,3 +1,16 @@
+[flavor_groups.oldcopper]
+name = "Create: Old Copper Stuffs"
+description = "Changes Create's new copper textures back to their older version, and recolours new copper textures to match."
+side = "client"
+[[flavor_groups.oldcopper.choices]]
+id = "oldcopper_on"
+name = "Yes"
+description = "Installs Create: Old Copper Stuffs."
+[[flavor_groups.oldcopper.choices]]
+id = "oldcopper_off"
+name = "No"
+description = "Do not install Create: Old Copper Stuffs."
+
 [flavor_groups.invsorter]
 name = "Inventory Sorter"
 description = "Simple inventory sorting and scroll item movement. Middle click sorts, mousewheel in and out of inventory one item at a time. Both required for functionality, but optional on client."
@@ -125,3 +138,5 @@ flavors = "lucent_on"
 flavors = "fonts_fontolith"
 [metafile.unsanded]
 flavors = "fonts_unsanded"
+[metafile.create-old-copper-stuffs]
+flavors = "oldcopper_on"

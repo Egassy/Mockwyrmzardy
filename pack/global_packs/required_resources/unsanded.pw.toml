@@ -1,6 +1,6 @@
 name = "Unsanded (Font)"
 filename = "Unsanded-1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

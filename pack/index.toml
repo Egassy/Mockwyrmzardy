@@ -961,6 +961,11 @@ file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "949ba68e9d54de5ac3f3b4183bc7b89ba7bb66723bee84fa5368b5850c153619"
 
 [[files]]
+file = "global_packs/required_resources/create-old-copper-stuffs.pw.toml"
+hash = "e9676478b9b306807286210498cc46ed74c9436f1c70a3ecc2716891966029bd"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/fontolith.pw.toml"
 hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
 metafile = true
@@ -975,7 +980,7 @@ hash = "e0c7331a506480a33bae4c961b28d3810ed1469e4053239103f917a39327505c"
 
 [[files]]
 file = "global_packs/required_resources/unsanded.pw.toml"
-hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
+hash = "39a06de282990627cf5b7acff33961cc8c09a72e1627cf8c8c40a8f2a94ffd61"
 metafile = true
 
 [[files]]
@@ -1430,4 +1435,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "24ab899f7a3c61db580c47911897dfc35e2ffcf52dba586be11b36938decd42f"
+hash = "710381b4d9f262d9851d4aa931633525fa78ca5a4077ca83cb390496817a0476"

@@ -1,0 +1,13 @@
+name = "Create: Old Copper Stuffs"
+filename = "Old Copper Stuffs v1.7.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "51736105fd41422475b479a8a0a47f0eba8f6ceb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6280455
+project-id = 1210517
