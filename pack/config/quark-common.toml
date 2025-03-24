@@ -1608,14 +1608,14 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
-		"Shulker Tooltips" = true
+		"Food Tooltips" = false
+		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true
 		"Shulker Box Use Colors" = true
-		"Shulker Box Require Shift" = false
-		"Map Require Shift" = false
+		"Shulker Box Require Shift" = true
+		"Map Require Shift" = true
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
@@ -1657,7 +1657,7 @@
 		"Enable Shiny Dolphin" = true
 		"Enable Shiny Slime" = true
 		"Enable L G B T Bees" = true
-		"Every Bee Is L G B T" = false
+		"Every Bee Is L G B T" = true
 		#The chance for an animal to have a special "Shiny" skin, like a shiny pokemon. This is 1 in X. Set to 0 to disable.
 		"Shiny Animal Chance" = 2048
 		#If a shiny animal should emit occasional sparkles.

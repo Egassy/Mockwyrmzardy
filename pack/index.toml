@@ -466,7 +466,7 @@ hash = "962a271978ada46ab0d65c3f256b446ec3d878cef7642e24ce857f5c01fd2089"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "38b4c1ae2fa5bd85ee3a90f79424f0abf1726d928b1c2c4e86de0984ac8a0a02"
+hash = "058916f6840d7e591ad97dd55b70abbcb84c4865163c9c9958172fcedaf5d035"
 
 [[files]]
 file = "config/simpletomb.toml"
@@ -989,6 +989,11 @@ metafile = true
 [[files]]
 file = "mods/auroras.pw.toml"
 hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
+metafile = true
+
+[[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "eeb8e30848242fa2dc20ddf5f8a7778a4f0ef459ce9242a82b3a93d6aebcac91"
 metafile = true
 
 [[files]]
