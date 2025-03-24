@@ -661,6 +661,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/cataclysm/recipes/stone
 hash = "9c21130f3ec16f2648f25ca677a39dbeb35beb8af45152f0c403ebde7a38b62f"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/chisel/recipes/chisel.json"
+hash = "1daed2fc31f5d433c92733711e49dac1a1d99c7793c5f282bfb7d13ef634adc9"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/dimdoors/recipes/black_fabric.json"
 hash = "7a998dd0dae0f7eb1887a6d8e18e0a2ceddb188b6db8c2065741a721561f0793"
 
@@ -960,6 +964,14 @@ hash = "949ba68e9d54de5ac3f3b4183bc7b89ba7bb66723bee84fa5368b5850c153619"
 file = "global_packs/required_resources/fontolith.pw.toml"
 hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
 metafile = true
+
+[[files]]
+file = "global_packs/required_resources/mockwyrmzardryassets/assets/chisel/textures/item/chisel.png"
+hash = "42a530ed53d32a47f02b165722ddc46056be9eeaf8cb89237a90bd86308c93a9"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrmzardryassets/pack.mcmeta"
+hash = "e0c7331a506480a33bae4c961b28d3810ed1469e4053239103f917a39327505c"
 
 [[files]]
 file = "global_packs/required_resources/unsanded.pw.toml"
