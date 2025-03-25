@@ -1228,6 +1228,11 @@ hash = "6f794b39d1a212235889ec0bd428097e49e97967e9ab2bb72c386c7432e6abde"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "d2d57dc5270d1adbedc96b8f99fe839a0725abd4fbbbae100b27f1654c6ce2ad"
 metafile = true
@@ -1298,6 +1303,11 @@ hash = "f3df4cd3b2e5cd4142bd94177e2f23363c9e544a0e54064240c3b20287b02b5e"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
@@ -1365,6 +1375,11 @@ metafile = true
 [[files]]
 file = "mods/simple-tomb.pw.toml"
 hash = "0f6036e1482ea786d4dea4d484d210c8833a9c2d95e8b6b3bb09c9678b51a064"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
