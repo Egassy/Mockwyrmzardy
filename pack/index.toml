@@ -1303,6 +1303,11 @@ hash = "f3df4cd3b2e5cd4142bd94177e2f23363c9e544a0e54064240c3b20287b02b5e"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
