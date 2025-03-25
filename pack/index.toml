@@ -1013,11 +1013,6 @@ hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
 metafile = true
 
 [[files]]
-file = "mods/chickensshed.pw.toml"
-hash = "eeb8e30848242fa2dc20ddf5f8a7778a4f0ef459ce9242a82b3a93d6aebcac91"
-metafile = true
-
-[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "4fd14b860b891ddb3b3aa8d8be3482da806ddd26c3fd37675c6b7be1f3a23e8e"
 metafile = true
@@ -1304,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
+hash = "b33a1665e6cef1ad186d99b9441eea7ea609ebde8be81a318cde77f243f715bb"
 metafile = true
 
 [[files]]
