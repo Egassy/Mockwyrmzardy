@@ -629,6 +629,10 @@ file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "c035050d5b59de72e75dc56e8e0c0fdcad03e3464068d03a0fe1ca3dce53a46e"
 
 [[files]]
+file = "global_packs/required_data/Eset's Pretty Pipes Rebalance.zip"
+hash = "d76c37268fc0b66e47c27b8047ee0119dac09fbb3774e86dd7c8025c07e805dc"
+
+[[files]]
 file = "global_packs/required_data/SandStonefix.zip"
 hash = "c7cedced50ed5810586694fc93fc41c6e56fcff20c107da92c77009322490ae1"
 
