@@ -20,6 +20,12 @@
 	#Range: 4.0 ~ 100.0
 	Range = 48.0
 
+["Fluorescent Jelly"]
+	#How many hunger points Fluorescent Jelly gives the player. Set to 0 to disable eating completely. Default = 2
+	Nutrition = 5
+	#How much saturation Fluorescent Jelly gives the player. Default = 1.0
+	Saturation = 1.0
+
 ["Enable Name Formatting Recipes"]
 	#Whether custom recipes that allow for the changing of item name color & formatting are enabled
 	Formatting = true
