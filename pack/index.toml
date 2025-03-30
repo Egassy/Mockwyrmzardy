@@ -641,6 +641,10 @@ file = "global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
 hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
 
 [[files]]
+file = "global_packs/required_data/eldrinpowerbandaid.zip"
+hash = "731ae68369bf8ed81a9bb63b79649102cf38ba00c75a770296ecf36545ea2ae3"
+
+[[files]]
 file = "global_packs/required_data/machines/data/required.document"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
