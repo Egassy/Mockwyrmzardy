@@ -178,7 +178,7 @@ hash = "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915"
 
 [[files]]
 file = "config/experienceobelisk-common.toml"
-hash = "09c1299b8fa25c794d730feb7ef95a2864b7cb34879f7c1b949e6ebd54987038"
+hash = "c2d7626f8ab250dfa5eac45ff6bae6ef7b8e53c308c58cd5118fa9f2ba7807fa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
