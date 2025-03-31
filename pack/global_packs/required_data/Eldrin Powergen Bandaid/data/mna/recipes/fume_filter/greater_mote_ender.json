@@ -1,9 +1,0 @@
-{
-	"type": "mna:eldrin-fume",
-	"item": "mna:greater_mote_ender",
-	"power_provided": 
-	{
-		"affinity": "ENDER",
-		"amount": 288000
-	}
-}

@@ -1,9 +1,0 @@
-{
-	"type": "mna:eldrin-fume",
-	"item": "mna:greater_mote_fire",
-	"power_provided": 
-	{
-		"affinity": "FIRE",
-		"amount": 288000
-	}
-}

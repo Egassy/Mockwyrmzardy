@@ -629,82 +629,6 @@ file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "c035050d5b59de72e75dc56e8e0c0fdcad03e3464068d03a0fe1ca3dce53a46e"
 
 [[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_air.json"
-hash = "baa1dcd789f97022ff198c302a2533cdbbe273abe08337f1ccd721d6edff0ca6"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_arcane.json"
-hash = "efc3599e10a713263d47c14234092e7c5aa56e73248450aedf7e3f9b8a5ce3b1"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_earth.json"
-hash = "5faabdec6ddc495d984500090450836eb73203426f127ca9f709b62302ef4714"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_ender.json"
-hash = "5fc9d39f9f87d32e1013586efa855c88c2213d9c4faf342b69777c6b92ff2584"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_fire.json"
-hash = "bc088dd894fde9fe58fbd8cfa2ef782576e0473a8d3ded4d309ddbe0c7e59b08"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/greater_mote_water.json"
-hash = "58c796d1d3031afac37c527779afff34dd07faca12a1fbdeca74e10faced71fa"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_air.json"
-hash = "a6f945f18b600389d3e662b78dea80684ce08378c00aa81fe9f3ef86790e5333"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_arcane.json"
-hash = "45738e03f6bf827303a1dfdf90a8e84c9166178532a9b57c1d5aa160473c8710"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_earth.json"
-hash = "3d3d8c440f3ec1c36b7720ca2598f5e6cf1f1a3e11c18860d84c798021e418be"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_ender.json"
-hash = "eb5144db8564690f71a4435458868359b3d882bd56c7374ae68cf028c4a55018"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_fire.json"
-hash = "3f2094631dea7bb968c673cd50f9bae113c4a28ca48d3011c18767457796871a"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/lesser_mote_water.json"
-hash = "b71d54fb82430e991ed982f1a57b9553685aaa0f35ddd646a785251b2f8e709d"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_air.json"
-hash = "1db072ee51967ddbb71238260f59c674e849ce8feec2421943957635ede15fa2"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_arcane.json"
-hash = "f9ce1208a6513457683cd5412f18e8d927833d1b1e2bbcee3949026b61a3f36f"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_earth.json"
-hash = "c95b48d844d50f5d1f2481bab92803f74b8c4b878151ed0849fbdf7caf1f8c30"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_ender.json"
-hash = "7ffabdf7b9e2299fa97bad2d07c1844eb763a71265486ae421e091ad38649a29"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_fire.json"
-hash = "c93fb8d7b16163fa87abdbd5377acd5237045b0a68fc92aa7fbe1c12d2bc0428"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/data/mna/recipes/fume_filter/sachet_water.json"
-hash = "b766838a46950cc1cfd0345756b5cdb8a36f6eda59558477636a347f64863a24"
-
-[[files]]
-file = "global_packs/required_data/Eldrin Powergen Bandaid/pack.mcmeta"
-hash = "5c9e7ec5b123c0c2283ef567804c2c5a3d0b6ac73fc7fdcc7f3ec3574936fc39"
-
-[[files]]
 file = "global_packs/required_data/Eset's Pretty Pipes Rebalance.zip"
 hash = "d76c37268fc0b66e47c27b8047ee0119dac09fbb3774e86dd7c8025c07e805dc"
 
@@ -715,6 +639,10 @@ hash = "c7cedced50ed5810586694fc93fc41c6e56fcff20c107da92c77009322490ae1"
 [[files]]
 file = "global_packs/required_data/cool_down_the_faction_war_1.20.1.zip"
 hash = "f44692995c83730844b4aa03f5ab9c7ddc00797c4cffee6b365a6b9947edb70b"
+
+[[files]]
+file = "global_packs/required_data/eldrin_powergen_bandaid.zip"
+hash = "fa16aae5af993ffd664c743a97893fab7a4cd324d3a9c7c9eb2630607ba7d0ce"
 
 [[files]]
 file = "global_packs/required_data/machines/data/required.document"
