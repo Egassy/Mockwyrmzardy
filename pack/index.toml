@@ -246,6 +246,11 @@ hash = "4996f2ee9447bb293d2441ad95a2da74d0766adcc8f5aec775088ad8cd967e94"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "f85777858504f353965a9a82dd0cb3522663e0813939f40b60ecf2ba415cec4a"
 metafile = true
