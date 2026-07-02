@@ -199,3 +199,8 @@ metafile = true
 file = "mods/the-magic-mirror.pw.toml"
 hash = "4996f2ee9447bb293d2441ad95a2da74d0766adcc8f5aec775088ad8cd967e94"
 metafile = true
+
+[[files]]
+file = "mods/whaleborne.pw.toml"
+hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
+metafile = true
