@@ -126,6 +126,16 @@ hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-fixes.pw.toml"
+hash = "3b10ea5b421ede74e1f8696a2dbba3ea657c5f0a77d5fa6681b689871a665ae7"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
