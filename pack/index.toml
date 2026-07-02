@@ -101,6 +101,11 @@ hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "aaef870d1f1df0a247b1bbebf9dcd87ae4337ae1755b7b455f389b991f8d6fb9"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "1653f961ea26d9d19a8a13aec3f2c92f955bf5992c199a7b14f477ec33b5394b"
 metafile = true
