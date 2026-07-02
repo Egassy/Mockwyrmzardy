@@ -91,6 +91,11 @@ hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "79e3ce5a162a613d8fcc4e7793838c3eb6c39b78901be5c27111242491bfc0bc"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
