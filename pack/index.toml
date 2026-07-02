@@ -161,6 +161,11 @@ hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
 metafile = true
 
 [[files]]
+file = "mods/paintings-with-dragons.pw.toml"
+hash = "19eea1399f842a51f1b1651ed2c25790237c1d75f0d92acd4e62b7b9a1feecda"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
