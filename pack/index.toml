@@ -91,6 +91,11 @@ hash = "1653f961ea26d9d19a8a13aec3f2c92f955bf5992c199a7b14f477ec33b5394b"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
 metafile = true
@@ -186,6 +191,11 @@ hash = "779cc89e86506759e73562cb77fb7136e5af6b7081f9d265588e3fa6b62e2052"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
+metafile = true
+
+[[files]]
 file = "mods/species.pw.toml"
 hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
 metafile = true
@@ -203,4 +213,9 @@ metafile = true
 [[files]]
 file = "mods/whaleborne.pw.toml"
 hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "5289b422f333e3cdd63b4c4102ac9f5748b40806680574405452090f4ab8c145"
 metafile = true
