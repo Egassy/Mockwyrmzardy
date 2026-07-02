@@ -1,0 +1,13 @@
+name = "Figura"
+filename = "figura-0.1.6+1.20.1-forge-mc.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72a64c2dbbe2e047d03487ef52ae281047beb1af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8283203
+project-id = 901503

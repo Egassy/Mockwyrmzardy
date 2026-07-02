@@ -76,6 +76,11 @@ hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "1653f961ea26d9d19a8a13aec3f2c92f955bf5992c199a7b14f477ec33b5394b"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
 metafile = true
