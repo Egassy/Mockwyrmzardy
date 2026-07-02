@@ -4,3 +4,8 @@ hash-format = "sha256"
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
+
+[[files]]
+file = "mods/auroras.pw.toml"
+hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
+metafile = true
