@@ -174,3 +174,8 @@ metafile = true
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "779cc89e86506759e73562cb77fb7136e5af6b7081f9d265588e3fa6b62e2052"
+metafile = true
