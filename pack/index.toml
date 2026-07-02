@@ -126,6 +126,11 @@ hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
