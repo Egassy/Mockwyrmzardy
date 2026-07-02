@@ -176,6 +176,11 @@ hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
 metafile = true
 
 [[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "5213246e204c8305badeb3a186bae869bce3adc783dc1d0ec19b6b8875b3d04a"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "18155f139f536592c795f18eae975a82b0200f800693e873316b9157efb6df7b"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/neoauth.pw.toml"
 hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "871cb13d35c5fbdd5d358953f4fdcac35cf0b3880bad1ad6368f8509861d5eca"
 metafile = true
 
 [[files]]
