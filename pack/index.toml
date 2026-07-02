@@ -51,6 +51,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "491fa99546409eb8752ee7e386a21d50d20f17e6dc1f4df7d49ff90f2a1f9cb6"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
@@ -206,6 +211,11 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "dfd6512e91770922d4fd6c0c8888844c27d0f1ddcfbc3e95fb3c582443dd7c2a"
+metafile = true
+
+[[files]]
 file = "mods/right-click-get-crops.pw.toml"
 hash = "afd85bbbbe4cababd97d1b9b7cdc647d0a595a8ad6641547ffdc98985cf2e73b"
 metafile = true
@@ -223,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
+metafile = true
+
+[[files]]
+file = "mods/skinshifter.pw.toml"
+hash = "66bd6276ff9ca2141eee9692f36279d96c2f9eafaff05e28044e1a32553a5557"
 metafile = true
 
 [[files]]
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/whaleborne.pw.toml"
 hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "f52803a934dd3d69301d78340bba597e3b149698f8ec707fddb2cadab9b9b208"
 metafile = true
 
 [[files]]
