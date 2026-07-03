@@ -364,3 +364,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
+
+[[files]]
+file = "mods/zzz-rawr.pw.toml"
+hash = "e34873a343323eb389606411e01422e8c267008dfc0824339b7ff9830ec29163"
+metafile = true

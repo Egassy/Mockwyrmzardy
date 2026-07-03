@@ -1,0 +1,13 @@
+name = "zzz... rrr... Rawr?"
+filename = "zzz_rawr-2.2.0+1.19.2+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb1f4a4af94618400a8001707e5bdd1b8b1d692b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6707660
+project-id = 974261
