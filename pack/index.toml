@@ -61,6 +61,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cyberware-reforged.pw.toml"
+hash = "3868e5e6f2dcb436193a5af31c94078a2656eb9eaa74eafccb603e8c3824ac31"
+metafile = true
+
+[[files]]
 file = "mods/cynosure.pw.toml"
 hash = "de4c1c486f44f2604ac77bcc456848a2170cd9d92ab281fa5c7115183bb3cb19"
 metafile = true
