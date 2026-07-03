@@ -116,6 +116,11 @@ hash = "aaef870d1f1df0a247b1bbebf9dcd87ae4337ae1755b7b455f389b991f8d6fb9"
 metafile = true
 
 [[files]]
+file = "mods/feywild.pw.toml"
+hash = "6538fe9a744daf6d4dbf54da29e4ae45635000ebd48fb6b70851dc075cb4cb07"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "1653f961ea26d9d19a8a13aec3f2c92f955bf5992c199a7b14f477ec33b5394b"
 metafile = true
@@ -226,6 +231,11 @@ hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
 metafile = true
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
+file = "mods/quest-giver.pw.toml"
+hash = "46aeb9118963bd41612cafb644460ab2613608b9c81c3a11fae73f690f9ef167"
 metafile = true
 
 [[files]]
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
+metafile = true
+
+[[files]]
+file = "mods/squished.pw.toml"
+hash = "6cb5d8fbe8d696c20559236f4bee153bceafa84e3566acb84cb937e9c0ff88a2"
 metafile = true
 
 [[files]]

@@ -1,0 +1,6 @@
+- Disable Goety villager slavery. jfc what is that
+- Disable Quark pistons moving tileentities. It breaks yttr
+- Disable TF progression
+- Disable Remorphed abilities(?)
+- Make Estrogen a boost item mod if possible
+- Merge Feywild with TF (have it be a parent/"deeper" dimension?)
