@@ -1,0 +1,13 @@
+name = "Deslabification (slabs to blocks)"
+filename = "deslabification-1.2.0+1.20.1+forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bb5622a8bdc8b359cbbb9e74bb2dae6929931fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6340384
+project-id = 1063857

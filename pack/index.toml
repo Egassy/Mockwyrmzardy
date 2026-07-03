@@ -76,6 +76,11 @@ hash = "de4c1c486f44f2604ac77bcc456848a2170cd9d92ab281fa5c7115183bb3cb19"
 metafile = true
 
 [[files]]
+file = "mods/deslabification.pw.toml"
+hash = "49c296110fb97c9587aae52c940f2c744882fe687b1d5925ab8ab921f4dfb40b"
+metafile = true
+
+[[files]]
 file = "mods/double-hotbar.pw.toml"
 hash = "4205aeed4b70931de5fddadf072a6e4ae5ac20737ea088019fbbaf4697dbfdd3"
 metafile = true
