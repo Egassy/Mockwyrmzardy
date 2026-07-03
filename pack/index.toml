@@ -11,6 +11,11 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/arboreal-ascent.pw.toml"
+hash = "f40aa8d29336183e2340d15393934353d0bc55aa105a5c2bb978cfb06f3c108c"
+metafile = true
+
+[[files]]
 file = "mods/auroras.pw.toml"
 hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
 metafile = true
@@ -186,6 +191,11 @@ hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "c1f97c0f326711cadc34848ee8bcbe98cc0abfb397d7356e9f82fc35835a65ef"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/paintings-with-dragons.pw.toml"
 hash = "19eea1399f842a51f1b1651ed2c25790237c1d75f0d92acd4e62b7b9a1feecda"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "b36112bb54103bc72f9d1e33565912a2a882647e3efe306b1293c4a59cd7efdf"
 metafile = true
 
 [[files]]
