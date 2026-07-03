@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_resources/ie-reimmersed.pw.toml"
+hash = "e4725753f10296f884bc0c69aaad3ef1546397d088c0d7eb84015a89577d9fa2"
+metafile = true
+
+[[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "734cac246f961ec424e4aad245c7da712182716f99a3bb507acdbf3d06c8d38b"
 metafile = true

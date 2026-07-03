@@ -1,0 +1,13 @@
+name = "Immersive Engineering: Reimmersed"
+filename = "[Forge] IE Reimmersed v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20e08025713abd3d3a4f4b047aef1852cfc993cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7464887
+project-id = 1354996
