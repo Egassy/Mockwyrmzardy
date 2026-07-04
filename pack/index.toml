@@ -326,6 +326,11 @@ hash = "f91d32fb67f0ca74e3f86f617a14038a240d29c4dcdbd9cb1e8a843424aa2033"
 metafile = true
 
 [[files]]
+file = "mods/schematicannon-standalone.pw.toml"
+hash = "7efac1da57d9c0a9a58405fdcf620d931ce00dbeefb2f96c2a8bd7272a145c77"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true

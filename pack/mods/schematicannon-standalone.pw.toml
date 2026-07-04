@@ -1,0 +1,13 @@
+name = "Schematicannon standalone"
+filename = "schematicannon-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e35d0418e3310515001ce3abbf0edd838b1f505d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7169241
+project-id = 1375728
