@@ -391,6 +391,11 @@ hash = "f85777858504f353965a9a82dd0cb3522663e0813939f40b60ecf2ba415cec4a"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
+metafile = true
+
+[[files]]
 file = "mods/whaleborne.pw.toml"
 hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
 metafile = true
