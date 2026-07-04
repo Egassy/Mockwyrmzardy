@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-hotbar.pw.toml"
-hash = "4205aeed4b70931de5fddadf072a6e4ae5ac20737ea088019fbbaf4697dbfdd3"
+hash = "11545a12b36e36c3cdc2faea6b405080e601fbc586848631fe559da78bbbcff4"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "a5026cd7a5c3f07a199def35870910b44f7ac077e60c9c11ce756917f9d0354d"
+hash = "9369bd9a8e72722fd3fe94950a4c7b975d79f5481d4d7d2ecaad3a3b8f6b7667"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "1653f961ea26d9d19a8a13aec3f2c92f955bf5992c199a7b14f477ec33b5394b"
+hash = "95cc6a4e81dad7cdd02cad09a4c39f5cf90f950a68af3bff646f857d78bf791c"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
+hash = "df5a24856300a5afd8c7df2ea5e5b93bd33a4f131ed4eda3c6e69db006765b8d"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucent.pw.toml"
-hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
+hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "18155f139f536592c795f18eae975a82b0200f800693e873316b9157efb6df7b"
+hash = "740fd20978a00c6a577808843cb87f4d57702f10959704212ecafa1f4d51960a"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
 file = "mods/neoauth.pw.toml"
-hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+hash = "f3df4cd3b2e5cd4142bd94177e2f23363c9e544a0e54064240c3b20287b02b5e"
 metafile = true
 
 [[files]]
@@ -454,3 +454,7 @@ metafile = true
 file = "mods/zzz-rawr.pw.toml"
 hash = "e34873a343323eb389606411e01422e8c267008dfc0824339b7ff9830ec29163"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "4b71ee9eebc0224f41bfa58b56b9b1cca797106889416c7c1d6105854c5e9199"
