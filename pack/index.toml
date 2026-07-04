@@ -186,6 +186,11 @@ hash = "3b10ea5b421ede74e1f8696a2dbba3ea657c5f0a77d5fa6681b689871a665ae7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "4550431d436af712c10bd486ab1271828a73318112fb895f0150c5ffa15a1796"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
