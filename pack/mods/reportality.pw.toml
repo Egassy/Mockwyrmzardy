@@ -1,0 +1,13 @@
+name = "RePortality"
+filename = "RePortality-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5986956073458d7d6566cef428e0a255089325bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5546182
+project-id = 1064937
