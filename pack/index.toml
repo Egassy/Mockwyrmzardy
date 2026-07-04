@@ -141,11 +141,6 @@ hash = "729157bf616f1b1e243f26ca367de77ebc19fecda4e0655e74e241838316dd87"
 metafile = true
 
 [[files]]
-file = "mods/excorrelation.pw.toml"
-hash = "aaef870d1f1df0a247b1bbebf9dcd87ae4337ae1755b7b455f389b991f8d6fb9"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
@@ -303,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/quest-giver.pw.toml"
 hash = "46aeb9118963bd41612cafb644460ab2613608b9c81c3a11fae73f690f9ef167"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
