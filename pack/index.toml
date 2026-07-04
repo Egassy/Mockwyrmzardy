@@ -91,6 +91,11 @@ hash = "4205aeed4b70931de5fddadf072a6e4ae5ac20737ea088019fbbaf4697dbfdd3"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-delight.pw.toml"
+hash = "135822ab8ebcf92911d0eb86858d118e8b4aff43970e7709d353b14a615f56e1"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "a5026cd7a5c3f07a199def35870910b44f7ac077e60c9c11ce756917f9d0354d"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/excorrelation.pw.toml"
 hash = "aaef870d1f1df0a247b1bbebf9dcd87ae4337ae1755b7b455f389b991f8d6fb9"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]
@@ -236,6 +246,11 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "a27715adab9f478c1bdf1789c1e51343bb2300e36f6ead52c4f62aeae595c791"
+metafile = true
+
+[[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/right-click-get-crops.pw.toml"
 hash = "afd85bbbbe4cababd97d1b9b7cdc647d0a595a8ad6641547ffdc98985cf2e73b"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "f91d32fb67f0ca74e3f86f617a14038a240d29c4dcdbd9cb1e8a843424aa2033"
 metafile = true
 
 [[files]]
