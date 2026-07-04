@@ -26,6 +26,11 @@ hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "91c522420caf375b659816e10a8c6b92e6626356b4940d17388bcd27b8051a44"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "2d15a992bf4c96a1c9b1fe810c347c3705a17e0b14c99bebb48b82ab2c6265d7"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/neoauth.pw.toml"
 hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
