@@ -221,6 +221,11 @@ hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
+metafile = true
+
+[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
 metafile = true
