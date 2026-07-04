@@ -4,3 +4,4 @@
 - Disable Remorphed abilities(?)
 - Make Estrogen a boost item mod if possible
 - Merge Feywild with TF (have it be a parent/"deeper" dimension?)
+- Localize Numina. Yes, all of it
