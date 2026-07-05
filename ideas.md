@@ -4,8 +4,8 @@
 - Disable Remorphed abilities(?) | Done? | On hold
 - Make Estrogen a boost item mod if possible
 - Merge Feywild with TF (have it be a parent/"deeper" dimension?)
-- Try to make Cyberware give biomancy flesh blobs after installing 'ware
-- Localize Numina. Yes, all of it
+- Try to make Cyberware give biomancy flesh blobs after installing 'ware | Done
+- Localize Numina. Yes, all of it | Done
 - Possibly add cyberware tolerance | Done
 - Possibly raise (lower) the critical essence threshold | Done
 - Add recipe for Hexerei thrusterbrush
@@ -13,3 +13,4 @@
 - Add modded light source blockitems to Lucent config
 - Add wrenchs and such into the power fist
 - Fix Figura black boxing | Done (Turn off scissoring)
+- Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
