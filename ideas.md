@@ -1,7 +1,15 @@
-- Disable Goety villager slavery. jfc what is that
-- Disable Quark pistons moving tileentities. It breaks yttr
-- Disable TF progression
-- Disable Remorphed abilities(?)
+- Disable Goety villager slavery. jfc what is that | Done
+- Disable Quark pistons moving tileentities. It breaks yttr | Done 
+- Disable TF progression | do `gamerule tfEnforcedProgression false` on server start
+- Disable Remorphed abilities(?) | Done?
 - Make Estrogen a boost item mod if possible
 - Merge Feywild with TF (have it be a parent/"deeper" dimension?)
+- Try to make Cyberware give biomancy flesh blobs after installing 'ware
 - Localize Numina. Yes, all of it
+- Possibly add cyberware tolerance | Done
+- Possibly raise (lower) the critical essence threshold | Done
+- Add recipe for Hexerei thrusterbrush
+- Check to see if inventory essentials sorting is any good
+- Add modded light source blockitems to Lucent config
+- Add wrenchs and such into the power fist
+- Fix Figura black boxing | Done (Turn off scissoring)
