@@ -206,11 +206,6 @@ hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
 metafile = true
 
 [[files]]
-file = "mods/identity.pw.toml"
-hash = "5011aa46a64f982442fc2d9ae0c2fbdb8b5fd19b917c9ba3ea2e283ca444311f"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
 metafile = true
