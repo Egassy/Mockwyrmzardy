@@ -1,7 +1,6 @@
 - Disable Goety villager slavery. jfc what is that | Done
 - Disable Quark pistons moving tileentities. It breaks yttr | Done 
 - Disable TF progression | do `gamerule tfEnforcedProgression false` on server start
-- Disable Remorphed abilities(?) | Done? | On hold
 - Make Estrogen a boost item mod if possible
 - Try to make Cyberware give biomancy flesh blobs after installing 'ware | Done
 - Localize Numina. Yes, all of it | Done
@@ -15,4 +14,3 @@
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
 - Add all enchants to quarkfig
 - Change Sync recipes
-- Remove piggawatts

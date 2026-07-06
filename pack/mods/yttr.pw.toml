@@ -1,13 +1,8 @@
-name = "Yttr"
-filename = "yttr-9.20.1058.jar"
+name = "yttr"
+filename = "yttr-9.20.1069.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f03df4484fc9817f1ab708b0d2accb0cf495aa3"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8245444
-project-id = 467267
+url = "https://yttr.y2k.diy/builds/dl/yttr-9.20.1069.jar"
+hash-format = "sha256"
+hash = "d9b5c68cfc88652542a8980374313c5875e7b7145a4fae61724583fabae6a67a"
