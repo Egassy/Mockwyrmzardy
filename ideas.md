@@ -1,16 +1,16 @@
 - Disable Goety villager slavery. jfc what is that | Done
 - Disable Quark pistons moving tileentities. It breaks yttr | Done 
 - Disable TF progression | do `gamerule tfEnforcedProgression false` on server start
-- Make Estrogen a boost item mod if possible
 - Try to make Cyberware give biomancy flesh blobs after installing 'ware | Done
 - Localize Numina. Yes, all of it | Done
 - Possibly add cyberware tolerance | Done
 - Possibly raise (lower) the critical essence threshold | Done
-- Add recipe for Hexerei thrusterbrush
-- Check to see if inventory essentials sorting is any good
-- Add modded light source blockitems to Lucent config
-- Add wrenchs and such into the power fist
 - Fix Figura black boxing | Done (Turn off scissoring)
-- Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
+- Check to see if inventory essentials sorting is any good | It isn't
 - Add all enchants to quarkfig | Done
+- Make Estrogen a boost item mod if possible
+- Add recipe for Hexerei thrusterbrush
+- Add wrenchs and such into the power fist
+- Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
+- Add modded light source blockitems to Lucent config
 - Change Sync recipes
