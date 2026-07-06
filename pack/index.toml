@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "global_packs/required_resources/ie-reimmersed.pw.toml"
-hash = "e4725753f10296f884bc0c69aaad3ef1546397d088c0d7eb84015a89577d9fa2"
-metafile = true
-
-[[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "734cac246f961ec424e4aad245c7da712182716f99a3bb507acdbf3d06c8d38b"
 metafile = true
@@ -406,6 +401,11 @@ hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
 metafile = true
 
 [[files]]
+file = "mods/world-start-commands-and-global-gamerules.pw.toml"
+hash = "1a21f34f66487d6aeb050533a8b77e354a51918a20cf950f3448910ae2804017"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9f2108437048cf5f8bab2cbb386ba6db9476e9ae98e3a04b46b2d92efd2ea989"
 metafile = true
@@ -428,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/zzz-rawr.pw.toml"
 hash = "e34873a343323eb389606411e01422e8c267008dfc0824339b7ff9830ec29163"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ie-reimmersed.pw.toml"
+hash = "e4725753f10296f884bc0c69aaad3ef1546397d088c0d7eb84015a89577d9fa2"
 metafile = true
 
 [[files]]
