@@ -326,11 +326,6 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
-file = "mods/quest-giver.pw.toml"
-hash = "46aeb9118963bd41612cafb644460ab2613608b9c81c3a11fae73f690f9ef167"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
