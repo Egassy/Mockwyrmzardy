@@ -3,7 +3,6 @@
 - Disable TF progression | do `gamerule tfEnforcedProgression false` on server start
 - Disable Remorphed abilities(?) | Done? | On hold
 - Make Estrogen a boost item mod if possible
-- Merge Feywild with TF (have it be a parent/"deeper" dimension?)
 - Try to make Cyberware give biomancy flesh blobs after installing 'ware | Done
 - Localize Numina. Yes, all of it | Done
 - Possibly add cyberware tolerance | Done
