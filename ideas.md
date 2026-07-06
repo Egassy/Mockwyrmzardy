@@ -14,3 +14,6 @@
 - Add wrenchs and such into the power fist
 - Fix Figura black boxing | Done (Turn off scissoring)
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
+- Add all enchants to quarkfig
+- Change Sync recipes
+- Remove piggawatts

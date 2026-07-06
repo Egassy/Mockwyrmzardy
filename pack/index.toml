@@ -346,6 +346,11 @@ hash = "298a60f6431f167636b0b1de4b564bc0327c6d2ad4451feba54039aeffe4c6ea"
 metafile = true
 
 [[files]]
+file = "mods/resync-sync-mod-fork.pw.toml"
+hash = "fe76da3bd2096b7cb5cc458c49925c77991e719c634f398f920c2e4e807e7f88"
+metafile = true
+
+[[files]]
 file = "mods/runiclib.pw.toml"
 hash = "f91d32fb67f0ca74e3f86f617a14038a240d29c4dcdbd9cb1e8a843424aa2033"
 metafile = true

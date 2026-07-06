@@ -1,0 +1,13 @@
+name = "ReSync (Sync mod fork)"
+filename = "Sync-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "088d2ca07ab95f1c98664a4d51f259786cbfa91d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7871435
+project-id = 1493314
