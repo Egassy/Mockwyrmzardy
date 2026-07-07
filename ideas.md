@@ -8,9 +8,9 @@
 - Fix Figura black boxing | Done (Turn off scissoring)
 - Check to see if inventory essentials sorting is any good | It isn't
 - Add all enchants to quarkfig | Done
+- Add wrenchs and such into the power fist | Done
 - Make Estrogen a boost item mod if possible
 - Add recipe for Hexerei thrusterbrush
-- Add wrenchs and such into the power fist
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
 - Add modded light source blockitems to Lucent config
 - Change Sync recipes

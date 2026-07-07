@@ -1,0 +1,18 @@
+{
+   "type":"biomancy:decomposing",
+   "ingredient":{
+      "item":"cyber_ware_port:body_part_brain"
+   },
+   "nutrientsCost":1,
+   "processingTime":24,
+   "results":[
+      {
+         "countRange":{
+            "type":"uniform",
+            "max":24,
+            "min":16
+         },
+         "item":"biomancy:flesh_bits"
+      }
+   ]
+}

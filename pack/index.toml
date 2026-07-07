@@ -1,6 +1,74 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_bones.json"
+hash = "c7b68a14f15181b5bf0bc71e3cfce9c3ab8b7028f2826000a178c2cb0b765d4a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_brain.json"
+hash = "ec8a205ae166f4dba95f89f7e7d24932795cbb7e591c948aaed18161ee648939"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_eyes.json"
+hash = "63809abb5ed4f09118a5d3b78466d90b30d77f3a8d331709fa29ad92340cf8ba"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_heart.json"
+hash = "261290bf64f35050c6b13a7151716ca3f37e96dfdf81547802b0604c1df8e6e1"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_arm.json"
+hash = "7c03ff70faf355fd5df1f10fa7f38c8197f7dfeca426eda1bcee10d350a8efec"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_foot.json"
+hash = "125b9882be542bd13256349b4004345c85922ee9b547197d06f125002c88c301"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_hand.json"
+hash = "6079a50e02bb07d8df6da7a5be8b831a5aaa631b382a7fc8ff03ba7e1c0c3f8b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_leg.json"
+hash = "081ecd22d7319efcc4eba5ccf022814a7b7611bbf8dbeae1af6e1f5d7ebc48b6"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_lungs.json"
+hash = "df80d23a46ed1ce331fb9dc1606fea3608e738379b2ea2c90d1063c98d94194d"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_muscles.json"
+hash = "db252d95f3f2a4d530898db01260b7503d9511ad7e1d1e58009f9a29dc3a1314"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_arm.json"
+hash = "b07d70848b320a80c96a64f28b9e4f033ae05426b4ac1b305d6c9034c37267f1"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_foot.json"
+hash = "cdf702cde1363ddfadfab1cde402ee98fafdcba64eaba5a08a0f10e729dd9788"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_hand.json"
+hash = "c7acefcfe3e9dbc99a29e73fd019ce48341baa044f51eaa0ba6dbe4e0c2bdb2b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_leg.json"
+hash = "35d94c8e78355baa63c46042383f40f280eb5bfef37209e270c96af0f5cffa77"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_skin.json"
+hash = "3d78f3666e82bc3f3061cae67f4e834b291e4165f4c113cac0b41db5bfe3182b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_stomach.json"
+hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
+hash = "f27e9dcae4907873dc795d3733a6f76193f5ba1456ff172cbd3123d1e09ffc30"
+
+[[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "734cac246f961ec424e4aad245c7da712182716f99a3bb507acdbf3d06c8d38b"
 metafile = true

@@ -1,0 +1,34 @@
+{
+   "type":"biomancy:decomposing",
+   "ingredient":{
+      "item":"cyber_ware_port:body_part_hand_foot"
+   },
+   "nutrientsCost":2,
+   "processingTime":16,
+   "results":[
+      {
+         "countRange":{
+            "type":"uniform",
+            "max":12,
+            "min":8
+         },
+         "item":"biomancy:flesh_bits"
+      },
+	  {
+         "countRange":{
+            "type":"uniform",
+            "max":1,
+            "min":4
+         },
+         "item":"biomancy:elastic_fibers"
+      },
+	  {
+         "countRange":{
+            "type":"uniform",
+            "max":4,
+            "min":2
+         },
+         "item":"biomancy:bone_fragments"
+      }
+   ]
+}
