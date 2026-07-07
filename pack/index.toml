@@ -69,6 +69,22 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/shell_constructor.json"
+hash = "e9ba4bf5c9819295a4a513501a3aa63513935b761da9e9930fafdbb557817c9a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/shell_storage.json"
+hash = "67a4499fffb28ebc8b3134fdac38074fe9ead55de33fa331a7d1b8bfaa964181"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/sync_core.json"
+hash = "684f9e990f6d694ebfc4153375d505d36a04fb0567f8e8650ee6e521f43a821b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/treadmill.json"
+hash = "65931048314888372413bbee999e46bf00aea5d25e910f69915c20af08644aa0"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "f27e9dcae4907873dc795d3733a6f76193f5ba1456ff172cbd3123d1e09ffc30"
 

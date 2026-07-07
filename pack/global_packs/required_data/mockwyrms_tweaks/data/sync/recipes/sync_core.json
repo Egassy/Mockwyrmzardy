@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CHC",
+    "LAL",
+    "CRC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "H": {
+      "item": "biomancy:healing_additive"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "A": {
+      "item": "goety:animation_core"
+    }
+    "R": {
+      "item": "numina:component_rubber_hose"
+    }
+  },
+  "result": {
+    "item": "sync:sync_core"
+  },
+  "smart_recipes:conditions": {
+    "not": "is_hardcore"
+  }
+}

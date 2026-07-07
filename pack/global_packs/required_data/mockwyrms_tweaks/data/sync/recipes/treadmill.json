@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  D",
+    "CCR",
+    "SSI"
+  ],
+  "key": {
+    "D": {
+      "item": "immersiveengineering:wire_copper"
+    },
+    "S": {
+      "item": "immersiveengineering:ingot_steel"
+    },
+    "C": {
+      "item": "minecraft:gray_carpet"
+    },
+    "I": {
+      "item": "immersiveengineering:component_iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "sync:treadmill"
+  }
+}

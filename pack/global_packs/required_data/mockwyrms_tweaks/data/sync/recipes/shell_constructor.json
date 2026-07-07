@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "G G",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "item": "immersiveengineering:ingot_steel"
+    },
+    "C": {
+      "item": "sync:sync_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "sync:shell_constructor"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "GRG",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "immersiveengineering:ingot_steel"
+    },
+    "C": {
+      "item": "sync:sync_core"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "hexerei:herb_drying_rack"
+    }
+  },
+  "result": {
+    "item": "sync:shell_storage"
+  }
+}
