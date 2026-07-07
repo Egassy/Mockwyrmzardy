@@ -339,6 +339,11 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
+metafile = true
+
+[[files]]
 file = "mods/lucent.pw.toml"
 hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
 metafile = true
