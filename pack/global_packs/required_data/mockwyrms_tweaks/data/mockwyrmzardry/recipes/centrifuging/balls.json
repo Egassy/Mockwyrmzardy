@@ -1,0 +1,19 @@
+{
+	"type": "yttr:centrifuging",
+	"time": 1600,
+	"ingredient": {
+		"item": "minecraft:slime_ball",
+		"count": 8,
+		"yttr:no_substitution": true
+	},
+	"results": [
+		{
+			"item": "estrogen:balls",
+			"count": 4
+		},
+		{
+			"item": "estrogen:molten_slime_bucket",
+			"count": 1
+		}
+	]
+}

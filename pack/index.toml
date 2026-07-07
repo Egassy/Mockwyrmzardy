@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_filters/data/required.document"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
+hash = "4e6cb370acc5f79cdd5e7280b933d76989e77fca868bf84ba14ef4145763d270"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "4dd1d0bd5c59c06e5237342672ecd9a6215558e16b5156c962514db63bf21c6a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/centrifuging/balls.json"
+hash = "e48a6a7b89b9cb9d63dfa87b675bdfe5561182ac35e7013f69267fa37a8b1955"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/genner_flooid.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/thruster_brush.json"
 hash = "36930c1699fdf36b54adaf807a66fa32c74d21b92083e35f2945df12af21b9e8"
 
@@ -87,6 +107,50 @@ hash = "65931048314888372413bbee999e46bf00aea5d25e910f69915c20af08644aa0"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "f27e9dcae4907873dc795d3733a6f76193f5ba1456ff172cbd3123d1e09ffc30"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/crystal_estrogen_pill.json"
+hash = "a0f8fdd974f90f9194c20551c5f1615e20321cb48fa482c6f14f42823bbd63c5"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/dormant_dream_block.json"
+hash = "24bf230e44a640923bd708764406c6bcfed6f05de393aafdceb4bb0b5ec2d325"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/estrogen_chip_cookie.json"
+hash = "e9cb3bb09ae1f2c5303afa1aba747e700db8953baa3a109945d22586445d7649"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/estrogen_patches.json"
+hash = "027469e67a761b7e4c300f7081f935a203de893610efd5cf2fd041c07fda4539"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/gender_change_potion.json"
+hash = "b89f8a9d12fd26c1e3702d9aa874ada35d6d9308b61313de81796088d0c7c6e4"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/data/vanillamode/recipes/crafting/moth_elytra.json"
+hash = "ad6b85040859c9f8f21013f2fc8b9abab7739d78b537287e0db347b2d64a13fa"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/pack.mcmeta"
+hash = "f0043fa4cb91999e9b244178487f8428f00645c74aaaae688b5f8a7c33e3e323"
+
+[[files]]
+file = "global_packs/required_data/vanillamode/pack.png"
+hash = "5005612bb4410c360b5be196c5f8a9cfd1e4db6bd30b4a4a2cbae7ef3d8d522f"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/estrogen/lang/en_us.json"
+hash = "8dc665f8bc61544a726ade1d85da890977e88ae26521dba1f1004c1f120815dc"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/numina/lang/en_us.json"
+hash = "f44d29857c7384edbb797a59ea5d68fe817ec52e5c4b5585080fc714db87f08c"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/pack.mcmeta"
+hash = "0984d9d31e39dbe1e1b1ac55b6ae74620804c12e2e1131467d27540a7044469f"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

@@ -12,5 +12,5 @@
 - Add modded light source blockitems to Lucent config | Nevermind it seems to do so automatically
 - Add recipe for Hexerei thrusterbrush | Done
 - Change Sync recipes | Done
-- Make Estrogen a boost item mod if possible
+- Make Estrogen a boost item mod if possible | Done (made it gender neutral)
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
