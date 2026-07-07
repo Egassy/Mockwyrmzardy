@@ -603,5 +603,9 @@ hash = "e4725753f10296f884bc0c69aaad3ef1546397d088c0d7eb84015a89577d9fa2"
 metafile = true
 
 [[files]]
+file = "schematics/pear_wiggler.nbt"
+hash = "83712cd9d0c2a15a0670f376ba415c211f4143a625f13b60debe99726f08d383"
+
+[[files]]
 file = "unsup.toml"
 hash = "4b71ee9eebc0224f41bfa58b56b9b1cca797106889416c7c1d6105854c5e9199"
