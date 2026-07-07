@@ -283,6 +283,11 @@ hash = "3b10ea5b421ede74e1f8696a2dbba3ea657c5f0a77d5fa6681b689871a665ae7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "20c8a249ae32573e34f5aa19beea3ef7bb5f8ae1c381663bdb4ecec5547604d3"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "4550431d436af712c10bd486ab1271828a73318112fb895f0150c5ffa15a1796"
 metafile = true

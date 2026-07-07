@@ -9,8 +9,8 @@
 - Check to see if inventory essentials sorting is any good | It isn't
 - Add all enchants to quarkfig | Done
 - Add wrenchs and such into the power fist | Done
+- Add modded light source blockitems to Lucent config | Nevermind it seems to do so automatically
+- Add recipe for Hexerei thrusterbrush | Done
+- Change Sync recipes | Done
 - Make Estrogen a boost item mod if possible
-- Add recipe for Hexerei thrusterbrush
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip
-- Add modded light source blockitems to Lucent config
-- Change Sync recipes
