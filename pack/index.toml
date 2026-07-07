@@ -18,7 +18,7 @@ hash = "e48a6a7b89b9cb9d63dfa87b675bdfe5561182ac35e7013f69267fa37a8b1955"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/genner_flooid.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "13baaad96ae1038c8139107a46f8c244b740860bb4c727d9daf94e382e357211"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/thruster_brush.json"
