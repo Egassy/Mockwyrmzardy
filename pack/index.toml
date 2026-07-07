@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/thruster_brush.json"
+hash = "36930c1699fdf36b54adaf807a66fa32c74d21b92083e35f2945df12af21b9e8"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_bones.json"
 hash = "c7b68a14f15181b5bf0bc71e3cfce9c3ab8b7028f2826000a178c2cb0b765d4a"
 

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PP",
+    "BMI",
+    " PP"
+  ],
+  "key": {
+    "P": {
+      "item": "immersiveengineering:plate_steel"
+    },
+    "B": {
+      "tag": "hexerei:broom_brush"
+    },
+    "M": {
+      "item": "immersiveengineering:component_iron"
+    },
+    "I": {
+      "item": "numina:component_ion_thruster"
+    }
+  },
+  "result": {
+    "item": "hexerei:broom_thruster_brush",
+    "count": 1
+  }
+}
