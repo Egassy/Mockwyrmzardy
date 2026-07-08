@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WI ",
+    " IW"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/steel"
+    },
+    "W": {
+      "item": "numina:component_wiring"
+    }
+  },
+  "result": {
+    "item": "powersuits:powerfist"
+  }

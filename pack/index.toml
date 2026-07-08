@@ -1,6 +1,74 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/credits.txt"
+hash = "e1c34ee942c3eb1f457f29e8f971661be25ee491632e1442426236ee4f21e25a"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/ahemmusan_lament.mid"
+hash = "a3d949a64168f6e27e6cb6a8cfed2e7ee25ce58601e8bb2f0d9102f967a26abf"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/beneath_two_moons.mid"
+hash = "694f3ef4e92ead9c4bb7322e0a89671e5b2714f06bf365704dbfd5f214b5685a"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/chim_el_adabal.mid"
+hash = "f0c052c01f5c5c57e5c547ae686fbde66ee7f3177798e43672e55319cc3c2cc3"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/courting_the_alewife.mid"
+hash = "3847251896d9d6f08309f5b6ef667e21982071c0a887ae940374675f8fec2427"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/evening_in_dwynnen.mid"
+hash = "c276e89c20e08adb4c82f4d8152f8a2193f2d9844fd6b6d8c76340c699935159"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/eyes_like_smoke.mid"
+hash = "9fd7db47acde24e85724d5ad3057a25d957eac392b128b190d1dd52a4ac399c8"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/five_legged_festus.mid"
+hash = "9896add2f62a020e9d3299b1d4030fc39fff1d018ced198e77068e1231befe8f"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/guar_driver_song.mid"
+hash = "1fab5ca4f3915fae577e5e63f17f4f6b567d9da173e11d54a863c9ed01c0a0c6"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/requiem_for_lost_kin.mid"
+hash = "e303a21620330e97e7a185f3631ef1efe5871296812fc1535f94d2b4e5dddf21"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/scales.mid"
+hash = "e097c488f93344812567ec532991e0f5dd0fed33b4ef76b41db321be1c917cbe"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/snow_over_northmoor.mid"
+hash = "608e05ef62090780a18c1b772f756c9caf5aeac491b48d8a55e4e9e87edae328"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/the_cliffstrider_song.mid"
+hash = "81eee17125a72786688b16425597b1058102505d236375ee39394ffdff9de4b7"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/the_guar_and_the_scrib.mid"
+hash = "dd384619e3b6dd305240c0f989d8ba1086a5138a43db0010d3cd874f6b41f559"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/the_odai_trail.mid"
+hash = "461f159b5f301701c23e4fffc7d6b576b24c32f0131a01fc75455e596c448d3c"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/data/bardcraft_melodies/melodies/three_drips_of_sujamma.mid"
+hash = "135619f1acbc766657227410b47439ec150df6e330bfe31f9d1f00dc70fa88dc"
+
+[[files]]
+file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/pack.mcmeta"
+hash = "737c36b381fefb37987cbd204a09d082b52a14bdb411c2f07e3f25bae9b60fab"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_filters/data/required.document"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -89,6 +157,66 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/numina/recipes/components/computer_chip.json"
+hash = "b39164f6c28a229b240a7ecef09b7669cbd8c4b8faf3ffbd534db777d917c927"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/armor/netherite_plating.json"
+hash = "3fcbb88ba2566660677fb06d2b36aa9f7ca1ac6869b31be0908f4cc72c9b1a2c"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/environmental/piglin_pacification.json"
+hash = "d31c37817b01a3588feaed2d8483de1276f048d18b2ea473738641186d070342"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/mining_enchantment/aqua_affinity.json"
+hash = "dcfc594e3f32d4a14eb61977a3d2fdf755135b8f4aba3b50281f1e45b734eb28"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/mining_enchantment/fortune.json"
+hash = "c379556beb30d11ac374e1e766955355daa3fe93d4a365a365e49c51609b8686"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/mining_enchantment/silk_touch.json"
+hash = "3c184a63cb6f3d971f188f8f3d39485aa630910f37ecb546b9ed682b4847a000"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/mining_enhancement/vein_miner.json"
+hash = "3729249bb9d79c9f1d2959335895c651cbb8d7beed24a4ffd673505f4564cedb"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/movement/blink_drive.json"
+hash = "79fae51dd4431bb163aaa315b335dfdc028f6ff88db2bc40e950c1ca10c582cb"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/movement/flight_control.json"
+hash = "e654611e7d026fda515be223e9372bb204f535a950862535c9ffa6b288058281"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/movement/rift_generator.json"
+hash = "8331b888f8cca7b571f033d6a03c08f5fe83fa2460b9eaaea464bf41ee7410f5"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/power_fist.json"
+hash = "84889ffe41eb115ae6677a3a9fc2d40d2cacb444998964f86c009658a143ecca"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_feet.json"
+hash = "16afe379b68c9bba607abc3c5f7ce6f9302639b278cc34a593fc9b7173baea02"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_head.json"
+hash = "e8c007efe763ad24038bc6a026c97473fc1a1938263e1032d043e3ee01a03519"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_legs.json"
+hash = "3b660a042b0d05ef592b2ae5008d847c64e456011c6392c60f542ac31f098f34"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_torso.json"
+hash = "89d712661941abfc32bccf480d3acfd66c420ca06e400471281404934d6be20b"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/shell_constructor.json"
 hash = "e9ba4bf5c9819295a4a513501a3aa63513935b761da9e9930fafdbb557817c9a"
 
@@ -139,6 +267,178 @@ hash = "f0043fa4cb91999e9b244178487f8428f00645c74aaaae688b5f8a7c33e3e323"
 [[files]]
 file = "global_packs/required_data/vanillamode/pack.png"
 hash = "5005612bb4410c360b5be196c5f8a9cfd1e4db6bd30b4a4a2cbae7ef3d8d522f"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/bardcraft_melodies/lang/en_us.json"
+hash = "374a7a4325453786f19e7706582e20b2ebc845b2745d66d3414bf8713f4d9286"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c1.ogg"
+hash = "d65bdf0a9282786483b07be1101b500ca9325daeed8b7df4e95adaae01859631"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c2.ogg"
+hash = "d65bdf0a9282786483b07be1101b500ca9325daeed8b7df4e95adaae01859631"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c3.ogg"
+hash = "2189dfac2a44abb341a8ad4e61b2275774561966bf2792e8d4479c0a660c516e"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c4.ogg"
+hash = "2189dfac2a44abb341a8ad4e61b2275774561966bf2792e8d4479c0a660c516e"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c5.ogg"
+hash = "414d35daf35713a5decaacfa3b1791b799614585c8905e9c63ebb9b0b2ec7ec4"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c6.ogg"
+hash = "414d35daf35713a5decaacfa3b1791b799614585c8905e9c63ebb9b0b2ec7ec4"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c7.ogg"
+hash = "c4b7b9f51b73dad95ab4200feca03694265c096bde14f5b063a738bcd9108eb6"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/ender_bass/c8.ogg"
+hash = "c4b7b9f51b73dad95ab4200feca03694265c096bde14f5b063a738bcd9108eb6"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c1.ogg"
+hash = "c6989eacbbd3608fb281da80eb9a3e7ec4afb273e1cdff467c28201f280f6687"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c2.ogg"
+hash = "c6989eacbbd3608fb281da80eb9a3e7ec4afb273e1cdff467c28201f280f6687"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c3.ogg"
+hash = "c6989eacbbd3608fb281da80eb9a3e7ec4afb273e1cdff467c28201f280f6687"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c4.ogg"
+hash = "c6989eacbbd3608fb281da80eb9a3e7ec4afb273e1cdff467c28201f280f6687"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c5.ogg"
+hash = "e76a27f7c35b307d77411ad59e280eae3b34c8718b2278a16b1b1db30a4f2d83"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c6.ogg"
+hash = "412d16e6a15201860d8364f5fe188fd6a20e96de92fb6a74874bb700fa0f14b7"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c7.ogg"
+hash = "2942ce992fc1af318f5125e3c08a057459087e5991b5bf9ad09788876a16eaa8"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/flute/c8.ogg"
+hash = "2942ce992fc1af318f5125e3c08a057459087e5991b5bf9ad09788876a16eaa8"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c1.ogg"
+hash = "fd6dc90b9f22bdb1a8d37af72bc413d396d4cbb7ea25d700c35aa43411cf6f18"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c2.ogg"
+hash = "fd6dc90b9f22bdb1a8d37af72bc413d396d4cbb7ea25d700c35aa43411cf6f18"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c3.ogg"
+hash = "7f38a30091a705176edb93610e390d130962d07dd474372b9cde01c24b83f32c"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c4.ogg"
+hash = "b6ea216b8fb9322b35371ded792912d3a3909549ec735e809bffe90da76e5f48"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c5.ogg"
+hash = "e9c80bd0c5d403f57e94e74bcd5ff8e29c141fe612e3ea288e493864c3ab06ac"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c6.ogg"
+hash = "f0e83026596da473a1b8c77def0e9ff85616dcace001c90f647863543947d1e3"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c7.ogg"
+hash = "b852a73e15b5e152f6ef222c6f4b44d96889133972b5a2a2099c017060eb31a7"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/lute/c8.ogg"
+hash = "b852a73e15b5e152f6ef222c6f4b44d96889133972b5a2a2099c017060eb31a7"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c1.ogg"
+hash = "5ef86beb440b5303bee534943d512506a7a2939e247ff459850061f0ec860498"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c2.ogg"
+hash = "5ef86beb440b5303bee534943d512506a7a2939e247ff459850061f0ec860498"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c3.ogg"
+hash = "9a0de6874c20c70657cba12d8f070f475af83bccf2fe3b63d30b0659ddb28e43"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c4.ogg"
+hash = "a6c05bbf04feaf0bcac630207e8d0f9abedf7632d071142a01251611308868d9"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c5.ogg"
+hash = "e3194a54a49b2dfa32608657021eff80c260d9286f16c889949c4697c9370dd9"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c6.ogg"
+hash = "a297b1c78a67f5cd48c76bc418773738a1925bc480c6227131b154fe29cdd659"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c7.ogg"
+hash = "1daa4dc3914514b708c3c538a4a9597f335797dabc8c0468128e633a052201fb"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/piano/c8.ogg"
+hash = "1daa4dc3914514b708c3c538a4a9597f335797dabc8c0468128e633a052201fb"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c1.ogg"
+hash = "f6e2d2c7cfc171856e2d6a90916ad06dda0ddf54582d539f4d7b87e74df8574c"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c2.ogg"
+hash = "f6e2d2c7cfc171856e2d6a90916ad06dda0ddf54582d539f4d7b87e74df8574c"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c3.ogg"
+hash = "f6e2d2c7cfc171856e2d6a90916ad06dda0ddf54582d539f4d7b87e74df8574c"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c4.ogg"
+hash = "2df7514fcf9deb9a20188ac2dea5d1f35d45994b3212e2ec82c4cc7d76a2fef7"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c5.ogg"
+hash = "2a5bdb65663b98e602da3f12b42a52d68455029bb2d1de643ca434ee20dae2ee"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c6.ogg"
+hash = "9ad36668564991d16b907e1c4fec00f8f6e320d3ea5d2cff4dd5d1191942c17f"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c7.ogg"
+hash = "e5d045b165c052f576567af0f12f229828e02b793db0eea59814ea9a59218d02"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/assets/immersive_melodies/sounds/instruments/vielle/c8.ogg"
+hash = "e5d045b165c052f576567af0f12f229828e02b793db0eea59814ea9a59218d02"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/credits.txt"
+hash = "30d20f9815192b42bc797235190195d9e3e64f82fd4dce0fd74950dff20f0fdf"
+
+[[files]]
+file = "global_packs/required_resources/Immersive Melodies Bardcraft Samples/pack.mcmeta"
+hash = "70c44d70cf0beb74188b61df46c0501b0424ba0c5c2658887ff83e163efb171f"
 
 [[files]]
 file = "global_packs/required_resources/mockwyrms_resources/assets/estrogen/lang/en_us.json"

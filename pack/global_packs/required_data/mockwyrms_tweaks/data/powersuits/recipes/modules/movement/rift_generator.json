@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "powersuits:dim_rift_gen"
+  },
+  "type": "minecraft:crafting_shaped",
+  "mirrored": true,
+  "pattern": [
+    "OFO",
+    "OCO",
+    "OIO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "C": {
+      "item": "numina:component_control_circuit"
+    }
+  }
+}

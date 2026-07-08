@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DG",
+    "GSG",
+    "CCC"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "S": {
+      "tag": "forge:silicon"
+    },
+    "G": {
+      "item": "minecraft:green_dye"
+    },
+    "C": {
+      "tag": "forge:nuggets/copper"
+    }
+  },
+  "result": {
+    "item": "numina:component_computer_chip"
+  }
+}

@@ -1,0 +1,33 @@
+{
+	"type": "yttr:abomination_crafting",
+	"lib39:discovered_via": "yttr:snare",
+	"pattern": [
+		"CFI",
+		"TET",
+		"WFW"
+	],
+	"key": {
+		"E": {
+			"yttr:entity": "minecraft:enderman"
+		},
+		"F": {
+			"item": "numina:component_field_emitter"
+		},
+		"C": {
+			"item": "numina:component_computer_chip"
+		},
+		"T": {
+			"item": "numina:component_ion_thruster"
+		},
+		"I": {
+			"item": "numina:component_ion_thruster"
+		},
+		"W": {
+			"tag": "forge:wiring"
+		}
+	},
+	"lib39:sound": "minecraft:entity.enderman.death",
+	"result": {
+		"item": "powersuits:blink_drive"
+	}
+}
