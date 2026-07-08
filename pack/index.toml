@@ -837,6 +837,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/treadmill.
 hash = "65931048314888372413bbee999e46bf00aea5d25e910f69915c20af08644aa0"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/thaumon/recipes/ancient_stone_bricks.json"
+hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "f27e9dcae4907873dc795d3733a6f76193f5ba1456ff172cbd3123d1e09ffc30"
 
