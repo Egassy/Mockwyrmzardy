@@ -762,7 +762,7 @@ hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/numina/recipes/components/computer_chip.json"
-hash = "b39164f6c28a229b240a7ecef09b7669cbd8c4b8faf3ffbd534db777d917c927"
+hash = "3083d78cee933d639d11b78dc2a2848c09f5147013d648d8eb389653dc0b0f81"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/armor/netherite_plating.json"
