@@ -1216,6 +1216,11 @@ hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "a749b58a3be968bb37ba59db12b009fa76c61733e59bdf32b7d1b3d9815bf732"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
@@ -1288,11 +1293,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "df5a24856300a5afd8c7df2ea5e5b93bd33a4f131ed4eda3c6e69db006765b8d"
-metafile = true
-
-[[files]]
-file = "mods/ironchests.pw.toml"
-hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
 metafile = true
 
 [[files]]
