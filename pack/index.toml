@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "716738bc268a354fb2df91d00ae7c60cf8d86446249fe3b7221c16a4f7d859c4"
+hash = "7277f55075a3afc512bdf96216e4264a74b7eae69b45c13130c73b636956fd6e"
 metafile = true
 
 [[files]]
@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyberware-reforged.pw.toml"
-hash = "3868e5e6f2dcb436193a5af31c94078a2656eb9eaa74eafccb603e8c3824ac31"
+hash = "c18ddbd8fd3edfaeb63bfe4e818a220f1c56e1a4f7e3a1898297b9eb2479914a"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/goety.pw.toml"
-hash = "80ec9f435107d20819b3800c51fe98fd1d93d6b4810b0e51be1ea5836423450f"
+hash = "14d1ad76b34de8b88b1f31a3589a80d3f040b6d7fe4d478eb4a129df67d2f003"
 metafile = true
 
 [[files]]
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-fixes.pw.toml"
-hash = "3b10ea5b421ede74e1f8696a2dbba3ea657c5f0a77d5fa6681b689871a665ae7"
+hash = "07f91a17dfa6488a03872d523a77363f2befbcd8a2ab0c2d4722b8458b55c174"
 metafile = true
 
 [[files]]
@@ -1427,7 +1427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
-hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
+hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
 metafile = true
 
 [[files]]
@@ -1482,12 +1482,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f2108437048cf5f8bab2cbb386ba6db9476e9ae98e3a04b46b2d92efd2ea989"
+hash = "4f3da01a5a8a9cbe6cfb1cf2ab556119e9f6253f1dba0a21f6f53b283fa5c0a7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "294cb9e0859ced405836f168ad0dab487b898f5f6dea1b94987eeb6971e4401d"
+hash = "9f85daa0f20a2c017eaa7c79ddf97a92182d6a067fe7763fa17bfb62fe24c182"
 metafile = true
 
 [[files]]

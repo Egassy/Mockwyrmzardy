@@ -1,13 +1,13 @@
 name = "Immersive Fixes"
-filename = "immersivefixes-1.0.5p2.jar"
+filename = "immersivefixes-1.0.5p3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "682dd151699f65ed88b65c0910e5f80fb19a1f1c"
+hash = "46c3995c191377023439864837f2902ef4bc399c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8347766
+file-id = 8365015
 project-id = 1326199
