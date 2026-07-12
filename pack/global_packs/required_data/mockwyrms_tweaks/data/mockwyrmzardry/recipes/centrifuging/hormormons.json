@@ -1,0 +1,19 @@
+{
+	"type": "yttr:centrifuging",
+	"time": 1600,
+	"ingredient": {
+		"item": "estrogen:filtrated_horse_urine_bucket",
+		"count": 1,
+		"yttr:no_substitution": true
+	},
+	"results": [
+		{
+			"item": "estrogen:testosterone_chunk",
+			"count": 4
+		},
+		{
+			"item": "minecraft:bucket",
+			"count": 1
+		}
+	]
+}

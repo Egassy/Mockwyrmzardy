@@ -1,0 +1,15 @@
+{
+   "type":"immersiveengineering:bottling_machine",
+   "fluid":{
+      "amount":1000,
+      "tag":"mockwyrmzardry:horse_urine"
+   },
+   "input":{
+      "item":"minecraft:bucket"
+   },
+   "results":[
+      {
+         "item":"estrogen:horse_urine_bucket"
+      }
+   ]
+}

@@ -1,0 +1,15 @@
+{
+   "type":"immersiveengineering:refinery",
+   "catalyst":{
+      "item":"estrogen:testosterone_powder"
+   },
+   "energy":1600,
+   "input0":{
+      "amount":1000,
+      "tag":"minecraft:water"
+   },
+   "result":{
+      "amount":1000,
+      "fluid":"estrogen:liquid_estrogen"
+   }
+}

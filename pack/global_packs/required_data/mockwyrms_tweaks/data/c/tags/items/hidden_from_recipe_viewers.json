@@ -1,7 +1,6 @@
 {
   "values": [
-    "estrogen:testosterone_chunk",
-    "estrogen:testosterone_powder",
-    "estrogen:testosterone_mixture_bucket"
+    "estrogen:testosterone_mixture_bucket",
+	"constructionwand:core_destruction"
   ]
 }

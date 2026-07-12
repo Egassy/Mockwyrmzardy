@@ -1,0 +1,15 @@
+{
+   "type":"immersiveengineering:bottling_machine",
+   "fluid":{
+      "amount":1000,
+      "tag":"mockwyrmzardry:liquid_estrogen"
+   },
+   "input":{
+      "item":"minecraft:bucket"
+   },
+   "results":[
+      {
+         "item":"estrogen:liquid_estrogen_bucket"
+      }
+   ]
+}

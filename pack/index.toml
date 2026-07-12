@@ -678,23 +678,47 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "4e6cb370acc5f79cdd5e7280b933d76989e77fca868bf84ba14ef4145763d270"
+hash = "9a237866dde77a9071d2d5927dd1c2f7b73838acee730620ae7c56cba3437680"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "4dd1d0bd5c59c06e5237342672ecd9a6215558e16b5156c962514db63bf21c6a"
+hash = "7cbc27f267cbea888c6700912b30890bf26257727822151015fbbe17e58dfc65"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/bottling/estrogen_bucket.json"
+hash = "0baa236bddaaa89a84b95ad4e797cf54fbdbd9d23f63297b3540bc580044493e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/bottling/filtered_pissbucket.json"
+hash = "0f59ee762a94a20a826c6f22746cc2ef51077f63a9df29a7254dbed773c676c6"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/bottling/pissbucket.json"
+hash = "9c86936e20148cca6bce2463900db44edf2ca6b8dc3645a31a823223cd614e1b"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/centrifuging/balls.json"
 hash = "e48a6a7b89b9cb9d63dfa87b675bdfe5561182ac35e7013f69267fa37a8b1955"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/centrifuging/hormormons.json"
+hash = "079a9bac118191127bcb4775c28af9992c9f8fe8026758aa086e23b6727ddd71"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/genner_flooid.json"
 hash = "13baaad96ae1038c8139107a46f8c244b740860bb4c727d9daf94e382e357211"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/honse.json"
+hash = "a4881198964e2efc315e54bbc44a0914afee63d56ce400e892b3428418b89fd2"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/thruster_brush.json"
 hash = "36930c1699fdf36b54adaf807a66fa32c74d21b92083e35f2945df12af21b9e8"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crusher/cocaine.json"
+hash = "65188d60da7e59a7a9cd0fb24669a39fd6a35261afb56f58a7b1f782458d8b20"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_bones.json"
@@ -759,6 +783,30 @@ hash = "3d78f3666e82bc3f3061cae67f4e834b291e4165f4c113cac0b41db5bfe3182b"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_stomach.json"
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/hormormonfertilizer.json"
+hash = "4bf3273596c6698e4381341a5c184a6b9da79cca5e3f61e3853a40c427483524"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/hormormonfluid.json"
+hash = "4b7f6be3b796fb6dc266fa9d9ad44103f24c9b3f3b350726ad62e75216622c2e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/piss.json"
+hash = "129cfdc6f3093a609347f0b143d83c9de7f634b44caf39e871c67c6f1e38f1e8"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/fluids/estrogen.json"
+hash = "efaa9b8dda57b177c6435efe72c5cffc158acbff928d06de1e6f1698656a3842"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/fluids/filtrated_horse_urine.json"
+hash = "f0fc9b3ec71c23dcd0fa419bd414d25c6da2faf0c034134b59887d0f54d5806c"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/fluids/horse_urine.json"
+hash = "b01fa4a2af33e1fd176c2d3a60150f5a4d708daaae63ee67ecc354718e60064c"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/numina/recipes/components/computer_chip.json"
@@ -1050,7 +1098,7 @@ hash = "70c44d70cf0beb74188b61df46c0501b0424ba0c5c2658887ff83e163efb171f"
 
 [[files]]
 file = "global_packs/required_resources/mockwyrms_resources/assets/estrogen/lang/en_us.json"
-hash = "8dc665f8bc61544a726ade1d85da890977e88ae26521dba1f1004c1f120815dc"
+hash = "f67611ac7ec1d242d9a4d4e192a9c6fd7f81aecac7c999c061f8df23024a60aa"
 
 [[files]]
 file = "global_packs/required_resources/mockwyrms_resources/assets/numina/lang/en_us.json"
@@ -1093,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7277f55075a3afc512bdf96216e4264a74b7eae69b45c13130c73b636956fd6e"
+metafile = true
+
+[[files]]
+file = "mods/capable-cauldrons.pw.toml"
+hash = "84eea5e3a2052834d2961bf32d3275debbcc15717cb02cb968dfb4b6e9d0096d"
 metafile = true
 
 [[files]]

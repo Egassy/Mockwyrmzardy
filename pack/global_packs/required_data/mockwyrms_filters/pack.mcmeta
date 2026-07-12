@@ -2,5 +2,13 @@
   "pack": {
     "description": "Mockwyrms Filters",
     "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "constructionwand",
+        "path": "core_destruction"
+      }
+    ]
   }
 }

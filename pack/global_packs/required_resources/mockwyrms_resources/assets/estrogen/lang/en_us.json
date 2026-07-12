@@ -24,5 +24,8 @@
   "item.minecraft.lingering_potion.effect.estrogen": "Lingering Potion of Gender Euphoria",
   "item.minecraft.potion.effect.estrogen": "Potion of Gender Euphoria",
   "item.minecraft.splash_potion.effect.estrogen": "Splash Potion of Gender Euphoria",
-  "item.minecraft.tipped_arrow.effect.estrogen": "Arrow of Gender Euphoria"
+  "item.minecraft.tipped_arrow.effect.estrogen": "Arrow of Gender Euphoria",
+  "effect.estrogen.dreaming.description": "Can trigger when sleeping near Dream Blocks without a Dreamcatcher near.\nMore the merrier!",
+  "item.estrogen.testosterone_powder": "Suspicious White Powder",
+  "item.estrogen.testosterone_chunk": "Hormonal Chunk"
 }

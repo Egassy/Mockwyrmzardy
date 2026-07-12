@@ -1,0 +1,24 @@
+{
+	"type": "yttr:abomination_crafting",
+	"lib39:discovered_via": "yttr:snare",
+	"pattern": [
+		"P",
+		"H",
+		"B"
+	],
+	"key": {
+		"H": {
+			"yttr:entity": "minecraft:horse"
+		},
+		"S": {
+			"tag": "forge:piston"
+		},
+		"G": {
+			"item": "minecraft:bucket"
+		}
+	},
+	"lib39:sound": "minecraft:entity.horse.death",
+	"result": {
+		"item": "estrogen:horse_urine_bucket"
+	}
+}

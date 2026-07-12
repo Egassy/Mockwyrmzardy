@@ -1,0 +1,15 @@
+{
+   "type":"immersiveengineering:refinery",
+   "catalyst":{
+      "item":"immersiveengineering:fertilizer"
+   },
+   "energy":1600,
+   "input0":{
+      "amount":1000,
+      "tag":"mockwyrmzardry:filtrated_horse_urine"
+   },
+   "result":{
+      "amount":1000,
+      "fluid":"estrogen:liquid_estrogen"
+   }
+}

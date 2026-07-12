@@ -1,0 +1,15 @@
+{
+   "type":"immersiveengineering:refinery",
+   "catalyst":{
+      "item":"yttr:ultrapure_carbon"
+   },
+   "energy":1600,
+   "input0":{
+      "amount":1000,
+      "tag":"mockwyrmzardry:horse_urine"
+   },
+   "result":{
+      "amount":1000,
+      "fluid":"estrogen:filtrated_horse_urine"
+   }
+}
