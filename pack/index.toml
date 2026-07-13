@@ -893,6 +893,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/thaumon/recipes/ancient
 hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/snareable.json"
+hash = "75d09e011d36c8001e881aa1dc5da9c9e8cf6af709d99d2a3e97f47e61e90667"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
 hash = "f27e9dcae4907873dc795d3733a6f76193f5ba1456ff172cbd3123d1e09ffc30"
 
@@ -1413,6 +1417,11 @@ hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ce79c9c2caaeff5bab9cbc657b1e09c43c6fca32f1e3095e9b84bd4923e3be7e"
+metafile = true
+
+[[files]]
 file = "mods/modular-powersuits.pw.toml"
 hash = "5213246e204c8305badeb3a186bae869bce3adc783dc1d0ec19b6b8875b3d04a"
 metafile = true
@@ -1480,6 +1489,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
+file = "mods/quicknick.pw.toml"
+hash = "caf8006d20f5e8ae52bc90a978757b9b4e1fad05bf6dc38512a414aca1d22bba"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "QuickNick"
+filename = "quicknick-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c50ade58d0370538161f759c5bde209c2331d30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5321444
+project-id = 981289
