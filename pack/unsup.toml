@@ -1,3 +1,16 @@
+[flavor_groups.embeddium]
+name = "Embeddium"
+description = "Rendering optimization mod, may cause visual issues with some effects. Recommended only to use if needed. Client only."
+side = "client"
+[[flavor_groups.embeddium.choices]]
+id = "embeddium_on"
+name = "Yes"
+description = "Installs Embeddium."
+[[flavor_groups.embeddium.choices]]
+id = "embeddium_off"
+name = "No"
+description = "Do not install Embeddium."
+
 [flavor_groups.ears]
 name = "Ears"
 description = "Uses the otherwise-blank space on a modern 64x64 skin in combination with alpha layer encoding to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more. Client only. No effect (other than seeing other players Ears skins) if you do not have an Ears skin. Client only."
@@ -102,6 +115,8 @@ id = "neoauth_off"
 name = "No"
 description = "Do not install Neoauth."
 
+[metafile.embeddium]
+flavors = "embeddium_on"
 [metafile.ears]
 flavors = "ears_on"
 [metafile.figura]
