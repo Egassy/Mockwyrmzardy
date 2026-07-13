@@ -1,13 +1,13 @@
 name = "Refraction Continuation"
-filename = "refraction-1.20.1-1.0.0-forge.jar"
+filename = "refraction-1.20.1-1.1.0-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1257e1fe398c996a733714198ad3d061aef280ce"
+hash = "9cbe6bf022f6f7cbaa75a4336ef071a28c3b789e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8407645
+file-id = 8422099
 project-id = 921582

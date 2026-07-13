@@ -1489,7 +1489,7 @@ metafile = true
 
 [[files]]
 file = "mods/refraction-continuation.pw.toml"
-hash = "b267daf4552e182fae7e0de27d60e5db00e9250f4b47e2a0f49a283f259a1db1"
+hash = "9747761e3c621144923b489cbfc7fdb8f0917ebc90b47cd76e03f86a0e3754e5"
 metafile = true
 
 [[files]]
