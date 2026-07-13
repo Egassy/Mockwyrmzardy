@@ -1,0 +1,131 @@
+
+#Beam settings
+[beam]
+	#How far a beam can travel.
+	#Range: 1 ~ 1024
+	beam_range = 256
+	#Factor to multiply the potency-over-distance falloff by.
+	#Range: 0 ~ 100
+	distance_loss = 1
+	#Absolute maximum times a beam may bounce/reflect (infinite-loop guard).
+	#Range: 1 ~ 1000
+	beam_bounce_limit = 50
+	#Visual lifetime of beam particles in ticks.
+	#Range: 0 ~ 100
+	beam_particle_life = 1
+	#1-in-X chance the strongest laser triggers beam effects.
+	#Range: 1 ~ 1000
+	beam_effect_trigger_chance = 10
+	#Render beams with additive blending.
+	additive_blending = true
+	#Use the flat minimalistic beam texture.
+	use_flat_beam_texture = false
+
+#Source strength settings (max 255)
+[sources]
+	#Strength the sun provides to magnifiers.
+	#Range: 0 ~ 255
+	solar_alpha = 16
+	#Strength glowstone provides to the glowstone laser.
+	#Range: 0 ~ 255
+	glowstone_alpha = 64
+	#Strength electricity provides to the electric laser.
+	#Range: 0 ~ 255
+	electric_alpha = 64
+	#How long glowstone fuel lasts in the glowstone laser (ticks).
+	#Range: 1 ~ 10000
+	glowstone_fuel_expire_delay = 500
+
+#Energy (Forge Energy) settings
+[energy]
+	#Max energy stored in the electric laser.
+	#Range: 1 ~ 10000000
+	max_tesla = 10000
+	#Energy per tick required to feed the electric laser.
+	#Range: 1 ~ 100000
+	tesla_per_tick = 64
+
+#Disco ball
+[disco_ball]
+	#Disco ball bounce/reflect limit.
+	#Range: 1 ~ 100
+	disco_ball_beam_bounce_limit = 2
+
+#Beam harm settings
+[harm]
+	#Walking through a beam sets players on fire.
+	all_beam_harm_players = true
+	#Walking through a beam sets non-players on fire.
+	all_beam_harm_non_players = true
+
+#Armor reflection
+[armor]
+	#Divisor applied to a beam reflected off full reflective-alloy armor.
+	#Range: 0.1 ~ 100.0
+	player_beam_reflect_strength_division = 1.4
+
+#Miscellaneous
+[misc]
+	#Completely removes the photon cannon from the game.
+	disable_photon_cannon = false
+
+#Optics / index of refraction
+[optics]
+	#Index of refraction of air.
+	#Range: 0.01 ~ 10.0
+	air_ior = 1.0
+	#Index of refraction of glass.
+	#Range: 0.01 ~ 10.0
+	glass_ior = 1.2
+	#Index of refraction of red light.
+	#Range: 0.01 ~ 10.0
+	red_ior = 0.6
+	#Index of refraction of green light.
+	#Range: 0.01 ~ 10.0
+	green_ior = 0.4
+	#Index of refraction of blue light.
+	#Range: 0.01 ~ 10.0
+	blue_ior = 0.2
+
+#Effect fail chances
+[fail_chances]
+	#1-in-X failure chance for green beam effects.
+	#Range: 1 ~ 1000
+	extra_fail_chance_green = 1
+	#1-in-X failure chance for yellow beam effects.
+	#Range: 1 ~ 1000
+	extra_fail_chance_yellow = 10
+	#1-in-X failure chance for red beam effects.
+	#Range: 1 ~ 1000
+	extra_fail_chance_red = 1
+	#1-in-X failure chance for pink beam effects.
+	#Range: 1 ~ 1000
+	extra_fail_chance_pink = 1
+	#1-in-X failure chance for purple beam effects.
+	#Range: 1 ~ 1000
+	extra_fail_chance_purple = 5
+	#1-in-X failure chance for item smelting via beam.
+	#Range: 1 ~ 10000
+	extra_fail_chance_item_smelting = 100
+
+#Cross-mod integration. Each section only applies when the mod is installed.
+[integration]
+	#Forge Energy inserted per point of beam potency per tick.
+	#Keep below tesla_per_tick / electric_alpha (50/64 by default) so an electric
+	#laser cannot be wired into a loop that generates more energy than it burns.
+	#Range: 0.0 ~ 64.0
+	energy_per_potency = 1.0
+	#Mekanism Joules fed to a laser receptor per point of beam potency per tick.
+	#Range: 0.0 ~ 64.0
+	joules_per_potency = 0.2
+	#Botania mana per point of beam potency per tick. 0.04 makes a full-strength
+	#beam worth about 10 mana/tick, comparable to a few endoflames.
+	#Range: 0.0 ~ 16.0
+	mana_per_potency = 0.4
+	#Tinkers' temperature a barely-lit red beam sustains. Solid fuel is 800.
+	#Range: 1 ~ 10000
+	tinkers_min_temperature = 800
+	#Tinkers' temperature a full-strength red beam sustains. Blazing blood is 1500.
+	#Range: 1 ~ 10000
+	tinkers_max_temperature = 1500
+

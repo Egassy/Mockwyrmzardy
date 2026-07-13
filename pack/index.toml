@@ -421,6 +421,10 @@ file = "config/refinedstorage-client.toml"
 hash = "1688fbd31e8cd3a63f9ca3f5aa407dc4c5725bb727e450df69a24fd45418181a"
 
 [[files]]
+file = "config/refraction-common.toml"
+hash = "94ac7649b349be842d1058c473c17a721f30a6d8764352655358639a62a0539c"
+
+[[files]]
 file = "config/runiclib.json"
 hash = "d8b59dc047396b66cf2e6a8d2de8bd9c85a0a37b0f569eef520f2a52409aae54"
 
@@ -1451,6 +1455,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
+file = "mods/refraction-continuation.pw.toml"
+hash = "b267daf4552e182fae7e0de27d60e5db00e9250f4b47e2a0f49a283f259a1db1"
 metafile = true
 
 [[files]]
