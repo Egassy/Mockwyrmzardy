@@ -1113,6 +1113,26 @@ file = "global_packs/required_resources/mockwyrms_resources/pack.mcmeta"
 hash = "0984d9d31e39dbe1e1b1ac55b6ae74620804c12e2e1131467d27540a7044469f"
 
 [[files]]
+file = "global_packs/required_resources/vector/assets/yttr/textures/gui/suit.png"
+hash = "9775132e62c9e68da133b365fc18f93fbd9bb03e578ed0cbee84e870c49769b8"
+
+[[files]]
+file = "global_packs/required_resources/vector/assets/yttr/textures/gui/suit.png.mcmeta"
+hash = "14972e242987e4be84336806bc1f08e61480110a1668718688def1be06787f1b"
+
+[[files]]
+file = "global_packs/required_resources/vector/assets/yttr/vector-marker"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_resources/vector/pack.mcmeta"
+hash = "85813ac5fe6db4666f01cd9603090b057041319e86f25eed65e66e592cf272be"
+
+[[files]]
+file = "global_packs/required_resources/vector/pack.png"
+hash = "5a1e088f80a4541b1e895f7c57ef1a3e10a7e4db695cbe6f5dcc64d2998107fc"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
