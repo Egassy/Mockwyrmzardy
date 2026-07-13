@@ -1364,7 +1364,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-fixes.pw.toml"
-hash = "07f91a17dfa6488a03872d523a77363f2befbcd8a2ab0c2d4722b8458b55c174"
+hash = "a52b2ee8472e60fd9c05ab2f5e9db4d6412bb352d4b9bfa120cb4dd787974ca7"
 metafile = true
 
 [[files]]
