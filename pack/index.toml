@@ -789,12 +789,12 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
-file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/hormormonfertilizer.json"
-hash = "4bf3273596c6698e4381341a5c184a6b9da79cca5e3f61e3853a40c427483524"
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfertilizer.json"
+hash = "d737382bfcfff6a654dfb17975df6bfa20f7997401e17de349ca457b31c1b810"
 
 [[files]]
-file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/hormormonfluid.json"
-hash = "4b7f6be3b796fb6dc266fa9d9ad44103f24c9b3f3b350726ad62e75216622c2e"
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfluid.json"
+hash = "d861b4a1d62f96771ef8fc0907573f2e7d566988a9e0595be9bef676dc34f6fc"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/piss.json"
