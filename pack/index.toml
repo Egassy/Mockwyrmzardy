@@ -65,6 +65,10 @@ file = "config/connectorextras_energy_bridge-common.toml"
 hash = "4075f057d848f2a33f0bff9f44cce49f8d8340001d7b2afe3431ba1d999c4400"
 
 [[files]]
+file = "config/constructionwand-client.toml"
+hash = "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
+
+[[files]]
 file = "config/cosmeticarmorreworked-client.toml"
 hash = "1f09257bc11babe19b5e78bce02ed7dcade4efab2a9353008bacb96ddd6bd75f"
 
@@ -103,6 +107,14 @@ hash = "3a2377a7afbbc908c59c8ea5cdd3b2a08db100c71ec9598963a0a6d86ec67d14"
 [[files]]
 file = "config/dungeonsdelight-config.toml"
 hash = "6d8c2727b99d5c48ac6faeaadfe87f894178a3e90628a473b650b27e0accb3e0"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
 file = "config/emi.css"
@@ -151,6 +163,10 @@ hash = "940f68676859e852c600974c4776e986453ce7d3b2cf27ac156535e26c160e11"
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "459c4d9fcf137f0533da3280349f2abe51510497632130cbc23507dd121b1bd8"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
 file = "config/figura.json"
@@ -381,6 +397,14 @@ file = "config/lucent-client.toml"
 hash = "80970b828617823c9b191310222c25bef58f2ae0d1dd7f85afbb5cc21a39b12e"
 
 [[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cc9db08ca3f44714cf14117fb1772eed88c9cc3272fea6d17e657292c8799fe0"
+
+[[files]]
 file = "config/moreoverlays.toml"
 hash = "bdd9774be8f49f810c3628128b282481e1606b29b5a3bb8498a38e7db2d212eb"
 
@@ -417,12 +441,16 @@ file = "config/quark-common.toml"
 hash = "240fe6bcded78eac6dfbf3b829ce63031f503b0ab98dbfd27b5a3bf7f7ab756b"
 
 [[files]]
+file = "config/quicknick-common.toml"
+hash = "45b1fa9760022c774ab8f070ecd872d4d8e2b477213b3a63eb4c3ecdb3b83013"
+
+[[files]]
 file = "config/refinedstorage-client.toml"
 hash = "1688fbd31e8cd3a63f9ca3f5aa407dc4c5725bb727e450df69a24fd45418181a"
 
 [[files]]
 file = "config/refraction-common.toml"
-hash = "94ac7649b349be842d1058c473c17a721f30a6d8764352655358639a62a0539c"
+hash = "bf4dc0f4eab0ef04379deb889818c33240dd981146f9ff60eae385d73f0b056d"
 
 [[files]]
 file = "config/runiclib.json"
@@ -559,6 +587,10 @@ hash = "a836a65347a321c4d46a01525d8ce98c41690c7559390bf352f8d7bae92f8166"
 [[files]]
 file = "defaultconfigs/biomancy-server.toml"
 hash = "6d921d17bc307c1012115528a9e50d13c8a119001269c053248bea246eac7f3e"
+
+[[files]]
+file = "defaultconfigs/constructionwand-server.toml"
+hash = "f617921cb16c8df139faa10c8a4e36f86d54b29ba15e7fbe51a3172d1241dca3"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"

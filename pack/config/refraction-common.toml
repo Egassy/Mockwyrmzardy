@@ -45,12 +45,6 @@
 	#Range: 1 ~ 100000
 	tesla_per_tick = 64
 
-#Disco ball
-[disco_ball]
-	#Disco ball bounce/reflect limit.
-	#Range: 1 ~ 100
-	disco_ball_beam_bounce_limit = 2
-
 #Beam harm settings
 [harm]
 	#Walking through a beam sets players on fire.
