@@ -1199,6 +1199,11 @@ hash = "2d15a992bf4c96a1c9b1fe810c347c3705a17e0b14c99bebb48b82ab2c6265d7"
 metafile = true
 
 [[files]]
+file = "mods/botania-window-box.pw.toml"
+hash = "03d0d62ea319fb2cf80939bbde41922780171fa59af870c019578355cd7fbcc1"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "7277f55075a3afc512bdf96216e4264a74b7eae69b45c13130c73b636956fd6e"
 metafile = true
@@ -1386,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/goety.pw.toml"
 hash = "14d1ad76b34de8b88b1f31a3589a80d3f040b6d7fe4d478eb4a129df67d2f003"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-forge.pw.toml"
+hash = "7351769c2e9b48138b448e0f0a4e5c8ec23730b1b3c4a174f5e7723ce5cbb6f9"
 metafile = true
 
 [[files]]
