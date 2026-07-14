@@ -894,7 +894,7 @@ hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/snareable.json"
-hash = "75d09e011d36c8001e881aa1dc5da9c9e8cf6af709d99d2a3e97f47e61e90667"
+hash = "eb54c643b67f6b7bfd45645c5479ce6d018c3d9be4bc7c98127c5e93fae203c3"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/pack.mcmeta"
