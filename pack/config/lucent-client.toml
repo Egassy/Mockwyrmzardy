@@ -151,4 +151,8 @@
 		# Enables the plugin for Quark.
 		# Default: true
 		quark = true
+		#
+		# Enables the plugin for Tinkers' Construct.
+		# Default: true
+		tconstruct = true
 

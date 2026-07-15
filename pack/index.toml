@@ -118,7 +118,7 @@ hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
 file = "config/emi.css"
-hash = "ec592290923b7dd381d3a432afeb34a635fbddfa1cea9f2b5da8eed52c7f92b0"
+hash = "c4e049d5786c681a5bc07702d58a3a4026708494335c3b09aaf127072853f8c0"
 
 [[files]]
 file = "config/emi_loot_config.toml"
@@ -223,6 +223,10 @@ hash = "e476e324306f23ae4a0d96dc0bcb31873e143157c542499a5169beab042a73e9"
 [[files]]
 file = "config/goety/goety.toml"
 hash = "7b021342b5876aee3c732e47f0daed774d2cfe841c4da98a11ff8eff007105cb"
+
+[[files]]
+file = "config/gravity-api.toml"
+hash = "952dbf6d572c65a1381fe58020798c7fb69d248fe99d81f18dadba8d1ef77cab"
 
 [[files]]
 file = "config/immersive_melodies.json"
@@ -394,7 +398,11 @@ hash = "eb9ba5c9292f60272f47823bd4e68c57a84f5f273f4ce68ce5f7accff5e7daba"
 
 [[files]]
 file = "config/lucent-client.toml"
-hash = "80970b828617823c9b191310222c25bef58f2ae0d1dd7f85afbb5cc21a39b12e"
+hash = "4d79f217a3cfdca471c6d137b24c126c3561bb5d296a11ea7f45177da1c151df"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "fb2b6378aac5723f9bcb0fe195fefc42f675f59467c98ae65df13bd872949e95"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -438,7 +446,7 @@ hash = "90b7d033b6ec89f71ee0285eac98b20e8e5e8aaa8db7494fa1e5f3290f6cb4ad"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "240fe6bcded78eac6dfbf3b829ce63031f503b0ab98dbfd27b5a3bf7f7ab756b"
+hash = "a82a982c5c6db5a19559b8a0e82e8110e20855ff467941aa1e57ba58b17f2718"
 
 [[files]]
 file = "config/quicknick-common.toml"
@@ -467,6 +475,14 @@ hash = "afef01cfc0d12c0762259da786bea4b9b816b569690adecaf75f057a9da90fe3"
 [[files]]
 file = "config/sync-common.toml"
 hash = "f8d0bf1f8bc3b77e196f53c552b0903495f2a72624dba50c3c9615121d46b378"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "ead5290f0e85e9e803dba9a8bcf9a637fa16d3a7724f501ec45d60e1bd0501f2"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "d4e1efce65fdbcc64b530bca3e16e817cafe5799d247b46ff7cf298f36afb9b4"
 
 [[files]]
 file = "config/titanium/titanium-tags.toml"
@@ -503,6 +519,10 @@ hash = "80bd1cdcd43211fecc77f78af8a4e8bebf10f54bd12b9852020811104d72c0ef"
 [[files]]
 file = "config/whaleborne-client.toml"
 hash = "6a9cd94782018c161d47092efca04945118cb841f35db6a8781680a072e7324d"
+
+[[files]]
+file = "config/window_box-common.toml"
+hash = "a911be0af3e57379a7ac1a033ba50e335908681b0de82d837ade3c7a883ada61"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -718,7 +738,7 @@ hash = "9a237866dde77a9071d2d5927dd1c2f7b73838acee730620ae7c56cba3437680"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "7cbc27f267cbea888c6700912b30890bf26257727822151015fbbe17e58dfc65"
+hash = "22d6afc14d2b6fa37ab2e2143e0e77ce1a1ca14dcd4bd8fc3ef89cdc64f38c1e"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/bottling/estrogen_bucket.json"

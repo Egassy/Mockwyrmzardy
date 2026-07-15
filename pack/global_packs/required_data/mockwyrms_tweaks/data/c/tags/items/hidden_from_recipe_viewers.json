@@ -1,6 +1,25 @@
 {
   "values": [
     "estrogen:testosterone_mixture_bucket",
-	"constructionwand:core_destruction"
+	"constructionwand:core_destruction",
+	"gravityapi:gravity_changer_up",
+	"gravityapi:gravity_changer_down",
+	"gravityapi:gravity_changer_east",
+	"gravityapi:gravity_changer_west",
+	"gravityapi:gravity_changer_north",
+	"gravityapi:gravity_changer_south",
+	"gravityapi:gravity_changer_up_aoe",
+	"gravityapi:gravity_changer_down_aoe",
+	"gravityapi:gravity_changer_east_aoe",
+	"gravityapi:gravity_changer_west_aoe",
+	"gravityapi:gravity_changer_north_aoe",
+	"gravityapi:gravity_changer_south_aoe",
+	"gravityapi:plating",
+	"gravityapi:gravity_anchor_up",
+	"gravityapi:gravity_anchor_down",
+	"gravityapi:gravity_anchor_east",
+	"gravityapi:gravity_anchor_west",
+	"gravityapi:gravity_anchor_north",
+	"gravityapi:gravity_anchor_south"
   ]
 }
