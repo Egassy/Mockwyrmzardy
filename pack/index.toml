@@ -677,6 +677,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_fro
 hash = "22d6afc14d2b6fa37ab2e2143e0e77ce1a1ca14dcd4bd8fc3ef89cdc64f38c1e"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"
+hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/bottling/estrogen_bucket.json"
 hash = "0baa236bddaaa89a84b95ad4e797cf54fbdbd9d23f63297b3540bc580044493e"
 
