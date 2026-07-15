@@ -1529,7 +1529,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ce79c9c2caaeff5bab9cbc657b1e09c43c6fca32f1e3095e9b84bd4923e3be7e"
+hash = "31451e71608859493539cefe84b738f1ee218fd315a5e7858da9ab7a1aab2d07"
 metafile = true
 
 [[files]]
@@ -1684,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "e8be245ed767270ec9abbdba7fe19b1c46fbf877fde14f3704d71b5baea11213"
+hash = "f761664b822eab1db23d76ed13c1b24fd582a882cf947ed656391d98f054bd4c"
 metafile = true
 
 [[files]]
@@ -1709,12 +1709,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4f3da01a5a8a9cbe6cfb1cf2ab556119e9f6253f1dba0a21f6f53b283fa5c0a7"
+hash = "ac5dedaa9c82fc7424592babcdaca90da784e68c1785e6a58b3153815eca531e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9f85daa0f20a2c017eaa7c79ddf97a92182d6a067fe7763fa17bfb62fe24c182"
+hash = "af5381e2728bcbb98da9279a9684cf1d2c2c94ebf65996f08a59b38e3302f975"
 metafile = true
 
 [[files]]
