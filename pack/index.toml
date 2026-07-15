@@ -530,7 +530,7 @@ hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
 
 [[files]]
 file = "config/xaero/lib/profiles/default.cfg"
@@ -558,7 +558,11 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
+hash = "70bbbb76e9a0c7e957fdf2801425344636d142898c61e623c387c2c888841d07"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "f9a72a4cddd331d8e74b632acda7798ff51f055caf344caacac88ec877d176e1"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -570,7 +574,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
-hash = "201e49f557c160a48657d8df3aa25830cb68b1316735f69f3564e78223e3317a"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
@@ -578,7 +582,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
@@ -637,8 +641,32 @@ file = "defaultconfigs/immersivepetroleum-server.toml"
 hash = "9c26a1e56247780dc90da89cca31d6430f605bc766fc9a7db77124b5575467b9"
 
 [[files]]
+file = "defaultconfigs/mantle-server.toml"
+hash = "127cece50f50a24a6f4ac79d72e599ce23496ad1ed31465a71e39948b3554055"
+
+[[files]]
 file = "defaultconfigs/numina-server.toml"
 hash = "0cab3076d066643de0a75c700ad59b55880c7c55e60e99f820817e122167c8ae"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "a296a5cc60943b242acc7cdc48d7bd1b70240b9bc771880b2bac362cf4cdc745"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "6b4a2519c59fd5287b0e6defdfcc5e06ce31e8c47d47140e639bcc98f4a84a65"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "b9b257caf45d44724acbf612e4506dc3018bbad9cb62497af20eaa267a2a1570"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "4086c00c0e79266c4c5eae7df17dfa70323f29692cca1c24caf506c069147536"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "6b4a2519c59fd5287b0e6defdfcc5e06ce31e8c47d47140e639bcc98f4a84a65"
 
 [[files]]
 file = "defaultconfigs/pehkui-server.toml"
@@ -1618,6 +1646,11 @@ metafile = true
 [[files]]
 file = "mods/numina.pw.toml"
 hash = "871cb13d35c5fbdd5d358953f4fdcac35cf0b3880bad1ad6368f8509861d5eca"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "6207daf586da03a3efabad0462b91999e573d59a71ed9a31d2a68d419003fa77"
 metafile = true
 
 [[files]]
