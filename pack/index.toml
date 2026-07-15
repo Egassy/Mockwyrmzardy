@@ -1229,6 +1229,34 @@ file = "global_packs/required_resources/mockwyrms_resources/assets/numina/lang/e
 hash = "f44d29857c7384edbb797a59ea5d68fe817ec52e5c4b5585080fc714db87f08c"
 
 [[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/cap.json"
+hash = "bc27167c4f75a76f30b2b46d54ba6c7cc842797fc176b32238955d87b3ea735a"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/cap_alt.json"
+hash = "bc27167c4f75a76f30b2b46d54ba6c7cc842797fc176b32238955d87b3ea735a"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/post.json"
+hash = "09ab14744613c8191c04a34c3185a1934e175321e392f0c1eafe2c377545cb2a"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/post_ends.json"
+hash = "28f3ad57b0a277765deb12232c4dd0034c1c8658cb8ace548061dcccdcb0164a"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/side.json"
+hash = "07df29c015881f935314797a48f2c464e1181530b780f201181ce62997523295"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/block/gold_bars/side_alt.json"
+hash = "847c4adacc6ee65b5b14017b89f79146945da370e1a965681d7e90307736de9e"
+
+[[files]]
+file = "global_packs/required_resources/mockwyrms_resources/assets/tconstruct/models/item/gold_bars.json"
+hash = "ab3df5f3beed4c20cd6965d4d746b46e5a79fbe5b85fa6da9c2f2e1df4472bd5"
+
+[[files]]
 file = "global_packs/required_resources/mockwyrms_resources/pack.mcmeta"
 hash = "0984d9d31e39dbe1e1b1ac55b6ae74620804c12e2e1131467d27540a7044469f"
 
