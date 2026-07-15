@@ -610,7 +610,7 @@ hash = "f31398656a46b17b9c1191143d46bd89710b967a3a8e28e666fc8ad2c58f376e"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "c39b9c51d5925f2bbe8c4a79a38f71a0400ecc3ae86c26fa2b74deaf9b341cf6"
+hash = "6a76a94dfe4b731932faa24e9aa05afb561fa631160220ab790bfb7b4e04ae76"
 
 [[files]]
 file = "defaultconfigs/immersivepetroleum-server.toml"
@@ -827,6 +827,70 @@ hash = "d737382bfcfff6a654dfb17975df6bfa20f7997401e17de349ca457b31c1b810"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfluid.json"
 hash = "d861b4a1d62f96771ef8fc0907573f2e7d566988a9e0595be9bef676dc34f6fc"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/bauxite_ore.json"
+hash = "5177b3f1be2c6f06e8564831dfc7e3122d5713589a7c020c293be6f7094f81f8"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/brookite_ore.json"
+hash = "4fbba4e878010ef2ae805da28c590a9b5d0622dfd90356a7ed98f7d66511445a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_bauxite_ore.json"
+hash = "d3fd4a4d978ddaf7a0d44a4ceaca6cc6ad0ee270e48dacfa376d44476e62bfa6"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_brookite_ore.json"
+hash = "adbad7b0c9e4c1bb00b9b46418d1db05055e7cc32b10a1bcd4264522b45b9250"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_gadolinite.json"
+hash = "39db926aa3fce4e3af15bcdb712187efe5a40f6c6c75297d567f29e914dc1d26"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_lead_ore.json"
+hash = "558b2b443c890094958e79de03147a81285ff3428458a9e99bc1612be9031a6d"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_nickel_ore.json"
+hash = "8974bb56ff54a8f1670094bfdfea93f21175d49aa0fd4fa18971df24fc6df7f7"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_silver_ore.json"
+hash = "32e25bf79e9f839971549a4ff3c98ac29347daf152af893a301a7ac2710ed24d"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_uranium_ore.json"
+hash = "31b1f36bb5a9e78ee8351f7cac8fa35e1b08470fcb001fdba2b7293859173ec3"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/gadolinite.json"
+hash = "a74351ca418f4220eb3524c6df07f4ccf0d7316c9e663718da5a4cd3fd788e7a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/jade_ore.json"
+hash = "fcd8d50f787c42977698bc6763a3d7ed3e0a583b1dd0535929d08b1d781e33dc"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/lead_ore.json"
+hash = "a5ad7fb45533675fd6c2474a364f67aa98c16edf43b6e604e35e217ffd2089f0"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/nickel_ore.json"
+hash = "48657bf8ea3f75bad0d5eb312541b07c6a20578e40a2927a3833d9c839dae881"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/silver_ore.json"
+hash = "a203bfbc15686057eff68c1bbff9bfc92293c140f2fa15e10bf5ba82ec300bfe"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/uranium_ore.json"
+hash = "695d69b61cbe63cd204ce4316605701278a065ec537cd74a5077e8ef18113013"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid_ignem/cobalt_ore.json"
+hash = "618579fb1779c60be3ebbda73ec58ce797d072e6404f69fb34e4df365aad3383"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/piss.json"
