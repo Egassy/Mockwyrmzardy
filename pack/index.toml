@@ -1266,6 +1266,11 @@ hash = "84eea5e3a2052834d2961bf32d3275debbcc15717cb02cb968dfb4b6e9d0096d"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "aa1d21a567216e1175fa6798671b51d6151cdb4cf35080be280825bc8050398c"
+metafile = true
+
+[[files]]
 file = "mods/classic-pipes.pw.toml"
 hash = "1a50c72685cc5040feb3902830a6b1c68f293322b428cdc1754144d9d97898ef"
 metafile = true
