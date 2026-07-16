@@ -506,7 +506,7 @@ hash = "75280de086daf02000f09c9d2afba551b9bab0491f6e22837d47e383948e50cc"
 
 [[files]]
 file = "config/zeta-common.toml"
-hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+hash = "ffcafa5895ffcfe421140eb9905d1d2466b29d0a4bb17d2f7c50023d733c634c"
 
 [[files]]
 file = "config/zzz_rawr/config.toml"
