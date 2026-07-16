@@ -53,6 +53,10 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
+file = "config/chickensshed-common.toml"
+hash = "b5b9fe22f9a61a02f3fa64edd6c14244a898262190b8866474802c54623d6e60"
+
+[[files]]
 file = "config/configured-client.toml"
 hash = "a823c528792d2fda677b9a05956a8c609b6279386b6b4b840d992fa43b931698"
 
@@ -195,6 +199,10 @@ hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/gamemodeoverhaul-common.toml"
+hash = "e1ab64943104f18c084f897abe90b77b356bbb4e088039a233a9061f37625391"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -531,6 +539,10 @@ hash = "80aba7b0f21329c716cdaabe3d19c7d6ec17dbc74d1a7086534e97a93a5c5c3d"
 [[files]]
 file = "defaultconfigs/etched-server.toml"
 hash = "e5d6bcba84332df82d098023128cc61f03e69ad07d8ee08691055e08cb971ff5"
+
+[[files]]
+file = "defaultconfigs/fastleafdecay-server.toml"
+hash = "16f73487c57e98f5985bc539f17c3f638a7cb7676517ba9cc68eabd823999c1a"
 
 [[files]]
 file = "defaultconfigs/forge-server.toml"
