@@ -14,7 +14,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/WSCommands.toml"
-hash = "122713e75626ba21431e605ae8ac6c43ff89e098a2d8b9f5d2f673b143310007"
+hash = "ffcb2df4f9cc680655bc6c9415c93ed8697e97bf81f67b4a0642489c2919cca4"
 
 [[files]]
 file = "config/appleskin-client.toml"
