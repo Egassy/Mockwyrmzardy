@@ -29,18 +29,6 @@ file = "config/auroras-common.toml"
 hash = "062c8bbf24cdc7d0c5740521a6cc816cc5ae41cb8e77f4f297fc6b7c264cc6ef"
 
 [[files]]
-file = "config/auroras/aether.json"
-hash = "acbe2f7b0f85dd167756b36e83cfc248bfe79a9119c683c258729a07d4808f8e"
-
-[[files]]
-file = "config/auroras/overworld.json"
-hash = "c1de48bdea429b109fae8d632fa78b3b2178e3dcc15404a4943351159fca0ece"
-
-[[files]]
-file = "config/auroras/the_end.json"
-hash = "38d0afc338c07f3143b827cd9bf41a57b0981be91c62b10ee3827b90c20ff473"
-
-[[files]]
 file = "config/botania-client.toml"
 hash = "b30e5c177cec07cda8f332ca645d40d3917fb3e13e0b2f51bf0fc393bf933d92"
 
@@ -1245,11 +1233,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
-metafile = true
-
-[[files]]
-file = "mods/auroras.pw.toml"
-hash = "5a4e2e954240f4575b2f1b0d11d091c9f181f0d9b89861ffb750a0d7a222dbb9"
 metafile = true
 
 [[files]]
