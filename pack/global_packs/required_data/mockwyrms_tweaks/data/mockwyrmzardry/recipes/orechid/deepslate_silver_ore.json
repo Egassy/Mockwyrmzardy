@@ -6,7 +6,7 @@
   },
   "output": {
     "type": "block",
-    "block": "immersiveengineering:deepslate_ore_silver"
+    "block": "caverns_and_chasms:deepslate_silver_ore"
   },
   "weight": 200
 }

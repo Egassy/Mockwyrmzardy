@@ -393,10 +393,10 @@
 		distribution = "TRAPEZOID"
 		#Chance for ores to not generate, if they are exposed to air. 0 means ignoring air exposure, 1 requires being burried.
 		#Range: 0.0 ~ 1.0
-		air_exposure = 0.25
+		air_exposure = 1.0
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 15
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -48

@@ -20,6 +20,14 @@
 	"gravityapi:gravity_anchor_east",
 	"gravityapi:gravity_anchor_west",
 	"gravityapi:gravity_anchor_north",
-	"gravityapi:gravity_anchor_south"
+	"gravityapi:gravity_anchor_south",
+	"immersiveengineering:ore_silver",
+	"immersiveengineering:deepslate_ore_silver",
+	"immersiveengineering:raw_silver",
+	"immersiveengineering:raw_block_silver",
+	"immersiveengineering:ingot_silver",
+	"immersiveengineering:nugget_silver",
+	"immersiveengineering:storage_silver",
+	"immersiveengineering:slab_storage_silver"
   ]
 }

@@ -2,11 +2,11 @@
   "type": "botania:orechid",
   "input": {
     "type": "block",
-    "block": "minecraft:stone"
+    "block": "minecraft:deepslate"
   },
   "output": {
     "type": "block",
-    "block": "caverns_and_chasms:silver_ore"
+    "block": "caverns_and_chasms:deepslate_tin_ore"
   },
-  "weight": 1250
+  "weight": 100
 }

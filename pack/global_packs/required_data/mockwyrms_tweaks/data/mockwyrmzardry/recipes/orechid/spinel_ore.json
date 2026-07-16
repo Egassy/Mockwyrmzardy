@@ -6,7 +6,7 @@
   },
   "output": {
     "type": "block",
-    "block": "caverns_and_chasms:silver_ore"
+    "block": "caverns_and_chasms:spinel_ore"
   },
-  "weight": 1250
+  "weight": 7500
 }

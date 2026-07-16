@@ -8,6 +8,58 @@
       {
         "namespace": "constructionwand",
         "path": "core_destruction"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/nugget_silver_to_ingot_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/ingot_silver_to_nugget_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/nugget_silver_to_ingot_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/ingot_silver_to_storage_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/storage_silver_to_ingot_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/storage_silver_from_slab"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/storage_silver_to_slab"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/raw_block_silver_to_raw_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "crafting/raw_silver_to_raw_block_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "smelting/ingot_silver_from_dust"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "smelting/ingot_silver"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "smelting/ingot_silver2"
+      },
+      {
+        "namespace": "immersiveengineering",
+        "path": "smelting/ingot_silver3"
       }
     ]
   }

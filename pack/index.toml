@@ -234,7 +234,7 @@ hash = "f5c993f0ba50cc988985f42dbe7aeacd2e9e9a7b14d50bd225f63a80d565fbee"
 
 [[files]]
 file = "config/immersiveengineering-common.toml"
-hash = "728dcca3a45c8350e379078da02812cca77acb7e7a2d36011ddf5fe861b29bdb"
+hash = "f0ebfd74a425556b394545112b9ac049a0b20b5933ccf0abe640550d5e15f7ed"
 
 [[files]]
 file = "config/immersivepetroleum-client.toml"
@@ -542,7 +542,7 @@ hash = "f31398656a46b17b9c1191143d46bd89710b967a3a8e28e666fc8ad2c58f376e"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "6a76a94dfe4b731932faa24e9aa05afb561fa631160220ab790bfb7b4e04ae76"
+hash = "6d371087fb203cb90e76117eff43b862c32b884498422de9eee94dfedd034b04"
 
 [[files]]
 file = "defaultconfigs/immersivepetroleum-server.toml"
@@ -670,11 +670,47 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "9a237866dde77a9071d2d5927dd1c2f7b73838acee730620ae7c56cba3437680"
+hash = "1ec69b5e3c067c19bf3c6661179b9167b4e9289b4716650de93cdd5dabd33445"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "22d6afc14d2b6fa37ab2e2143e0e77ce1a1ca14dcd4bd8fc3ef89cdc64f38c1e"
+hash = "316b0cc6d7f04f47e0f242899ffb180820a1be40b152ecd71b73ec20763e4f9c"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"
+hash = "fe9496b30316975ae0d5473056bf0080089075a466ed4722f66d2dc8c8348d95"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver_buried.json"
+hash = "b4a9c229904d74a7a0a38f3808a6dddc95ea4b4e5561cd606f482f5bd3689940"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/placed_feature/ore_silver.json"
+hash = "b84822402abad813d7bf5132bbbc8380e6caafeac432f9cd2bd9ca5ce9038c3b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/ingots/silver.json"
+hash = "314bf15ff2156cfc12f0090e8354a9ef3efe2dda82f312068a9bfd0d8905e717"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/nuggets/silver.json"
+hash = "ef9b38a381ffd72a0f12529204e7f85df5cb2f1ee2af98c1a4e214dd394265df"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/ores/silver.json"
+hash = "0d2d9b8d77a5ac82765f2fc924039471a754186e90b02c48893b3ae34419e42e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/raw_materials/silver.json"
+hash = "d740fea94787247f36f833985ca5d4f08cf8048c0ddc11f0432b50938be3499b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/storage_blocks/raw_silver.json"
+hash = "b5edcda8a9a78afefccbf3379c224048c03f4c5fdd63a1e0517a8b7c547ab439"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/storage_blocks/silver.json"
+hash = "fcc21e8d8369fdd7036ce1b76e28d850b2419a7e6ca5dcaa8ce85ccb48a20bd9"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"
@@ -818,7 +854,15 @@ hash = "8974bb56ff54a8f1670094bfdfea93f21175d49aa0fd4fa18971df24fc6df7f7"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_silver_ore.json"
-hash = "32e25bf79e9f839971549a4ff3c98ac29347daf152af893a301a7ac2710ed24d"
+hash = "6f3e723b34df1b5b12d5c024a4b6d5076697d4ab46909561e146cdc571d9361a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_spinel_ore.json"
+hash = "a7194cf1e14b31614fcdd03ab0f36438084460f22a1fb109593833daa07efec2"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_tin_ore.json"
+hash = "cffcdb080c51e8c0dee651106c2c2fce360a8a3e7b64f29645b33bb395d1cd5f"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_uranium_ore.json"
@@ -842,7 +886,15 @@ hash = "48657bf8ea3f75bad0d5eb312541b07c6a20578e40a2927a3833d9c839dae881"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/silver_ore.json"
-hash = "a203bfbc15686057eff68c1bbff9bfc92293c140f2fa15e10bf5ba82ec300bfe"
+hash = "aa9ff743929ddc6ce1a495b1e800a162393e669a0f403b9cf62e5c56a4f2e271"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/spinel_ore.json"
+hash = "e8c4d4e717bd346e5fcbd1bc620a5a164ce49bc920f43778eff0b4e392990d3e"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/tin_ore.json"
+hash = "190d1ee873b7ae684ff5ab0b4f065a1b8c791f4e5028ad1a65fc703c48b76b05"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/uranium_ore.json"
@@ -1246,6 +1298,11 @@ hash = "2d15a992bf4c96a1c9b1fe810c347c3705a17e0b14c99bebb48b82ab2c6265d7"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "81926d253de0a8ff9520fb51a5b34394a020cd56c2a063e71ce4187d9b33e891"
+metafile = true
+
+[[files]]
 file = "mods/botania-window-box.pw.toml"
 hash = "03d0d62ea319fb2cf80939bbde41922780171fa59af870c019578355cd7fbcc1"
 metafile = true
@@ -1258,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/capable-cauldrons.pw.toml"
 hash = "84eea5e3a2052834d2961bf32d3275debbcc15717cb02cb968dfb4b6e9d0096d"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "131cea9141ce517bb9837b73a73da8d4ef00c470ada9d0f268c94921e02fcbbb"
 metafile = true
 
 [[files]]
