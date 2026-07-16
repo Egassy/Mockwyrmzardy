@@ -1436,6 +1436,11 @@ hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
 metafile = true
 
 [[files]]
+file = "mods/gamemodeoverhaul.pw.toml"
+hash = "e562fa415517ac8d0ddeabb7e5b147dd973775ea444b9aa2b1855e167073df39"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
