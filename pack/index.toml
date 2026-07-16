@@ -874,7 +874,7 @@ hash = "3083d78cee933d639d11b78dc2a2848c09f5147013d648d8eb389653dc0b0f81"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/armor/netherite_plating.json"
-hash = "3fcbb88ba2566660677fb06d2b36aa9f7ca1ac6869b31be0908f4cc72c9b1a2c"
+hash = "7a6cae70ef3b297f8f40e027f3e3dd1e3ed417b3467789befac0d4e29eaa3540"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/environmental/piglin_pacification.json"
@@ -910,7 +910,7 @@ hash = "8331b888f8cca7b571f033d6a03c08f5fe83fa2460b9eaaea464bf41ee7410f5"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/power_fist.json"
-hash = "84889ffe41eb115ae6677a3a9fc2d40d2cacb444998964f86c009658a143ecca"
+hash = "81da2dca26e2a55f8fc978d46d5d521387136eb31444640347ff8224d2dd8625"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_feet.json"
@@ -918,11 +918,11 @@ hash = "16afe379b68c9bba607abc3c5f7ce6f9302639b278cc34a593fc9b7173baea02"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_head.json"
-hash = "e8c007efe763ad24038bc6a026c97473fc1a1938263e1032d043e3ee01a03519"
+hash = "cf7e2d7a3720293f15e6d1af5530f96ccf9e7976e1fe8f879ca8f402054ca069"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_legs.json"
-hash = "3b660a042b0d05ef592b2ae5008d847c64e456011c6392c60f542ac31f098f34"
+hash = "81a0163cd424b6ff23e048bf31fb967ee549621a6e87c7b86e26e61dca164055"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/powerarmor_torso.json"
@@ -938,7 +938,7 @@ hash = "67a4499fffb28ebc8b3134fdac38074fe9ead55de33fa331a7d1b8bfaa964181"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/sync_core.json"
-hash = "684f9e990f6d694ebfc4153375d505d36a04fb0567f8e8650ee6e521f43a821b"
+hash = "d6ba5f3bed64ea44c09c5d6e5b6e891948142a833ee021caf453bb39fc0a2ec6"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/sync/recipes/treadmill.json"
