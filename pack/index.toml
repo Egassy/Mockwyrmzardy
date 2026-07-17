@@ -838,7 +838,7 @@ hash = "570df85af051aef8fb873418f8f08c69c73d3cf943af8fd323986dde6a994d49"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/enchant/veinmining.json"
-hash = "2ecf6c07a76bc0197c69e4cf721e10f88cb75626e96f7a715314ae725090dfe0"
+hash = "26fd0f463bf986426011ae9239167f66fe72b88ab0d6d1e4678f077fa931b2eb"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfertilizer.json"
