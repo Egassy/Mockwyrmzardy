@@ -1424,6 +1424,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/curvy-pipes.pw.toml"
+hash = "53f051e1b69d178bdff1223b9d564fb6393821f1241ff7f7efac6e67f0730002"
+metafile = true
+
+[[files]]
 file = "mods/cyberware-reforged.pw.toml"
 hash = "c18ddbd8fd3edfaeb63bfe4e818a220f1c56e1a4f7e3a1898297b9eb2479914a"
 metafile = true

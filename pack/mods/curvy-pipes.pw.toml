@@ -1,0 +1,13 @@
+name = "Curvy Pipes"
+filename = "curvy_pipes-1.20.1-1.15.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e1aaabddc57b26d8c9bdc77ad42b42955cd1330"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8377993
+project-id = 1151126
