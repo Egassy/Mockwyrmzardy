@@ -1,0 +1,12 @@
+{
+  "type": "botania:orechid",
+  "input": {
+    "type": "block",
+    "block": "minecraft:deepslate"
+  },
+  "output": {
+    "type": "block",
+    "block": "caverns_and_chasms:deepslate_turquoise_ore"
+  },
+  "weight": 12
+}

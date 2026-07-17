@@ -1,0 +1,20 @@
+{
+	"type": "lib39:piston_smashing",
+	"input": { "block": "tconstruct:enderman_head" },
+	"catalysts": { "block": "yttr:yttrium_block" },
+	"cloud": {
+		"color": "#C800FA",
+		"size": 6,
+		"output": { "item": "botania:ender_air_bottle" },
+		"effects": [
+			{
+				"effect": "tconstruct:enderference",
+				"duration": 200
+			},
+			{
+				"effect": "gravityapi:invert",
+				"duration": 100
+			}
+		]
+	}
+}

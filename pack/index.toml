@@ -29,6 +29,14 @@ file = "config/auroras-common.toml"
 hash = "062c8bbf24cdc7d0c5740521a6cc816cc5ae41cb8e77f4f297fc6b7c264cc6ef"
 
 [[files]]
+file = "config/blueprint-client.toml"
+hash = "8fbb7db508c2d5b5d7031e2143f5a4ec2f1656cabdee5b8165e3571160584fea"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "b30e5c177cec07cda8f332ca645d40d3917fb3e13e0b2f51bf0fc393bf933d92"
 
@@ -39,6 +47,14 @@ hash = "07e55bb5645a21e30392969aa5b2f8295a2bba660942cb5afa5b34a21ac65dea"
 [[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/caverns_and_chasms-client.toml"
+hash = "ac4fad73b20151ee9f0de09dcc137310e5dcb44b68164c1d739eb562de848992"
+
+[[files]]
+file = "config/caverns_and_chasms-common.toml"
+hash = "42a7c63f70f2dedaedf2c1adc8e420f3223de945345b808a1d0d55ab8e42f0dd"
 
 [[files]]
 file = "config/chickensshed-common.toml"
@@ -865,6 +881,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "cffcdb080c51e8c0dee651106c2c2fce360a8a3e7b64f29645b33bb395d1cd5f"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_turquoise_ore.json"
+hash = "d46018bd7e7fffd0cf042b6c2b6d5341f3765d9d0ad3cc2ead07b464ee24919d"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/deepslate_uranium_ore.json"
 hash = "31b1f36bb5a9e78ee8351f7cac8fa35e1b08470fcb001fdba2b7293859173ec3"
 
@@ -897,6 +917,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "190d1ee873b7ae684ff5ab0b4f065a1b8c791f4e5028ad1a65fc703c48b76b05"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/turquiose_ore.json"
+hash = "28e60213048687c0f49a51ac6fc928d5cf2d771030f7be56fe00c62f24dbc386"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/orechid/uranium_ore.json"
 hash = "695d69b61cbe63cd204ce4316605701278a065ec537cd74a5077e8ef18113013"
 
@@ -907,6 +931,10 @@ hash = "618579fb1779c60be3ebbda73ec58ce797d072e6404f69fb34e4df365aad3383"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/refinery/piss.json"
 hash = "129cfdc6f3093a609347f0b143d83c9de7f634b44caf39e871c67c6f1e38f1e8"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/smashing/ender_air.json"
+hash = "9a92d30a939106449fe3051d0159e6f605abdb923db00ec9be05e88a3dc8e08a"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/fluids/estrogen.json"
