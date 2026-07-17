@@ -1,0 +1,23 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:enchant",
+  "activation_item": {
+    "item": "minecraft:book"
+  },
+  "craftType": "magic",
+  "soulCost": 4,
+  "duration": 10,
+  "enchantment": "estrogen:uwufy_curse",
+  "xpLevelCost": 2,
+  "ingredients": [
+    {
+      "item": "estrogen:crystal_estrogen_pill"
+    },
+    {
+      "item": "botania:cosmetic_cat_ears"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book"
+  }
+}

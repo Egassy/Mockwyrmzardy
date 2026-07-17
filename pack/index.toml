@@ -833,6 +833,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/enchant/uwu.json"
+hash = "c267eb04b92262c0fd5786a0c2af6b4449aafd80caa31f508b82324365b911ff"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfertilizer.json"
 hash = "d737382bfcfff6a654dfb17975df6bfa20f7997401e17de349ca457b31c1b810"
 
