@@ -1806,6 +1806,11 @@ hash = "1a21f34f66487d6aeb050533a8b77e354a51918a20cf950f3448910ae2804017"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "ac5dedaa9c82fc7424592babcdaca90da784e68c1785e6a58b3153815eca531e"
 metafile = true
