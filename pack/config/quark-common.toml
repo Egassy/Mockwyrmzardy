@@ -277,9 +277,9 @@
 		"Allow Side Connections" = true
 
 	[building.more_stone_variants]
-		"Enable Bricks" = true
-		"Enable Chiseled Bricks" = true
-		"Enable Pillar" = true
+		"Enable Bricks" = false
+		"Enable Chiseled Bricks" = false
+		"Enable Pillar" = false
 
 [management]
 	"Automatic Tool Restock" = false

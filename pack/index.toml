@@ -366,7 +366,7 @@ hash = "90b7d033b6ec89f71ee0285eac98b20e8e5e8aaa8db7494fa1e5f3290f6cb4ad"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a82a982c5c6db5a19559b8a0e82e8110e20855ff467941aa1e57ba58b17f2718"
+hash = "95c991992679e6f4a702ebb603b553166fa4cf41dcb74057d696ba8cbeb55b0e"
 
 [[files]]
 file = "config/quicknick-common.toml"
