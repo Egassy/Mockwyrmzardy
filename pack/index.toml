@@ -790,7 +790,7 @@ hash = "7c03ff70faf355fd5df1f10fa7f38c8197f7dfeca426eda1bcee10d350a8efec"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_foot.json"
-hash = "125b9882be542bd13256349b4004345c85922ee9b547197d06f125002c88c301"
+hash = "c5cb715f70cf8e247850e53e63dfe2a13e650caaa49eb49e89017ade31c0f98c"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_left_hand.json"
@@ -814,7 +814,7 @@ hash = "b07d70848b320a80c96a64f28b9e4f033ae05426b4ac1b305d6c9034c37267f1"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_foot.json"
-hash = "cdf702cde1363ddfadfab1cde402ee98fafdcba64eaba5a08a0f10e729dd9788"
+hash = "125b9882be542bd13256349b4004345c85922ee9b547197d06f125002c88c301"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/decomposing/human_right_hand.json"

@@ -1,7 +1,7 @@
 {
    "type":"biomancy:decomposing",
    "ingredient":{
-      "item":"cyber_ware_port:body_part_foot_right"
+      "item":"cyber_ware_port:body_part_foot_left"
    },
    "nutrientsCost":2,
    "processingTime":16,
