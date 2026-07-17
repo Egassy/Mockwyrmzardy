@@ -10,10 +10,10 @@
 		"H": {
 			"yttr:entity": "minecraft:horse"
 		},
-		"S": {
+		"P": {
 			"tag": "forge:piston"
 		},
-		"G": {
+		"B": {
 			"item": "minecraft:bucket"
 		}
 	},

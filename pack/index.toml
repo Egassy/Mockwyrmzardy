@@ -758,7 +758,7 @@ hash = "13baaad96ae1038c8139107a46f8c244b740860bb4c727d9daf94e382e357211"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/honse.json"
-hash = "a4881198964e2efc315e54bbc44a0914afee63d56ce400e892b3428418b89fd2"
+hash = "c8b99363ae6d917e52a8e580b59ca6996b12d4830f162f79e9d7604388ae107f"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/crafting/thruster_brush.json"
