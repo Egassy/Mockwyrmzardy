@@ -1764,11 +1764,6 @@ hash = "e57e859ea89936329910a05213e4f93e9972bc8c3a767bea031a34041274f72d"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "735935fb0f43b7556f601967421a1c9fac83f402940af1ce5481afb0f8a91363"
-metafile = true
-
-[[files]]
 file = "mods/species.pw.toml"
 hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
 metafile = true
