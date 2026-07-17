@@ -28,6 +28,8 @@
 	"immersiveengineering:ingot_silver",
 	"immersiveengineering:nugget_silver",
 	"immersiveengineering:storage_silver",
-	"immersiveengineering:slab_storage_silver"
+	"immersiveengineering:slab_storage_silver",
+	"immersiveengineering:nugget_copper",
+    "tconstruct:copper_nugget"
   ]
 }

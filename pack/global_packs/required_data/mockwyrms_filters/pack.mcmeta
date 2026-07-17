@@ -60,6 +60,22 @@
       {
         "namespace": "immersiveengineering",
         "path": "smelting/ingot_silver3"
+      },
+	  {
+        "namespace": "immersiveengineering",
+        "path": "crafting/nugget_copper_to_copper_ingot"
+      },
+	  {
+        "namespace": "immersiveengineering",
+        "path": "crafting/copper_ingot_to_nugget_copper"
+      },
+	  {
+        "namespace": "tconstruct",
+        "path": "common/materials/copper_nugget_from_ingot"
+      },
+	  {
+        "namespace": "tconstruct",
+        "path": "common/materials/copper_ingot_from_nuggets"
       }
     ]
   }

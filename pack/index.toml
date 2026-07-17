@@ -686,11 +686,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "1ec69b5e3c067c19bf3c6661179b9167b4e9289b4716650de93cdd5dabd33445"
+hash = "4801fdee265e6deccd251228776ef6039b4aced93e8b8dc653d0128b190a6eed"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "316b0cc6d7f04f47e0f242899ffb180820a1be40b152ecd71b73ec20763e4f9c"
+hash = "903359233a687d22d449b4dab029ffe0f61d2bb16ad6cd12a698c3a0e5b828a6"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"
@@ -707,6 +707,10 @@ hash = "b84822402abad813d7bf5132bbbc8380e6caafeac432f9cd2bd9ca5ce9038c3b"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/ingots/silver.json"
 hash = "314bf15ff2156cfc12f0090e8354a9ef3efe2dda82f312068a9bfd0d8905e717"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/nuggets/copper.json"
+hash = "9de6c3a2afc78aaafec1b893182aa0d260217c6fd0ccd5b11889056a1b897092"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/nuggets/silver.json"
