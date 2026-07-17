@@ -14,3 +14,42 @@
 - Change Sync recipes | Done
 - Make Estrogen a boost item mod if possible | Done (made it gender neutral)
 - Change MPS recipes - more steel, less iron, possibly minor cyberware integration with the computer chip | Done
+- Goety enchant ritual recipes:
+	- biomancy:anesthetic
+	- biomancy:despoil
+	- biomancy:parasitic_metabolism
+	- biomancy:self_feeding
+	- biomancy:surgical_precision
+	- caverns_and_chasms:conceal
+	- caverns_and_chasms:extending
+	- caverns_and_chasms:obscurity
+	- dungeonsdelight:life_grasp
+	- dungeonsdelight:ricochet
+	- dungeonsdelight:serrated_strike
+	- estrogen:uwufy_curse
+	- farmersdelight:backstabbing
+	- goety:absorb
+	- goety:burning
+	- goety:duration
+	- goety:hardy
+	- goety:potency
+	- goety:radius
+	- goety:range
+	- goety:soul_eater
+	- goety:velocity
+	- goety:wanting
+	- mynethersdelight:poaching
+	- species:capacity
+	- species:quick_crank
+	- species:scattershot
+	- species:sparing
+	- twilightforest:chill_aura
+	- twilightforest:destruction
+	- twilightforest:fire_react
+	- veinmining:vein_mining
+	- yttr:annihilation_curse
+	- yttr:disjunction
+	- yttr:shattering_curse
+	- yttr:springing
+	- yttr:stabilization
+	- yttr:vorpal
