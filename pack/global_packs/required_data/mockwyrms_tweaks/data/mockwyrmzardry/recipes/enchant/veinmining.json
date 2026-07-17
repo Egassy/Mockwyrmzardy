@@ -1,0 +1,26 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:enchant",
+  "activation_item": {
+    "item": "minecraft:book"
+  },
+  "craftType": "magic",
+  "soulCost": 15,
+  "duration": 15,
+  "enchantment": "veinmining:vein_mining",
+  "xpLevelCost": 7,
+  "ingredients": [
+    {
+      "item": "minecraft:sculk_vein"
+    },
+    {
+      "tag": "forge:tools:/pickaxes"
+    },
+    {
+      "tag": "c:ores"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book"
+  }
+}

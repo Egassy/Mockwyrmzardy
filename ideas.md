@@ -26,7 +26,7 @@
 	- dungeonsdelight:life_grasp
 	- dungeonsdelight:ricochet
 	- dungeonsdelight:serrated_strike
-	- estrogen:uwufy_curse
+	- estrogen:uwufy_curse | Done
 	- farmersdelight:backstabbing
 	- goety:absorb
 	- goety:burning
@@ -46,7 +46,7 @@
 	- twilightforest:chill_aura
 	- twilightforest:destruction
 	- twilightforest:fire_react
-	- veinmining:vein_mining
+	- veinmining:vein_mining | Done
 	- yttr:annihilation_curse
 	- yttr:disjunction
 	- yttr:shattering_curse
