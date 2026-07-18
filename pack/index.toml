@@ -234,7 +234,7 @@ hash = "e476e324306f23ae4a0d96dc0bcb31873e143157c542499a5169beab042a73e9"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "7b021342b5876aee3c732e47f0daed774d2cfe841c4da98a11ff8eff007105cb"
+hash = "a2dbd8572d03b0829aecd22b4ebaa26e78d027749a5feb6f0f00cc17272d0361"
 
 [[files]]
 file = "config/gravity-api.toml"
