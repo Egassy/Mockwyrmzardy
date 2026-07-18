@@ -686,11 +686,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "4801fdee265e6deccd251228776ef6039b4aced93e8b8dc653d0128b190a6eed"
+hash = "1a6d0617be8adb5f014e1020307b2bee1b2b635ae09d1f2427feb1faf9c20e94"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "903359233a687d22d449b4dab029ffe0f61d2bb16ad6cd12a698c3a0e5b828a6"
+hash = "0c407114c5e3ce87690f3813b1de6670e4b05b0d672000cebb3e6b62aafae871"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"
@@ -703,6 +703,10 @@ hash = "b4a9c229904d74a7a0a38f3808a6dddc95ea4b4e5561cd606f482f5bd3689940"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/placed_feature/ore_silver.json"
 hash = "b84822402abad813d7bf5132bbbc8380e6caafeac432f9cd2bd9ca5ce9038c3b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/expandedstorage/recipes/wood_to_iron_conversion_kit.json"
+hash = "21f828fb6beec4e6156add5b0e7a6dcf3cc02169c53ba8005464ee5900df9ca4"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/ingots/silver.json"
