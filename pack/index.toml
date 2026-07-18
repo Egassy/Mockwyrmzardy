@@ -518,7 +518,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yttr.css"
-hash = "75280de086daf02000f09c9d2afba551b9bab0491f6e22837d47e383948e50cc"
+hash = "93da5bc6a22c004fe50598f82ea83f284d82e6fb8fbeb8abe6b3a4df198f26af"
 
 [[files]]
 file = "config/zeta-common.toml"

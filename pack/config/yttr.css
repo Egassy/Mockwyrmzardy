@@ -199,7 +199,7 @@
 	 *
 	 * Won't destroy existing structures.
 	 */
-	upstrate-retrogen: off;
+	upstrate-retrogen: on;
 	
 	/*
 	 * Generate "Roots of Continuity" on the underside of small End islands.
