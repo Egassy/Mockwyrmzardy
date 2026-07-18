@@ -434,7 +434,7 @@ hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "80bd1cdcd43211fecc77f78af8a4e8bebf10f54bd12b9852020811104d72c0ef"
+hash = "17d2135299c7b656b672b201d5c22cc6a50436991e5736874cf39d8df72bd351"
 
 [[files]]
 file = "config/whaleborne-client.toml"
@@ -951,6 +951,10 @@ hash = "129cfdc6f3093a609347f0b143d83c9de7f634b44caf39e871c67c6f1e38f1e8"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/smashing/ender_air.json"
 hash = "9a92d30a939106449fe3051d0159e6f605abdb923db00ec9be05e88a3dc8e08a"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/blocks/sculkstuff.json"
+hash = "a3b9452fd1b07981e30a6f19e4d9f9fdc65a028b748a51c5c48638e3d0aee37d"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/fluids/estrogen.json"
