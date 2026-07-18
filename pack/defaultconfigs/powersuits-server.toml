@@ -2,7 +2,7 @@
 #General settings
 [General]
 	#Items from other mods to allow as tools in the Power Fist
-	externalToolItems = ["ae2:certus_quartz_wrench", "ae2:entropy_manipulator", "scannable:scanner", "immersiveengineering:hammer", "immersiveengineering:screwdriver", "immersiveengineering:voltmeter", "refinedstorage:wrench", "yttr:spatula", "framedblocks:framed_wrench", "framedblocks:framed_hammer", "framedblocks:framed_screwdrver", "framedblocks:framed_key"]
+	externalToolItems = []
 	#Items from other mods to allow as weapons in the Power Fist
 	externalWeaponItems = []
 	#Maximum flight speed (in m/s)

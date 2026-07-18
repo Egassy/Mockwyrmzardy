@@ -598,7 +598,7 @@ hash = "a4b12b0249477731591cf187ee8aab8ebeb0c5396da5f2714c860c9aa4bef3c2"
 
 [[files]]
 file = "defaultconfigs/powersuits-server.toml"
-hash = "4511e88ce99dc968c69d51a6f6b6ef1cfdf52005f01dcacb5f7ce84943f92700"
+hash = "3d79a3e4692826a1f2365c1735a2e075ac0d42014b4e3f079b8945a305d703b8"
 
 [[files]]
 file = "defaultconfigs/refinedstorage-server.toml"
