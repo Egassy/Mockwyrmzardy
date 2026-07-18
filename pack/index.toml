@@ -969,6 +969,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/flu
 hash = "b01fa4a2af33e1fd176c2d3a60150f5a4d708daaae63ee67ecc354718e60064c"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/tags/items/sculkstuff.json"
+hash = "a3b9452fd1b07981e30a6f19e4d9f9fdc65a028b748a51c5c48638e3d0aee37d"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/numina/recipes/components/computer_chip.json"
 hash = "3083d78cee933d639d11b78dc2a2848c09f5147013d648d8eb389653dc0b0f81"
 
