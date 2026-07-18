@@ -434,7 +434,7 @@ hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "17d2135299c7b656b672b201d5c22cc6a50436991e5736874cf39d8df72bd351"
+hash = "4b250c2d061d4424b821d7f36fdaca3820e746c7466e100cfd0894f53ec4b3f5"
 
 [[files]]
 file = "config/whaleborne-client.toml"
@@ -598,7 +598,7 @@ hash = "a4b12b0249477731591cf187ee8aab8ebeb0c5396da5f2714c860c9aa4bef3c2"
 
 [[files]]
 file = "defaultconfigs/powersuits-server.toml"
-hash = "3d79a3e4692826a1f2365c1735a2e075ac0d42014b4e3f079b8945a305d703b8"
+hash = "b26666e4bca0c96b21dd0af2ca1d8d5f174d420319b1b42a76d05ede5b2b5809"
 
 [[files]]
 file = "defaultconfigs/refinedstorage-server.toml"

@@ -24,10 +24,10 @@
 	#Range: 0.0 ~ 5000.0
 	baseMaxHeatFeet = 5.0
 	#Ore tag list for vein miner module.
-	veinMinerOres = ["forge:ores/iron", "forge:ores/copper", "forge:ores/tin", "forge:ores/lead", "forge:ores/aluminum", "forge:ores/aluminium", "forge:ores/silver", "forge:ores/gold", "forge:ores/cinnabar", "forge:ores/zinc", "forge:ores/uranium", "forge:ores/platinum", "forge:ores/bismuth", "forge:ores/osmium", "forge:ores/coal", "forge:ores/redstone", "minecraft:glowstone", "forge:ores/diamond", "forge:ores/lapis", "forge:ores/quartz", "forge:ores/fluorite"]
+	veinMinerOres = ["c:ores", "forge:ores", "minecraft:glowstone", "forge:obsidian", "minecraft:logs", "mockwyrmzardry:sculkstuff"]
 	#Block registry name whitelist for the vein miner module. 
 	#Use for blocks that don't have an ore tag or to fine tune which blocks to break
-	veinMinerBlocks = []
+	veinMinerBlocks = ["yttr:ash"]
 
 #Model cosmetic settings
 [Cosmetic]
