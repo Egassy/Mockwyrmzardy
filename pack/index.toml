@@ -370,7 +370,7 @@ hash = "95c991992679e6f4a702ebb603b553166fa4cf41dcb74057d696ba8cbeb55b0e"
 
 [[files]]
 file = "config/quicknick-common.toml"
-hash = "45b1fa9760022c774ab8f070ecd872d4d8e2b477213b3a63eb4c3ecdb3b83013"
+hash = "f760b65fba033394a1f73095fb87136f44ac3dab9d6c50b0428a2931ee4ed8e9"
 
 [[files]]
 file = "config/refinedstorage-client.toml"
