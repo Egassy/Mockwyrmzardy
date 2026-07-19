@@ -445,6 +445,10 @@ file = "config/window_box-common.toml"
 hash = "a911be0af3e57379a7ac1a033ba50e335908681b0de82d837ade3c7a883ada61"
 
 [[files]]
+file = "config/wirelesschargers-common.toml"
+hash = "a90eed93edfca01b2525dc6a13d8448e33dae97c84e224a340e6e5e7e5c32cae"
+
+[[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
@@ -975,6 +979,10 @@ hash = "a3b9452fd1b07981e30a6f19e4d9f9fdc65a028b748a51c5c48638e3d0aee37d"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/numina/recipes/components/computer_chip.json"
 hash = "3083d78cee933d639d11b78dc2a2848c09f5147013d648d8eb389653dc0b0f81"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/portality/recipes/frame.json"
+hash = "5308539dcf0ed29e17791e1336d0d0d139e898afcc156c349c7325133ccfeab1"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/powersuits/recipes/modules/armor/netherite_plating.json"
