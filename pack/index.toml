@@ -1790,6 +1790,16 @@ hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b6a895f1b93c2e70488e8b0ae289ef03257bf25d91e5d92211bfaedd54889dde"
+metafile = true
+
+[[files]]
 file = "mods/thaumon.pw.toml"
 hash = "4dcb6364eb099e043d81c42583cf9a8496a97ef32a235a204cf652aaf9e13631"
 metafile = true
@@ -1827,6 +1837,11 @@ metafile = true
 [[files]]
 file = "mods/whaleborne.pw.toml"
 hash = "05880d604f528102a0dd7a3ec2d710bffb54bebb790d1e1832f1ac3508362ab0"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "4d184b134ed0d4c51df0671d9f9cb3a544f4d60f7e732eb4556994c32058b01b"
 metafile = true
 
 [[files]]
