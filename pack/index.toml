@@ -685,6 +685,74 @@ file = "global_packs/required_data/Immersive Melodies Bardcraft Songs/pack.mcmet
 hash = "737c36b381fefb37987cbd204a09d082b52a14bdb411c2f07e3f25bae9b60fab"
 
 [[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_aluminum.json"
+hash = "1a4600b5a9fd3d57efae2e939e7b76a0608e32786c1fc4d415e7f726ba071763"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_copper.json"
+hash = "a572d84c8114d0a05aa40e1f806dd8d60e9d90db1cd59befdf617c86125cf417"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_gold.json"
+hash = "cabd1bc50168be496f3059646e2d51d1639bc62c92e5eae8ee156645db568f76"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_iron.json"
+hash = "efb76b98a8e9e9cca77cce3a5577029fb14d439eb5e09da9d0f246eb6761e56c"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_lead.json"
+hash = "c58b477243591596d3136427d0dda78fe8d858f6476cd81eb5c36982754dbbd3"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_nickel.json"
+hash = "2ca1b555db892eae72dc95723dd85a2466acc15ae3ef48a6c1c4c3260eb0fab5"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_silver.json"
+hash = "93715d7ea92b50ba323a3336077521bc1b35afb11b0d61b33c3a70193cc0197e"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/arcfurnace/raw_ore_uranium.json"
+hash = "aad5b0a9ad645fdb647acb5ef246414814cc3c113197e4f186ec111770c3a83e"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_aluminum.json"
+hash = "3765b1b684557e8baafbd1d72b42f4b91e3b5dcc65a712a28f3da6552906e09f"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_copper.json"
+hash = "158694a646c43e6b770d48f72de6b7c717d12a54258ce4e7becd4ac840893e9d"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_gold.json"
+hash = "e3e3f907490dc756830452aad188e4225d4d021b942b6e208f8dbf5fcc19b48f"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_iron.json"
+hash = "a4e4dac07be923d979d7bd1ab0fa4b5e2080c1b4e720d9158cb3b534803d3666"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_lead.json"
+hash = "58e537f62483ea3c9f50f2aaf448b5053abe8e92a4e3670a3f0e4810683f0621"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_nickel.json"
+hash = "99ae398d26d8ec8ba635deb3799be881d4cd017878176757142bcf0d963054f9"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_silver.json"
+hash = "4491c41e85951430df3eb96b1589cd842d21d199ec365f345eb6c6679457806c"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/data/immersiveengineering/recipes/crusher/raw_ore_uranium.json"
+hash = "19ad64bd0cbc6d2a355df99c73c1e611886031dbc9ae1b9f85761388246e94b0"
+
+[[files]]
+file = "global_packs/required_data/iedoubling/pack.mcmeta"
+hash = "7dfb3c1522b3a7c33bd23008a3e26e174ecb897bf10e395122ebd75a3fef319f"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_filters/data/required.document"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
