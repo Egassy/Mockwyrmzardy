@@ -758,7 +758,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "1a6d0617be8adb5f014e1020307b2bee1b2b635ae09d1f2427feb1faf9c20e94"
+hash = "1840375ef591713c16e323daa2c6ca6492604c25b2177e12be4a28e3015e2438"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
@@ -807,6 +807,10 @@ hash = "b5edcda8a9a78afefccbf3379c224048c03f4c5fdd63a1e0517a8b7c547ab439"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/forge/tags/items/storage_blocks/silver.json"
 hash = "fcc21e8d8369fdd7036ce1b76e28d850b2419a7e6ca5dcaa8ce85ccb48a20bd9"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/immersiveengineering/recipes/smelting/silver_ingot_from_dust.json"
+hash = "b86a6d7ebc921e913d9ff7ffb78ac6bec5325bdf393cf8bb136345bee961248c"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json"

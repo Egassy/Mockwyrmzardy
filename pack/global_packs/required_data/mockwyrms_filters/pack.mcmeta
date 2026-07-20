@@ -47,10 +47,6 @@
       },
       {
         "namespace": "immersiveengineering",
-        "path": "smelting/ingot_silver_from_dust"
-      },
-      {
-        "namespace": "immersiveengineering",
         "path": "smelting/ingot_silver"
       },
       {
