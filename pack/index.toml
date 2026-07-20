@@ -1133,6 +1133,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/thaumon/recipes/ancient
 hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/glommable.json"
+hash = "f8c2ef82f6fe36f66011c912971d032c9af683b6abd165cd304667ef0fb0ba2f"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/snareable.json"
 hash = "784218a26bb26e29390f33cefbdbf8dafd29b6457b90136ed610d5889a6b4de0"
 
