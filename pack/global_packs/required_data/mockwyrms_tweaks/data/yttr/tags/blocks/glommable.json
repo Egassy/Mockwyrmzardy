@@ -2,6 +2,8 @@
 	"values": [
 		"#yttr:mundane_inventories",
 		"#yttr:project_tables",
+		"#classicpipes:pipes/item",
+		"#classicpipes:pipes/fluid"
 		"expandedstorage:iron_barrel",
 		"expandedstorage:gold_barrel",
 		"expandedstorage:diamond_barrel",
@@ -45,6 +47,10 @@
 		"expandedstorage:gold_mini_barrel",
 		"expandedstorage:diamond_mini_barrel",
 		"expandedstorage:obsidian_mini_barrel",
-		"expandedstorage:netherite_mini_barrel"
+		"expandedstorage:netherite_mini_barrel",
+		"quark:blackstone_furnace",
+		"quark:deepslate_furnace",
+		"caverns_and_chasms:scatterer",
+		"caverns_and_chasms:splurter"
 	]
 }
