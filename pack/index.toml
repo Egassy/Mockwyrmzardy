@@ -758,11 +758,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "75281f4e15f3ab124aac43084ef1353627215b985a6fd5f92a9311a09fc95673"
+hash = "88b7edc223964a99b682eedda54873bd8e31d8856501501fa104771861815ee5"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "10ebe5ce2768f408fa258e7eaba86cfcca8025c8a0548197c5bc012cff2c9fd4"
+hash = "f6c8e5b464926a36fe7016f0126a36d2154b9b1a42616adbbf9e77bf57767bc5"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"

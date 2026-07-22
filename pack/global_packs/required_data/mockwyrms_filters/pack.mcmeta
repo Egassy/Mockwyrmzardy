@@ -100,6 +100,14 @@
 	  {
         "namespace": "portality",
         "path": "recipes/teleportation_token"
+      },
+	  {
+        "namespace": "window_box",
+        "path": "recipes/petal_apothecary/alfthorne_sapling"
+      },
+	  {
+        "namespace": "window_box",
+        "path": "recipes/petal_apothecary/chthonic_yew_sapling"
       }
     ]
   }
