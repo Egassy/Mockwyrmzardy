@@ -96,6 +96,10 @@
 	  {
         "namespace": "expandedstorage",
         "path": "recipes/copper_to_netherite_conversion_kit"
+      },
+	  {
+        "namespace": "portality",
+        "path": "recipes/teleportation_token"
       }
     ]
   }
