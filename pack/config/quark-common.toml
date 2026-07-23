@@ -1749,7 +1749,7 @@
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
 		"Village Spawn Nerf Distance" = 7000
-		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
+		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman", "cyber_ware_port:cyber_creeper"]
 		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
 	[experimental.overlay_shader]
