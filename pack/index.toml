@@ -1655,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/goety.pw.toml"
-hash = "1e76f9e69b5905a45e99c8c23f49f80c5e13fc2c5e84f415cb5a320b83a0d7fd"
+hash = "272eb9cb3b7503dcf2c0e25bc982fd0b2778c9661d236f100e55bb9caf532280"
 metafile = true
 
 [[files]]
@@ -1700,7 +1700,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
 metafile = true
 
 [[files]]
@@ -1730,7 +1730,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "31451e71608859493539cefe84b738f1ee218fd315a5e7858da9ab7a1aab2d07"
+hash = "133881d2f995195c6751f381b2df6d410b643b61fb7528ef13f657cfacff02e1"
 metafile = true
 
 [[files]]
@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "6207daf586da03a3efabad0462b91999e573d59a71ed9a31d2a68d419003fa77"
+hash = "268d008f0c4cc24ac5582b9d3ab0cd7291553a6977ed60aab5fb323924f4d8d5"
 metafile = true
 
 [[files]]
@@ -1940,17 +1940,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ac5dedaa9c82fc7424592babcdaca90da784e68c1785e6a58b3153815eca531e"
+hash = "f28ffb70c21c93c159fa1035032b8dc28add5c2d60425c2834908d663d4725fc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "af5381e2728bcbb98da9279a9684cf1d2c2c94ebf65996f08a59b38e3302f975"
+hash = "be989728f3a909fd4477bc153708b216cd33b94df099bf76b64213b80d9dc90c"
 metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "c474c308a31ffe42eaf8d38c721b4a94999d485568d204d574088e54055fd37a"
+hash = "fde4f57985e75dc9dd46e7711c2fd899e8fcd0713f5bb982d48aa9fd32544391"
 metafile = true
 
 [[files]]

@@ -1,8 +1,13 @@
-name = "yttr"
-filename = "yttr-9.20.1069.jar"
+name = "Yttr"
+filename = "yttr-9.20.1085.jar"
 side = "both"
 
 [download]
-url = "https://yttr.y2k.diy/builds/dl/yttr-9.20.1069.jar"
-hash-format = "sha256"
-hash = "d9b5c68cfc88652542a8980374313c5875e7b7145a4fae61724583fabae6a67a"
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/mWjqegPA/yttr-9.20.1085.jar"
+hash-format = "sha512"
+hash = "dcf672561d392de17cc08b54efe1373afcea24f5bbdd9d63e335cc0ad68c22199699c537330f4b5b656f19d52ecb94abfba978fddee067db2457426271d50d56"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLrWdGm"
+version = "mWjqegPA"
