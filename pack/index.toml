@@ -94,7 +94,7 @@ hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 
 [[files]]
 file = "config/curios-common.toml"
-hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+hash = "d3841bdb5ac0ad16079670f209cf417ec928979632e5831d935109ac5647b1ab"
 
 [[files]]
 file = "config/curvy_pipes_default.yaml"
@@ -775,6 +775,10 @@ hash = "b4a9c229904d74a7a0a38f3808a6dddc95ea4b4e5561cd606f482f5bd3689940"
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/placed_feature/ore_silver.json"
 hash = "b84822402abad813d7bf5132bbbc8380e6caafeac432f9cd2bd9ca5ce9038c3b"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/curios/tags/items/body.json"
+hash = "4c3cbbf74880e549012313534dc0af1ef190c359bea2d1971503df0a71490049"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/expandedstorage/recipes/wood_to_iron_conversion_kit.json"
