@@ -94,7 +94,7 @@ hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 
 [[files]]
 file = "config/curios-common.toml"
-hash = "d3841bdb5ac0ad16079670f209cf417ec928979632e5831d935109ac5647b1ab"
+hash = "80acfa105951fcd9d5b3ce160378472dfe5be6b2d66b1e1e6454195bdae107c3"
 
 [[files]]
 file = "config/curvy_pipes_default.yaml"
