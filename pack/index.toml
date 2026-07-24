@@ -1918,6 +1918,11 @@ hash = "f85777858504f353965a9a82dd0cb3522663e0813939f40b60ecf2ba415cec4a"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "be5d2bc40fc274ceb8514db1bd66fe76c889d66bcaa192c4ee71f61c10f0e6e2"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
 metafile = true
