@@ -234,7 +234,7 @@ hash = "e476e324306f23ae4a0d96dc0bcb31873e143157c542499a5169beab042a73e9"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "a2dbd8572d03b0829aecd22b4ebaa26e78d027749a5feb6f0f00cc17272d0361"
+hash = "b09a86ba9031940c1c451a618f38910f067ea40346f0f809691419cb5afee5b5"
 
 [[files]]
 file = "config/gravity-api.toml"
@@ -759,6 +759,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
 hash = "88b7edc223964a99b682eedda54873bd8e31d8856501501fa104771861815ee5"
+
+[[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/botania/recipes/light_relay.json"
+hash = "956b0e3b78b149d29598d300be6a3e0756ad9d5d748407196aa74c9b9ed09140"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"

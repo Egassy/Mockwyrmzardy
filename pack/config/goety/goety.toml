@@ -141,7 +141,7 @@
 	#Range: > 0
 	lichHealSeconds = 1
 	#Enable to make Liches 85% more resistant to Magic Attacks, Default: false
-	lichMagicResist = false
+	lichMagicResist = true
 	#Whether players lose their lichdom if they don't have enough Soul Energy to revive, Default: false
 	lichNoSERemove = false
 	#If Liches bare-handed attacks inflicts negative effects, Default: true
