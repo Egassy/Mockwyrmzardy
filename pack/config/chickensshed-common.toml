@@ -8,4 +8,5 @@ dropChance = 26000
 [mobDrops]
 	"minecraft:chicken" = "minecraft:feather"
 	"twilightforest:raven" = "twilightforest:raven_feather"
+	"minecraft:ghast" = "minecraft:ghast_tear"
 

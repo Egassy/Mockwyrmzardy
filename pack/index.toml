@@ -58,7 +58,7 @@ hash = "42a7c63f70f2dedaedf2c1adc8e420f3223de945345b808a1d0d55ab8e42f0dd"
 
 [[files]]
 file = "config/chickensshed-common.toml"
-hash = "b5b9fe22f9a61a02f3fa64edd6c14244a898262190b8866474802c54623d6e60"
+hash = "6c09221ffdb52e9c4fc35c4fa50aa97a3b6cacb35a40aab3c0d85ac94b4bab9d"
 
 [[files]]
 file = "config/configured-client.toml"
