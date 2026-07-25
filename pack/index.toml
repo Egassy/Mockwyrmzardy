@@ -1146,7 +1146,7 @@ hash = "5b6c087e17cb93f0674d78fab25d41242a11e8821447e540f2ff7aa248bf2ca6"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/glommable.json"
-hash = "59b7d752634d41069670e23527fffea8a24f8ba69d7d4a4355368b7c328d5733"
+hash = "1ce5fa70fb1819fb0b86270cfd48012861334e9d58e89d51d91693da5a282838"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/yttr/tags/blocks/snareable.json"
