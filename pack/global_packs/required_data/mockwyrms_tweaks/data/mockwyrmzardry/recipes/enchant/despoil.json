@@ -1,0 +1,32 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:enchant",
+  "activation_item": {
+    "item": "minecraft:book"
+  },
+  "craftType": "magic",
+  "soulCost": 15,
+  "duration": 15,
+  "enchantment": "biomancy:despoil",
+  "xpLevelCost": 7,
+  "ingredients": [
+    {
+      "item": "biomancy:despoil_sickle"
+    },
+    {
+      "item": "biomancy:exotic_dust"
+    },
+	{
+      "item": "biomancy:exotic_dust"
+    },
+	{
+      "item": "biomancy:exotic_dust"
+    },
+    {
+      "item": "biomancy:exotic_dust"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book"
+  }
+}

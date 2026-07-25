@@ -921,6 +921,10 @@ file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/
 hash = "491f0a791dd8fe929dd8399ba43a2b83bb0fff80b2d674c2b7da67304ec768fe"
 
 [[files]]
+file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/enchant/despoil.json"
+hash = "972d2e894492a51093faaf57bb35f401932951ced40471d3a5959dba8f0ea26f"
+
+[[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/enchant/uwu.json"
 hash = "570df85af051aef8fb873418f8f08c69c73d3cf943af8fd323986dde6a994d49"
 
