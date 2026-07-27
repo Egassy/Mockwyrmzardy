@@ -938,7 +938,7 @@ hash = "26fd0f463bf986426011ae9239167f66fe72b88ab0d6d1e4678f077fa931b2eb"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfertilizer.json"
-hash = "d737382bfcfff6a654dfb17975df6bfa20f7997401e17de349ca457b31c1b810"
+hash = "fe7c33228f80b0b067fb41590336e5383bb6a1229394eaf77e4820c67ddc206f"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/mockwyrmzardry/recipes/mixer/hormormonfluid.json"
