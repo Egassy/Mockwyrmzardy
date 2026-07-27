@@ -758,7 +758,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_filters/pack.mcmeta"
-hash = "88b7edc223964a99b682eedda54873bd8e31d8856501501fa104771861815ee5"
+hash = "ff620dc7555182b0435dddd84c275d7d29858a5311629fdce036f7f7cc782a61"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/botania/recipes/light_relay.json"
@@ -766,7 +766,7 @@ hash = "956b0e3b78b149d29598d300be6a3e0756ad9d5d748407196aa74c9b9ed09140"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "f6c8e5b464926a36fe7016f0126a36d2154b9b1a42616adbbf9e77bf57767bc5"
+hash = "925bc36a6556c0bb7600759ceb6021722560ed96ddbfb38cf1e2c7d7a4b70856"
 
 [[files]]
 file = "global_packs/required_data/mockwyrms_tweaks/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"

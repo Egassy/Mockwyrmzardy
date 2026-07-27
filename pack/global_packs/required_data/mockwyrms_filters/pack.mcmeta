@@ -108,6 +108,10 @@
 	  {
         "namespace": "window_box",
         "path": "recipes/petal_apothecary/chthonic_yew_sapling"
+      },
+	  {
+        "namespace": "species",
+        "path": "recipes/wicked_dope"
       }
     ]
   }
